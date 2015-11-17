@@ -1,0 +1,4605 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<id>1</id>
+	<word>à</word>
+	<type>prép.</type>
+	<mean>在</mean>
+</RECORD>
+<RECORD>
+	<id>2</id>
+	<word>abord(d')</word>
+	<type>loc.adv.</type>
+	<mean>首先</mean>
+</RECORD>
+<RECORD>
+	<id>3</id>
+	<word>accrocher</word>
+	<type>v.t.</type>
+	<mean>挂上，钩住</mean>
+</RECORD>
+<RECORD>
+	<id>4</id>
+	<word>admirer</word>
+	<type>v.t.</type>
+	<mean>欣赏</mean>
+</RECORD>
+<RECORD>
+	<id>5</id>
+	<word>adorer</word>
+	<type>v.t.</type>
+	<mean>喜爱</mean>
+</RECORD>
+<RECORD>
+	<id>6</id>
+	<word>affaires</word>
+	<type>f.pl.</type>
+	<mean>日用物品，衣服</mean>
+</RECORD>
+<RECORD>
+	<id>7</id>
+	<word>âge</word>
+	<type>m.</type>
+	<mean>年龄</mean>
+</RECORD>
+<RECORD>
+	<id>8</id>
+	<word>agréable</word>
+	<type>a.</type>
+	<mean>舒适的，愉快的</mean>
+</RECORD>
+<RECORD>
+	<id>9</id>
+	<word>ah</word>
+	<type>interj.</type>
+	<mean>啊！</mean>
+</RECORD>
+<RECORD>
+	<id>10</id>
+	<word>aider</word>
+	<type>v.t.</type>
+	<mean>帮助</mean>
+</RECORD>
+<RECORD>
+	<id>11</id>
+	<word>aimer</word>
+	<type>v.t.</type>
+	<mean>爱，喜欢</mean>
+</RECORD>
+<RECORD>
+	<id>12</id>
+	<word>ainsi</word>
+	<type>adv.</type>
+	<mean>如此</mean>
+</RECORD>
+<RECORD>
+	<id>13</id>
+	<word>air</word>
+	<type>m.</type>
+	<mean>举止，神情</mean>
+</RECORD>
+<RECORD>
+	<id>14</id>
+	<word>avoir l'air(+adj.)</word>
+	<type></type>
+	<mean>好像，仿佛</mean>
+</RECORD>
+<RECORD>
+	<id>15</id>
+	<word>aise</word>
+	<type>f.pl.</type>
+	<mean>舒服，适意</mean>
+</RECORD>
+<RECORD>
+	<id>16</id>
+	<word>à l'aise</word>
+	<type>loc.adv.</type>
+	<mean>自在，不拘束</mean>
+</RECORD>
+<RECORD>
+	<id>17</id>
+	<word>ajouter</word>
+	<type>v.t.</type>
+	<mean>增加，补充说</mean>
+</RECORD>
+<RECORD>
+	<id>18</id>
+	<word>aller</word>
+	<type>v.i.</type>
+	<mean>去</mean>
+</RECORD>
+<RECORD>
+	<id>19</id>
+	<word>ça va</word>
+	<type></type>
+	<mean>行，好</mean>
+</RECORD>
+<RECORD>
+	<id>20</id>
+	<word>Comment allez-vous?</word>
+	<type></type>
+	<mean>你身体好吗？</mean>
+</RECORD>
+<RECORD>
+	<id>21</id>
+	<word>aller à,dans…</word>
+	<type></type>
+	<mean>去…</mean>
+</RECORD>
+<RECORD>
+	<id>22</id>
+	<word>aller faire qch.</word>
+	<type></type>
+	<mean>去干某事，将干某事</mean>
+</RECORD>
+<RECORD>
+	<id>23</id>
+	<word>allô</word>
+	<type>interj.</type>
+	<mean>喂</mean>
+</RECORD>
+<RECORD>
+	<id>24</id>
+	<word>allumer</word>
+	<type>v.t.</type>
+	<mean>点燃</mean>
+</RECORD>
+<RECORD>
+	<id>25</id>
+	<word>alors</word>
+	<type>adv.</type>
+	<mean>那么</mean>
+</RECORD>
+<RECORD>
+	<id>26</id>
+	<word>ami,-e</word>
+	<type>n.</type>
+	<mean>朋友</mean>
+</RECORD>
+<RECORD>
+	<id>27</id>
+	<word>an</word>
+	<type>m.</type>
+	<mean>一年，一岁</mean>
+</RECORD>
+<RECORD>
+	<id>28</id>
+	<word>Nouvel An</word>
+	<type></type>
+	<mean>新年</mean>
+</RECORD>
+<RECORD>
+	<id>29</id>
+	<word>ancien,-ne</word>
+	<type>a.</type>
+	<mean>旧的</mean>
+</RECORD>
+<RECORD>
+	<id>30</id>
+	<word>année</word>
+	<type>f.  </type>
+	<mean>年</mean>
+</RECORD>
+<RECORD>
+	<id>31</id>
+	<word>annoncer</word>
+	<type>v.t.</type>
+	<mean>宣布</mean>
+</RECORD>
+<RECORD>
+	<id>32</id>
+	<word>appareil</word>
+	<type>m.</type>
+	<mean>仪器；电话机</mean>
+</RECORD>
+<RECORD>
+	<id>33</id>
+	<word>appartement</word>
+	<type>m.</type>
+	<mean>成套房间</mean>
+</RECORD>
+<RECORD>
+	<id>34</id>
+	<word>appeler</word>
+	<type>v.t.</type>
+	<mean>呼唤</mean>
+</RECORD>
+<RECORD>
+	<id>35</id>
+	<word>s'appeler</word>
+	<type>v.pr.</type>
+	<mean>名叫</mean>
+</RECORD>
+<RECORD>
+	<id>36</id>
+	<word>appétit</word>
+	<type>m.</type>
+	<mean>食欲，胃口</mean>
+</RECORD>
+<RECORD>
+	<id>37</id>
+	<word>avoir de l'appétit</word>
+	<type></type>
+	<mean>有胃口</mean>
+</RECORD>
+<RECORD>
+	<id>38</id>
+	<word>apporter</word>
+	<type>v.t.</type>
+	<mean>带来，拿来</mean>
+</RECORD>
+<RECORD>
+	<id>39</id>
+	<word>apprendre</word>
+	<type>v.t.</type>
+	<mean>学习</mean>
+</RECORD>
+<RECORD>
+	<id>40</id>
+	<word>après</word>
+	<type>prép.et adv.</type>
+	<mean>在…以后；以后</mean>
+</RECORD>
+<RECORD>
+	<id>41</id>
+	<word>d'après</word>
+	<type>loc.prép</type>
+	<mean>根据</mean>
+</RECORD>
+<RECORD>
+	<id>42</id>
+	<word>après-midi</word>
+	<type>m.</type>
+	<mean>下午</mean>
+</RECORD>
+<RECORD>
+	<id>43</id>
+	<word>arbre</word>
+	<type>m.</type>
+	<mean>树</mean>
+</RECORD>
+<RECORD>
+	<id>44</id>
+	<word>argent</word>
+	<type>m.</type>
+	<mean>银/钱</mean>
+</RECORD>
+<RECORD>
+	<id>45</id>
+	<word>armoire</word>
+	<type>f.</type>
+	<mean>衣橱</mean>
+</RECORD>
+<RECORD>
+	<id>46</id>
+	<word>arranger</word>
+	<type>v.t.</type>
+	<mean>安排</mean>
+</RECORD>
+<RECORD>
+	<id>47</id>
+	<word>s'arranger</word>
+	<type>v.pr.</type>
+	<mean>安排</mean>
+</RECORD>
+<RECORD>
+	<id>48</id>
+	<word>arrivée</word>
+	<type>f.</type>
+	<mean>到达</mean>
+</RECORD>
+<RECORD>
+	<id>49</id>
+	<word>arriver</word>
+	<type>v.i.</type>
+	<mean>到达</mean>
+</RECORD>
+<RECORD>
+	<id>50</id>
+	<word>art</word>
+	<type>m.</type>
+	<mean>艺术</mean>
+</RECORD>
+<RECORD>
+	<id>51</id>
+	<word>les beaux arts</word>
+	<type></type>
+	<mean>美术</mean>
+</RECORD>
+<RECORD>
+	<id>52</id>
+	<word>asseoir(s')</word>
+	<type>v.pr.</type>
+	<mean>坐下</mean>
+</RECORD>
+<RECORD>
+	<id>53</id>
+	<word>assez</word>
+	<type>adv.</type>
+	<mean>足够</mean>
+</RECORD>
+<RECORD>
+	<id>54</id>
+	<word>assiette</word>
+	<type>f.</type>
+	<mean>盘，碟</mean>
+</RECORD>
+<RECORD>
+	<id>55</id>
+	<word>association</word>
+	<type>f.</type>
+	<mean>协会</mean>
+</RECORD>
+<RECORD>
+	<id>56</id>
+	<word>attendre</word>
+	<type>v.t.</type>
+	<mean>等待</mean>
+</RECORD>
+<RECORD>
+	<id>57</id>
+	<word>attente</word>
+	<type>f.</type>
+	<mean>等侍</mean>
+</RECORD>
+<RECORD>
+	<id>58</id>
+	<word>attentif,-ve</word>
+	<type>a.</type>
+	<mean>专心的</mean>
+</RECORD>
+<RECORD>
+	<id>59</id>
+	<word>aujourd'hui</word>
+	<type>adv.</type>
+	<mean>今天</mean>
+</RECORD>
+<RECORD>
+	<id>60</id>
+	<word>aussi</word>
+	<type>adv.</type>
+	<mean>也</mean>
+</RECORD>
+<RECORD>
+	<id>61</id>
+	<word>autobus</word>
+	<type>m.</type>
+	<mean>公共汽车</mean>
+</RECORD>
+<RECORD>
+	<id>62</id>
+	<word>automne</word>
+	<type>m.</type>
+	<mean>秋</mean>
+</RECORD>
+<RECORD>
+	<id>63</id>
+	<word>autour de</word>
+	<type>loc.prép</type>
+	<mean>在…周围</mean>
+</RECORD>
+<RECORD>
+	<id>64</id>
+	<word>autre</word>
+	<type>a.</type>
+	<mean>另外的，其他的</mean>
+</RECORD>
+<RECORD>
+	<id>65</id>
+	<word>avant</word>
+	<type>prép.</type>
+	<mean>在…以前</mean>
+</RECORD>
+<RECORD>
+	<id>66</id>
+	<word>avant de (faire qch)</word>
+	<type></type>
+	<mean>在（做某事）以前</mean>
+</RECORD>
+<RECORD>
+	<id>67</id>
+	<word>avec</word>
+	<type>prép.</type>
+	<mean>与…一起</mean>
+</RECORD>
+<RECORD>
+	<id>68</id>
+	<word>avis</word>
+	<type>m.</type>
+	<mean>意见</mean>
+</RECORD>
+<RECORD>
+	<id>69</id>
+	<word>à mon(ton)avis</word>
+	<type></type>
+	<mean>依我（你）看</mean>
+</RECORD>
+<RECORD>
+	<id>70</id>
+	<word>avoir </word>
+	<type>v.t.</type>
+	<mean>有</mean>
+</RECORD>
+<RECORD>
+	<id>71</id>
+	<word>avril</word>
+	<type>m.</type>
+	<mean>四月</mean>
+</RECORD>
+<RECORD>
+	<id>72</id>
+	<word>bagages</word>
+	<type>m.pl.</type>
+	<mean>行李</mean>
+</RECORD>
+<RECORD>
+	<id>73</id>
+	<word>baguette</word>
+	<type>f.</type>
+	<mean>小棒 长棍面包</mean>
+</RECORD>
+<RECORD>
+	<id>74</id>
+	<word>des baguettes</word>
+	<type></type>
+	<mean>筷子</mean>
+</RECORD>
+<RECORD>
+	<id>75</id>
+	<word>bain</word>
+	<type>m.</type>
+	<mean>洗澡</mean>
+</RECORD>
+<RECORD>
+	<id>76</id>
+	<word>salle de bains</word>
+	<type></type>
+	<mean>洗澡间</mean>
+</RECORD>
+<RECORD>
+	<id>77</id>
+	<word>ballon</word>
+	<type>m.</type>
+	<mean>球</mean>
+</RECORD>
+<RECORD>
+	<id>78</id>
+	<word>banane</word>
+	<type>f.</type>
+	<mean>香蕉</mean>
+</RECORD>
+<RECORD>
+	<id>79</id>
+	<word>banlieue</word>
+	<type>a.</type>
+	<mean>郊区</mean>
+</RECORD>
+<RECORD>
+	<id>80</id>
+	<word>barque</word>
+	<type>f.</type>
+	<mean>小船</mean>
+</RECORD>
+<RECORD>
+	<id>81</id>
+	<word>bas</word>
+	<type>m.</type>
+	<mean>下部</mean>
+</RECORD>
+<RECORD>
+	<id>82</id>
+	<word>en bas</word>
+	<type>loc.adv.</type>
+	<mean>在下面</mean>
+</RECORD>
+<RECORD>
+	<id>83</id>
+	<word>beau(bel,belle)</word>
+	<type>a.</type>
+	<mean>美丽的</mean>
+</RECORD>
+<RECORD>
+	<id>84</id>
+	<word>beaucoup</word>
+	<type>adv.</type>
+	<mean>许多</mean>
+</RECORD>
+<RECORD>
+	<id>85</id>
+	<word>beaucoup de</word>
+	<type>loc.adv.</type>
+	<mean>许多</mean>
+</RECORD>
+<RECORD>
+	<id>86</id>
+	<word>belge</word>
+	<type>a.</type>
+	<mean>比利时的</mean>
+</RECORD>
+<RECORD>
+	<id>87</id>
+	<word>Belge</word>
+	<type>n.</type>
+	<mean>比利时人</mean>
+</RECORD>
+<RECORD>
+	<id>88</id>
+	<word>bibliothèque</word>
+	<type>f.</type>
+	<mean>图书馆</mean>
+</RECORD>
+<RECORD>
+	<id>89</id>
+	<word>bien</word>
+	<type>adv.</type>
+	<mean>好；很；非常</mean>
+</RECORD>
+<RECORD>
+	<id>90</id>
+	<word>bien</word>
+	<type>m.</type>
+	<mean>好处</mean>
+</RECORD>
+<RECORD>
+	<id>91</id>
+	<word>bientôt</word>
+	<type>adv.</type>
+	<mean>马上，不久</mean>
+</RECORD>
+<RECORD>
+	<id>92</id>
+	<word>à bientôt</word>
+	<type>loc.adv.</type>
+	<mean>等一会儿见</mean>
+</RECORD>
+<RECORD>
+	<id>93</id>
+	<word>bleu</word>
+	<type>a.</type>
+	<mean>蓝色的</mean>
+</RECORD>
+<RECORD>
+	<id>94</id>
+	<word>blond</word>
+	<type>a.</type>
+	<mean>金黄色的</mean>
+</RECORD>
+<RECORD>
+	<id>95</id>
+	<word>bœuf</word>
+	<type>m.</type>
+	<mean>牛；牛肉</mean>
+</RECORD>
+<RECORD>
+	<id>96</id>
+	<word>bol</word>
+	<type>m.</type>
+	<mean>碗</mean>
+</RECORD>
+<RECORD>
+	<id>97</id>
+	<word>bon,bonne</word>
+	<type>a.</type>
+	<mean>好的</mean>
+</RECORD>
+<RECORD>
+	<id>98</id>
+	<word>bonjour</word>
+	<type>m.</type>
+	<mean>早上好</mean>
+</RECORD>
+<RECORD>
+	<id>99</id>
+	<word>bord</word>
+	<type>m.</type>
+	<mean>边；岸边</mean>
+</RECORD>
+<RECORD>
+	<id>100</id>
+	<word>au bord de</word>
+	<type>loc.prép</type>
+	<mean>边；岸边</mean>
+</RECORD>
+<RECORD>
+	<id>101</id>
+	<word>Bordeaux</word>
+	<type></type>
+	<mean>波尔多（法国西部城市）</mean>
+</RECORD>
+<RECORD>
+	<id>102</id>
+	<word>bouclé</word>
+	<type>a.</type>
+	<mean>环状的，卷曲的</mean>
+</RECORD>
+<RECORD>
+	<id>103</id>
+	<word>Bouddha</word>
+	<type>m.</type>
+	<mean>佛，释伽牟尼</mean>
+</RECORD>
+<RECORD>
+	<id>104</id>
+	<word>bout</word>
+	<type>m.</type>
+	<mean>末端，尽头</mean>
+</RECORD>
+<RECORD>
+	<id>105</id>
+	<word>bronzé</word>
+	<type>a.</type>
+	<mean>青铜色的；晒黑的</mean>
+</RECORD>
+<RECORD>
+	<id>106</id>
+	<word>brun</word>
+	<type>a.</type>
+	<mean>棕色的</mean>
+</RECORD>
+<RECORD>
+	<id>107</id>
+	<word>buffet</word>
+	<type>m.</type>
+	<mean>碗橱</mean>
+</RECORD>
+<RECORD>
+	<id>108</id>
+	<word>bureau,x</word>
+	<type>m.</type>
+	<mean>办公室；办公桌</mean>
+</RECORD>
+<RECORD>
+	<id>109</id>
+	<word>bureau de poste</word>
+	<type></type>
+	<mean>邮局</mean>
+</RECORD>
+<RECORD>
+	<id>110</id>
+	<word>ça</word>
+	<type>pron.</type>
+	<mean>这个，那个</mean>
+</RECORD>
+<RECORD>
+	<id>111</id>
+	<word>ça va</word>
+	<type></type>
+	<mean>行好？好吗</mean>
+</RECORD>
+<RECORD>
+	<id>112</id>
+	<word>cadeau,-x</word>
+	<type>m.</type>
+	<mean>礼物</mean>
+</RECORD>
+<RECORD>
+	<id>113</id>
+	<word>café</word>
+	<type>m.</type>
+	<mean>咖啡</mean>
+</RECORD>
+<RECORD>
+	<id>114</id>
+	<word>calendrier </word>
+	<type>m.</type>
+	<mean>日历</mean>
+</RECORD>
+<RECORD>
+	<id>115</id>
+	<word>canapé</word>
+	<type>m.</type>
+	<mean>靠背长沙发</mean>
+</RECORD>
+<RECORD>
+	<id>116</id>
+	<word>canoter</word>
+	<type>v.i.</type>
+	<mean>划船</mean>
+</RECORD>
+<RECORD>
+	<id>117</id>
+	<word>cantine</word>
+	<type>f.</type>
+	<mean>食堂，饭厅</mean>
+</RECORD>
+<RECORD>
+	<id>118</id>
+	<word>car(autocar)</word>
+	<type>m.</type>
+	<mean>（英）大型客车</mean>
+</RECORD>
+<RECORD>
+	<id>119</id>
+	<word>carnet</word>
+	<type>m.</type>
+	<mean>小本子</mean>
+</RECORD>
+<RECORD>
+	<id>120</id>
+	<word>carotte</word>
+	<type>f.</type>
+	<mean>胡萝卜</mean>
+</RECORD>
+<RECORD>
+	<id>121</id>
+	<word>carré</word>
+	<type>a.</type>
+	<mean>平方的</mean>
+</RECORD>
+<RECORD>
+	<id>122</id>
+	<word>mètre carré</word>
+	<type></type>
+	<mean>平方米</mean>
+</RECORD>
+<RECORD>
+	<id>123</id>
+	<word>cas</word>
+	<type>m.</type>
+	<mean>情况，场合</mean>
+</RECORD>
+<RECORD>
+	<id>124</id>
+	<word>dans ce cas</word>
+	<type></type>
+	<mean>在这种情况下</mean>
+</RECORD>
+<RECORD>
+	<id>125</id>
+	<word>cassette</word>
+	<type>f.</type>
+	<mean>盒式磁带</mean>
+</RECORD>
+<RECORD>
+	<id>126</id>
+	<word>ce</word>
+	<type>pron.</type>
+	<mean>这，那</mean>
+</RECORD>
+<RECORD>
+	<id>127</id>
+	<word>ce（cette,cet,ces)</word>
+	<type>a.</type>
+	<mean>这个，这些</mean>
+</RECORD>
+<RECORD>
+	<id>128</id>
+	<word>cela</word>
+	<type>pron.</type>
+	<mean>这个，那个</mean>
+</RECORD>
+<RECORD>
+	<id>129</id>
+	<word>cent</word>
+	<type>num.</type>
+	<mean>一百</mean>
+</RECORD>
+<RECORD>
+	<id>130</id>
+	<word>certains</word>
+	<type>pron.ind.</type>
+	<mean>某些人，有些人</mean>
+</RECORD>
+<RECORD>
+	<id>131</id>
+	<word>chaise</word>
+	<type>f.</type>
+	<mean>椅子</mean>
+</RECORD>
+<RECORD>
+	<id>132</id>
+	<word>chambre</word>
+	<type>f.</type>
+	<mean>卧室，寝室</mean>
+</RECORD>
+<RECORD>
+	<id>133</id>
+	<word>chaque</word>
+	<type>a.</type>
+	<mean>每个</mean>
+</RECORD>
+<RECORD>
+	<id>134</id>
+	<word>chargé</word>
+	<type>a.</type>
+	<mean>有负载的，充满的</mean>
+</RECORD>
+<RECORD>
+	<id>135</id>
+	<word>charme</word>
+	<type>m.</type>
+	<mean>魅力</mean>
+</RECORD>
+<RECORD>
+	<id>136</id>
+	<word>chaud</word>
+	<type>a.</type>
+	<mean>热的</mean>
+</RECORD>
+<RECORD>
+	<id>137</id>
+	<word>chaussure</word>
+	<type>f.</type>
+	<mean>鞋</mean>
+</RECORD>
+<RECORD>
+	<id>138</id>
+	<word>chemin</word>
+	<type>m.</type>
+	<mean>路</mean>
+</RECORD>
+<RECORD>
+	<id>139</id>
+	<word>chercher</word>
+	<type>v.t.</type>
+	<mean>寻找</mean>
+</RECORD>
+<RECORD>
+	<id>140</id>
+	<word>cheveu,x</word>
+	<type>m.</type>
+	<mean>头发</mean>
+</RECORD>
+<RECORD>
+	<id>141</id>
+	<word>chez</word>
+	<type>prép.</type>
+	<mean>在…家里</mean>
+</RECORD>
+<RECORD>
+	<id>142</id>
+	<word>Chine</word>
+	<type>f.</type>
+	<mean>中国</mean>
+</RECORD>
+<RECORD>
+	<id>143</id>
+	<word>chinois</word>
+	<type>a.et n.</type>
+	<mean>中国的；汉语</mean>
+</RECORD>
+<RECORD>
+	<id>144</id>
+	<word>Chinois</word>
+	<type>n.</type>
+	<mean>中国人</mean>
+</RECORD>
+<RECORD>
+	<id>145</id>
+	<word>cchoisir</word>
+	<type>v.t.</type>
+	<mean>选择，挑选</mean>
+</RECORD>
+<RECORD>
+	<id>146</id>
+	<word>choix</word>
+	<type>m.</type>
+	<mean>选择，挑选</mean>
+</RECORD>
+<RECORD>
+	<id>147</id>
+	<word>chômage</word>
+	<type>m.</type>
+	<mean>失业</mean>
+</RECORD>
+<RECORD>
+	<id>148</id>
+	<word>être au chômage</word>
+	<type></type>
+	<mean>失业</mean>
+</RECORD>
+<RECORD>
+	<id>149</id>
+	<word>chou,-x</word>
+	<type>m.</type>
+	<mean>白菜</mean>
+</RECORD>
+<RECORD>
+	<id>150</id>
+	<word>ciel</word>
+	<type>m.</type>
+	<mean>天空</mean>
+</RECORD>
+<RECORD>
+	<id>151</id>
+	<word>cinq</word>
+	<type>num.</type>
+	<mean>五</mean>
+</RECORD>
+<RECORD>
+	<id>152</id>
+	<word>cinquante</word>
+	<type>num.</type>
+	<mean>五十</mean>
+</RECORD>
+<RECORD>
+	<id>153</id>
+	<word>cité</word>
+	<type>f.</type>
+	<mean>都市 </mean>
+</RECORD>
+<RECORD>
+	<id>154</id>
+	<word>Cité universitaire</word>
+	<type></type>
+	<mean>大学生宿舍区</mean>
+</RECORD>
+<RECORD>
+	<id>155</id>
+	<word>clair</word>
+	<type>a.</type>
+	<mean>明亮的</mean>
+</RECORD>
+<RECORD>
+	<id>156</id>
+	<word>claquer</word>
+	<type>v.i.</type>
+	<mean>发出劈劈啪啪声</mean>
+</RECORD>
+<RECORD>
+	<id>157</id>
+	<word>classe</word>
+	<type>f.</type>
+	<mean>教室</mean>
+</RECORD>
+<RECORD>
+	<id>158</id>
+	<word>coin</word>
+	<type>m.</type>
+	<mean>角落</mean>
+</RECORD>
+<RECORD>
+	<id>159</id>
+	<word>collègue</word>
+	<type>n.</type>
+	<mean>同事</mean>
+</RECORD>
+<RECORD>
+	<id>160</id>
+	<word>colline</word>
+	<type>f.</type>
+	<mean>山丘</mean>
+</RECORD>
+<RECORD>
+	<id>161</id>
+	<word>combien(de)</word>
+	<type>adv.</type>
+	<mean>多少</mean>
+</RECORD>
+<RECORD>
+	<id>162</id>
+	<word>Comme</word>
+	<type>conj.</type>
+	<mean>如同</mean>
+</RECORD>
+<RECORD>
+	<id>163</id>
+	<word>Comme</word>
+	<type>conj.</type>
+	<mean>作为，当作</mean>
+</RECORD>
+<RECORD>
+	<id>164</id>
+	<word>commencement</word>
+	<type>m.</type>
+	<mean>开始</mean>
+</RECORD>
+<RECORD>
+	<id>165</id>
+	<word>commencer</word>
+	<type>v.t.et i.</type>
+	<mean>开始</mean>
+</RECORD>
+<RECORD>
+	<id>166</id>
+	<word>commencer à faire qch.</word>
+	<type></type>
+	<mean>开始做某事</mean>
+</RECORD>
+<RECORD>
+	<id>167</id>
+	<word>Comment </word>
+	<type>adv.</type>
+	<mean>如何，怎样</mean>
+</RECORD>
+<RECORD>
+	<id>168</id>
+	<word>commun,-e</word>
+	<type>a.</type>
+	<mean>共同的；公用的</mean>
+</RECORD>
+<RECORD>
+	<id>169</id>
+	<word>comprendre</word>
+	<type>v.t.</type>
+	<mean>懂；包含</mean>
+</RECORD>
+<RECORD>
+	<id>170</id>
+	<word>conférence</word>
+	<type>f.</type>
+	<mean>报告会</mean>
+</RECORD>
+<RECORD>
+	<id>171</id>
+	<word>congé</word>
+	<type>m.</type>
+	<mean>假期</mean>
+</RECORD>
+<RECORD>
+	<id>172</id>
+	<word>le jour de congé</word>
+	<type></type>
+	<mean>体息日</mean>
+</RECORD>
+<RECORD>
+	<id>173</id>
+	<word>connaître</word>
+	<type>v.t.</type>
+	<mean>认识</mean>
+</RECORD>
+<RECORD>
+	<id>174</id>
+	<word>construction</word>
+	<type>f.</type>
+	<mean>建设</mean>
+</RECORD>
+<RECORD>
+	<id>175</id>
+	<word>convenir(à)</word>
+	<type>v.t.</type>
+	<mean>适合</mean>
+</RECORD>
+<RECORD>
+	<id>176</id>
+	<word>copieux,-se</word>
+	<type>v.t.</type>
+	<mean>丰盛的</mean>
+</RECORD>
+<RECORD>
+	<id>177</id>
+	<word>côté</word>
+	<type>m.</type>
+	<mean>旁，边</mean>
+</RECORD>
+<RECORD>
+	<id>178</id>
+	<word>à côté de</word>
+	<type>loc.prép</type>
+	<mean>在…旁边</mean>
+</RECORD>
+<RECORD>
+	<id>179</id>
+	<word>coucher(se)</word>
+	<type>v.pr.</type>
+	<mean>躺下，睡下</mean>
+</RECORD>
+<RECORD>
+	<id>180</id>
+	<word>couloir</word>
+	<type>m.</type>
+	<mean>走廊，过道</mean>
+</RECORD>
+<RECORD>
+	<id>181</id>
+	<word>cour</word>
+	<type>f.</type>
+	<mean>院子</mean>
+</RECORD>
+<RECORD>
+	<id>182</id>
+	<word>courir</word>
+	<type>v.i.</type>
+	<mean>跑</mean>
+</RECORD>
+<RECORD>
+	<id>183</id>
+	<word>cours</word>
+	<type>m.</type>
+	<mean>课</mean>
+</RECORD>
+<RECORD>
+	<id>184</id>
+	<word>avoir cours</word>
+	<type></type>
+	<mean>有课</mean>
+</RECORD>
+<RECORD>
+	<id>185</id>
+	<word>court</word>
+	<type>a.</type>
+	<mean>短的</mean>
+</RECORD>
+<RECORD>
+	<id>186</id>
+	<word>couvert</word>
+	<type>m.</type>
+	<mean>一副餐具</mean>
+</RECORD>
+<RECORD>
+	<id>187</id>
+	<word>cueillir</word>
+	<type>v.t.</type>
+	<mean>采集</mean>
+</RECORD>
+<RECORD>
+	<id>188</id>
+	<word>cuisine</word>
+	<type>f.</type>
+	<mean>厨房；烹调</mean>
+</RECORD>
+<RECORD>
+	<id>189</id>
+	<word>culture</word>
+	<type>f.</type>
+	<mean>文化</mean>
+</RECORD>
+<RECORD>
+	<id>190</id>
+	<word>dame</word>
+	<type>f.</type>
+	<mean>夫人，太太</mean>
+</RECORD>
+<RECORD>
+	<id>191</id>
+	<word>dans </word>
+	<type>prép</type>
+	<mean>在…里</mean>
+</RECORD>
+<RECORD>
+	<id>192</id>
+	<word>de</word>
+	<type>prép</type>
+	<mean></mean>
+</RECORD>
+<RECORD>
+	<id>193</id>
+	<word>décembre</word>
+	<type>m.</type>
+	<mean>十二月</mean>
+</RECORD>
+<RECORD>
+	<id>194</id>
+	<word>décorer</word>
+	<type>v.t.</type>
+	<mean>装饰</mean>
+</RECORD>
+<RECORD>
+	<id>195</id>
+	<word>déjà</word>
+	<type>adv.</type>
+	<mean>已经</mean>
+</RECORD>
+<RECORD>
+	<id>196</id>
+	<word>déjeuner</word>
+	<type>m.</type>
+	<mean>午餐</mean>
+</RECORD>
+<RECORD>
+	<id>197</id>
+	<word>déjeuner</word>
+	<type>v.i.</type>
+	<mean>吃午饭</mean>
+</RECORD>
+<RECORD>
+	<id>198</id>
+	<word>délicieux,-se</word>
+	<type>a.</type>
+	<mean>鲜美的，可口的</mean>
+</RECORD>
+<RECORD>
+	<id>199</id>
+	<word>demain</word>
+	<type>adv.</type>
+	<mean>明天</mean>
+</RECORD>
+<RECORD>
+	<id>200</id>
+	<word>demander</word>
+	<type>v.t.</type>
+	<mean>要求</mean>
+</RECORD>
+<RECORD>
+	<id>201</id>
+	<word>demi</word>
+	<type>a.</type>
+	<mean>一半</mean>
+</RECORD>
+<RECORD>
+	<id>202</id>
+	<word>départ</word>
+	<type>m.</type>
+	<mean>出发，动身</mean>
+</RECORD>
+<RECORD>
+	<id>203</id>
+	<word>dépêcher(se)</word>
+	<type>v.pr.</type>
+	<mean>赶快</mean>
+</RECORD>
+<RECORD>
+	<id>204</id>
+	<word>dépendre</word>
+	<type>v.i.</type>
+	<mean>依赖于，取决于</mean>
+</RECORD>
+<RECORD>
+	<id>205</id>
+	<word>ça dépend(de)</word>
+	<type></type>
+	<mean>取决于</mean>
+</RECORD>
+<RECORD>
+	<id>206</id>
+	<word>dernier,-ère</word>
+	<type>a.</type>
+	<mean>最后的</mean>
+</RECORD>
+<RECORD>
+	<id>207</id>
+	<word>des </word>
+	<type>art.</type>
+	<mean>一些</mean>
+</RECORD>
+<RECORD>
+	<id>208</id>
+	<word>dès</word>
+	<type>prép</type>
+	<mean>从…（时间、地点）起</mean>
+</RECORD>
+<RECORD>
+	<id>209</id>
+	<word>descendre</word>
+	<type>v.i.</type>
+	<mean>下去</mean>
+</RECORD>
+<RECORD>
+	<id>210</id>
+	<word>description</word>
+	<type>f.</type>
+	<mean>描写</mean>
+</RECORD>
+<RECORD>
+	<id>211</id>
+	<word>désolé</word>
+	<type>a.</type>
+	<mean>抱歉的</mean>
+</RECORD>
+<RECORD>
+	<id>212</id>
+	<word>détester</word>
+	<type>v.t.</type>
+	<mean>讨厌、厌恶</mean>
+</RECORD>
+<RECORD>
+	<id>213</id>
+	<word>deux</word>
+	<type>num.</type>
+	<mean>二</mean>
+</RECORD>
+<RECORD>
+	<id>214</id>
+	<word>deuxième</word>
+	<type>num.</type>
+	<mean>第二</mean>
+</RECORD>
+<RECORD>
+	<id>215</id>
+	<word>devant</word>
+	<type>prép</type>
+	<mean>在…前面</mean>
+</RECORD>
+<RECORD>
+	<id>216</id>
+	<word>devoir</word>
+	<type>v.t.</type>
+	<mean>应该</mean>
+</RECORD>
+<RECORD>
+	<id>217</id>
+	<word>dialogue</word>
+	<type>m.</type>
+	<mean>对话</mean>
+</RECORD>
+<RECORD>
+	<id>218</id>
+	<word>diapositive(diapo)</word>
+	<type>f.</type>
+	<mean>幻灯片</mean>
+</RECORD>
+<RECORD>
+	<id>219</id>
+	<word>difficile</word>
+	<type>a.</type>
+	<mean>困难的</mean>
+</RECORD>
+<RECORD>
+	<id>220</id>
+	<word>dimanche</word>
+	<type>m.</type>
+	<mean>星期日</mean>
+</RECORD>
+<RECORD>
+	<id>221</id>
+	<word>dîner</word>
+	<type>m.</type>
+	<mean>晚饭</mean>
+</RECORD>
+<RECORD>
+	<id>222</id>
+	<word>dîner</word>
+	<type>v.i.</type>
+	<mean>吃后悔药晚饭</mean>
+</RECORD>
+<RECORD>
+	<id>223</id>
+	<word>dire</word>
+	<type>v.t.</type>
+	<mean>说</mean>
+</RECORD>
+<RECORD>
+	<id>224</id>
+	<word>directeur,-trice</word>
+	<type>n.</type>
+	<mean>主任，经理</mean>
+</RECORD>
+<RECORD>
+	<id>225</id>
+	<word>disparaître</word>
+	<type>v.i.</type>
+	<mean>失踪，消失</mean>
+</RECORD>
+<RECORD>
+	<id>226</id>
+	<word>dix</word>
+	<type>num.</type>
+	<mean>十</mean>
+</RECORD>
+<RECORD>
+	<id>227</id>
+	<word>dix-huit</word>
+	<type>num.</type>
+	<mean>十八</mean>
+</RECORD>
+<RECORD>
+	<id>228</id>
+	<word>dix-neuf</word>
+	<type>num.</type>
+	<mean>十九</mean>
+</RECORD>
+<RECORD>
+	<id>229</id>
+	<word>dix-sept</word>
+	<type>num.</type>
+	<mean>十七</mean>
+</RECORD>
+<RECORD>
+	<id>230</id>
+	<word>donc</word>
+	<type>conj.</type>
+	<mean>那么</mean>
+</RECORD>
+<RECORD>
+	<id>231</id>
+	<word>donner</word>
+	<type>v.t.</type>
+	<mean>给，引起</mean>
+</RECORD>
+<RECORD>
+	<id>232</id>
+	<word>donner sur</word>
+	<type></type>
+	<mean>朝向</mean>
+</RECORD>
+<RECORD>
+	<id>233</id>
+	<word>doucement</word>
+	<type>adv.</type>
+	<mean>慢慢地，冷静一点</mean>
+</RECORD>
+<RECORD>
+	<id>234</id>
+	<word>douche</word>
+	<type>f.</type>
+	<mean>淋浴</mean>
+</RECORD>
+<RECORD>
+	<id>235</id>
+	<word>douze</word>
+	<type>num.</type>
+	<mean>十二</mean>
+</RECORD>
+<RECORD>
+	<id>236</id>
+	<word>droite</word>
+	<type>f.</type>
+	<mean>右边</mean>
+</RECORD>
+<RECORD>
+	<id>237</id>
+	<word>à droite</word>
+	<type>loc.adv.</type>
+	<mean>向右，在右边</mean>
+</RECORD>
+<RECORD>
+	<id>238</id>
+	<word>durer</word>
+	<type>v.i.</type>
+	<mean>延续</mean>
+</RECORD>
+<RECORD>
+	<id>239</id>
+	<word>école</word>
+	<type>f.</type>
+	<mean>学校</mean>
+</RECORD>
+<RECORD>
+	<id>240</id>
+	<word>écouter</word>
+	<type>v.t.</type>
+	<mean>听</mean>
+</RECORD>
+<RECORD>
+	<id>241</id>
+	<word>écrire</word>
+	<type>v.t.</type>
+	<mean>写</mean>
+</RECORD>
+<RECORD>
+	<id>242</id>
+	<word>électrique</word>
+	<type>a.</type>
+	<mean>电的</mean>
+</RECORD>
+<RECORD>
+	<id>243</id>
+	<word>élève</word>
+	<type>n.</type>
+	<mean>学生</mean>
+</RECORD>
+<RECORD>
+	<id>244</id>
+	<word>elle</word>
+	<type>pron</type>
+	<mean>她，它</mean>
+</RECORD>
+<RECORD>
+	<id>245</id>
+	<word>embêté</word>
+	<type>a.</type>
+	<mean>(俗）感到烦恼的</mean>
+</RECORD>
+<RECORD>
+	<id>246</id>
+	<word>emploi</word>
+	<type>m.</type>
+	<mean>使用/用法</mean>
+</RECORD>
+<RECORD>
+	<id>247</id>
+	<word>en</word>
+	<type>prép.</type>
+	<mean>在…（指时间、地点、状态）</mean>
+</RECORD>
+<RECORD>
+	<id>248</id>
+	<word>en</word>
+	<type>pron.</type>
+	<mean></mean>
+</RECORD>
+<RECORD>
+	<id>249</id>
+	<word>encore</word>
+	<type>adv.</type>
+	<mean>还，再，又</mean>
+</RECORD>
+<RECORD>
+	<id>250</id>
+	<word>enfant</word>
+	<type>m.</type>
+	<mean>孩子</mean>
+</RECORD>
+<RECORD>
+	<id>251</id>
+	<word>enregistrement</word>
+	<type>m.</type>
+	<mean>录音</mean>
+</RECORD>
+<RECORD>
+	<id>252</id>
+	<word>ensemble</word>
+	<type>adv.</type>
+	<mean>一起</mean>
+</RECORD>
+<RECORD>
+	<id>253</id>
+	<word>ensuite</word>
+	<type>adv.</type>
+	<mean>然后</mean>
+</RECORD>
+<RECORD>
+	<id>254</id>
+	<word>entendu</word>
+	<type>a.</type>
+	<mean>说好了的，一言为定</mean>
+</RECORD>
+<RECORD>
+	<id>255</id>
+	<word>entre</word>
+	<type>prép</type>
+	<mean>在…之间</mean>
+</RECORD>
+<RECORD>
+	<id>256</id>
+	<word>entrer</word>
+	<type>v.i.</type>
+	<mean>进去</mean>
+</RECORD>
+<RECORD>
+	<id>257</id>
+	<word>envie</word>
+	<type>f.</type>
+	<mean>渴望</mean>
+</RECORD>
+<RECORD>
+	<id>258</id>
+	<word>avoir envie de</word>
+	<type></type>
+	<mean>渴望</mean>
+</RECORD>
+<RECORD>
+	<id>259</id>
+	<word>environ</word>
+	<type>adv.</type>
+	<mean>大约</mean>
+</RECORD>
+<RECORD>
+	<id>260</id>
+	<word>épinards</word>
+	<type>m.pl.</type>
+	<mean>菠菜</mean>
+</RECORD>
+<RECORD>
+	<id>261</id>
+	<word>espagnol</word>
+	<type>a.</type>
+	<mean>西班牙的</mean>
+</RECORD>
+<RECORD>
+	<id>262</id>
+	<word>Espagnol</word>
+	<type>n.</type>
+	<mean>西班牙人</mean>
+</RECORD>
+<RECORD>
+	<id>263</id>
+	<word>espérer</word>
+	<type>v.t.</type>
+	<mean>希望</mean>
+</RECORD>
+<RECORD>
+	<id>264</id>
+	<word>essayer</word>
+	<type>v.t.</type>
+	<mean>试图</mean>
+</RECORD>
+<RECORD>
+	<id>265</id>
+	<word>et</word>
+	<type>conj.</type>
+	<mean>和，以及</mean>
+</RECORD>
+<RECORD>
+	<id>266</id>
+	<word>étage</word>
+	<type>m.</type>
+	<mean>（楼房）层</mean>
+</RECORD>
+<RECORD>
+	<id>267</id>
+	<word>étagère</word>
+	<type>f.</type>
+	<mean>（多层）架子</mean>
+</RECORD>
+<RECORD>
+	<id>268</id>
+	<word>été</word>
+	<type>m.</type>
+	<mean>夏季</mean>
+</RECORD>
+<RECORD>
+	<id>269</id>
+	<word>étranger</word>
+	<type>a.</type>
+	<mean>外国的</mean>
+</RECORD>
+<RECORD>
+	<id>270</id>
+	<word>à l'étranger</word>
+	<type></type>
+	<mean>在外国</mean>
+</RECORD>
+<RECORD>
+	<id>271</id>
+	<word>être </word>
+	<type>v.i.</type>
+	<mean>是</mean>
+</RECORD>
+<RECORD>
+	<id>272</id>
+	<word>étudiant,-e</word>
+	<type>n.</type>
+	<mean>学生</mean>
+</RECORD>
+<RECORD>
+	<id>273</id>
+	<word>étudier</word>
+	<type>v.t.</type>
+	<mean>学习</mean>
+</RECORD>
+<RECORD>
+	<id>274</id>
+	<word>eux,elles</word>
+	<type>pron</type>
+	<mean>他们，她们，它们</mean>
+</RECORD>
+<RECORD>
+	<id>275</id>
+	<word>exact </word>
+	<type>a.</type>
+	<mean>准确的</mean>
+</RECORD>
+<RECORD>
+	<id>276</id>
+	<word>excellent</word>
+	<type>a.</type>
+	<mean>极妙的</mean>
+</RECORD>
+<RECORD>
+	<id>277</id>
+	<word>excursion</word>
+	<type>a.</type>
+	<mean>郊游，远足</mean>
+</RECORD>
+<RECORD>
+	<id>278</id>
+	<word>excuser</word>
+	<type>v.t.</type>
+	<mean>原谅</mean>
+</RECORD>
+<RECORD>
+	<id>279</id>
+	<word>s'excuser</word>
+	<type></type>
+	<mean>请求原谅</mean>
+</RECORD>
+<RECORD>
+	<id>280</id>
+	<word>exemple</word>
+	<type>m.</type>
+	<mean>例子</mean>
+</RECORD>
+<RECORD>
+	<id>281</id>
+	<word>par exemple</word>
+	<type></type>
+	<mean>例如</mean>
+</RECORD>
+<RECORD>
+	<id>282</id>
+	<word>exercice</word>
+	<type>m.</type>
+	<mean>练习</mean>
+</RECORD>
+<RECORD>
+	<id>283</id>
+	<word>expliquer</word>
+	<type>v.t.</type>
+	<mean>解释</mean>
+</RECORD>
+<RECORD>
+	<id>284</id>
+	<word>exposition</word>
+	<type>f.</type>
+	<mean>展览会</mean>
+</RECORD>
+<RECORD>
+	<id>285</id>
+	<word>extérieur</word>
+	<type>m.</type>
+	<mean>外部外面</mean>
+</RECORD>
+<RECORD>
+	<id>286</id>
+	<word>à l'extérieur</word>
+	<type>loc.adv.</type>
+	<mean>在外面</mean>
+</RECORD>
+<RECORD>
+	<id>287</id>
+	<word>facile</word>
+	<type>a.</type>
+	<mean>容易的</mean>
+</RECORD>
+<RECORD>
+	<id>288</id>
+	<word>façon</word>
+	<type>f.</type>
+	<mean>方法</mean>
+</RECORD>
+<RECORD>
+	<id>289</id>
+	<word>faim</word>
+	<type>f.</type>
+	<mean>饥饿</mean>
+</RECORD>
+<RECORD>
+	<id>290</id>
+	<word>faire</word>
+	<type>v.t.</type>
+	<mean>做</mean>
+</RECORD>
+<RECORD>
+	<id>291</id>
+	<word>falloir</word>
+	<type>v.imp</type>
+	<mean>应该</mean>
+</RECORD>
+<RECORD>
+	<id>292</id>
+	<word>famille</word>
+	<type>f.</type>
+	<mean>家庭</mean>
+</RECORD>
+<RECORD>
+	<id>293</id>
+	<word>fatigué</word>
+	<type>a.</type>
+	<mean>疲劳的</mean>
+</RECORD>
+<RECORD>
+	<id>294</id>
+	<word>fauteuil</word>
+	<type>m.</type>
+	<mean>扶手椅</mean>
+</RECORD>
+<RECORD>
+	<id>295</id>
+	<word>femme</word>
+	<type>f.</type>
+	<mean>妇女；妻子</mean>
+</RECORD>
+<RECORD>
+	<id>296</id>
+	<word>fenêtre</word>
+	<type>f.</type>
+	<mean>窗</mean>
+</RECORD>
+<RECORD>
+	<id>297</id>
+	<word>fermeture</word>
+	<type>f.</type>
+	<mean>关闭</mean>
+</RECORD>
+<RECORD>
+	<id>298</id>
+	<word>fête</word>
+	<type>f.</type>
+	<mean>节日</mean>
+</RECORD>
+<RECORD>
+	<id>299</id>
+	<word>fêter</word>
+	<type>v.t.</type>
+	<mean>庆祝</mean>
+</RECORD>
+<RECORD>
+	<id>300</id>
+	<word>feu</word>
+	<type>m.</type>
+	<mean>火</mean>
+</RECORD>
+<RECORD>
+	<id>301</id>
+	<word>feu d'artifice</word>
+	<type></type>
+	<mean>焰火</mean>
+</RECORD>
+<RECORD>
+	<id>302</id>
+	<word>feuille</word>
+	<type>f.</type>
+	<mean>叶子</mean>
+</RECORD>
+<RECORD>
+	<id>303</id>
+	<word>feuille d'arbre</word>
+	<type></type>
+	<mean>树叶</mean>
+</RECORD>
+<RECORD>
+	<id>304</id>
+	<word>février</word>
+	<type>m.</type>
+	<mean>二月</mean>
+</RECORD>
+<RECORD>
+	<id>305</id>
+	<word>fille</word>
+	<type>f.</type>
+	<mean>姑娘</mean>
+</RECORD>
+<RECORD>
+	<id>306</id>
+	<word>fils</word>
+	<type>m.</type>
+	<mean>儿子</mean>
+</RECORD>
+<RECORD>
+	<id>307</id>
+	<word>finir</word>
+	<type>v.t. et i.</type>
+	<mean>结束</mean>
+</RECORD>
+<RECORD>
+	<id>308</id>
+	<word>fleur</word>
+	<type>f.</type>
+	<mean>花</mean>
+</RECORD>
+<RECORD>
+	<id>309</id>
+	<word>fleurir</word>
+	<type>v.i.</type>
+	<mean>开花</mean>
+</RECORD>
+<RECORD>
+	<id>310</id>
+	<word>fois</word>
+	<type>f.</type>
+	<mean>一次</mean>
+</RECORD>
+<RECORD>
+	<id>311</id>
+	<word>former</word>
+	<type>v.t.</type>
+	<mean>培养，训练</mean>
+</RECORD>
+<RECORD>
+	<id>312</id>
+	<word>frais,fraîche</word>
+	<type>a.</type>
+	<mean>新鲜的</mean>
+</RECORD>
+<RECORD>
+	<id>313</id>
+	<word>français</word>
+	<type>a.</type>
+	<mean>法国的</mean>
+</RECORD>
+<RECORD>
+	<id>314</id>
+	<word>Français,-e</word>
+	<type>n.</type>
+	<mean>法国人</mean>
+</RECORD>
+<RECORD>
+	<id>315</id>
+	<word>France</word>
+	<type>f.</type>
+	<mean>法国</mean>
+</RECORD>
+<RECORD>
+	<id>316</id>
+	<word>frère</word>
+	<type>m.</type>
+	<mean>兄弟</mean>
+</RECORD>
+<RECORD>
+	<id>317</id>
+	<word>froid</word>
+	<type>a.</type>
+	<mean>冷的</mean>
+</RECORD>
+<RECORD>
+	<id>318</id>
+	<word>fromage</word>
+	<type>m.</type>
+	<mean>干酪</mean>
+</RECORD>
+<RECORD>
+	<id>319</id>
+	<word>fruit</word>
+	<type>m.</type>
+	<mean>水果</mean>
+</RECORD>
+<RECORD>
+	<id>320</id>
+	<word>galette</word>
+	<type>f.</type>
+	<mean>烧饼，煎饼</mean>
+</RECORD>
+<RECORD>
+	<id>321</id>
+	<word>garçon</word>
+	<type>m.</type>
+	<mean>男孩</mean>
+</RECORD>
+<RECORD>
+	<id>322</id>
+	<word>gare</word>
+	<type>f.</type>
+	<mean>火车站</mean>
+</RECORD>
+<RECORD>
+	<id>323</id>
+	<word>gauche</word>
+	<type>f.</type>
+	<mean>左边</mean>
+</RECORD>
+<RECORD>
+	<id>324</id>
+	<word>à gauche</word>
+	<type>loc.adv.</type>
+	<mean>在左边</mean>
+</RECORD>
+<RECORD>
+	<id>325</id>
+	<word>général</word>
+	<type>a.</type>
+	<mean>总的</mean>
+</RECORD>
+<RECORD>
+	<id>326</id>
+	<word>en général</word>
+	<type>loc.adv.</type>
+	<mean>一般地</mean>
+</RECORD>
+<RECORD>
+	<id>327</id>
+	<word>gens</word>
+	<type>m.pl.</type>
+	<mean>人们</mean>
+</RECORD>
+<RECORD>
+	<id>328</id>
+	<word>grand</word>
+	<type>a.</type>
+	<mean>大的</mean>
+</RECORD>
+<RECORD>
+	<id>329</id>
+	<word>gras,-se</word>
+	<type>a.</type>
+	<mean>肥的，丰富的</mean>
+</RECORD>
+<RECORD>
+	<id>330</id>
+	<word>gris</word>
+	<type>a.</type>
+	<mean>灰色的</mean>
+</RECORD>
+<RECORD>
+	<id>331</id>
+	<word>guirlande</word>
+	<type>f.</type>
+	<mean>（装饰用的）花环</mean>
+</RECORD>
+<RECORD>
+	<id>332</id>
+	<word>gymnastique</word>
+	<type>f.</type>
+	<mean>体操</mean>
+</RECORD>
+<RECORD>
+	<id>333</id>
+	<word>habiter</word>
+	<type>v.i.</type>
+	<mean>居住</mean>
+</RECORD>
+<RECORD>
+	<id>334</id>
+	<word>habitude(d')</word>
+	<type>loc.adv.</type>
+	<mean>通常，经常</mean>
+</RECORD>
+<RECORD>
+	<id>335</id>
+	<word>*haut-parleur</word>
+	<type>m.</type>
+	<mean>扬声器，喇叭</mean>
+</RECORD>
+<RECORD>
+	<id>336</id>
+	<word>heure</word>
+	<type>n.f.</type>
+	<mean>小时；时间</mean>
+</RECORD>
+<RECORD>
+	<id>337</id>
+	<word>à tout à l'heure</word>
+	<type>loc.adv.</type>
+	<mean>等一会儿见</mean>
+</RECORD>
+<RECORD>
+	<id>338</id>
+	<word>de bonne heure</word>
+	<type>loc.adv.</type>
+	<mean>大清早，早</mean>
+</RECORD>
+<RECORD>
+	<id>339</id>
+	<word>hier</word>
+	<type>adv.</type>
+	<mean>昨天</mean>
+</RECORD>
+<RECORD>
+	<id>340</id>
+	<word>hiver</word>
+	<type>m.</type>
+	<mean>冬天</mean>
+</RECORD>
+<RECORD>
+	<id>341</id>
+	<word>homme</word>
+	<type>m.</type>
+	<mean>人，男人</mean>
+</RECORD>
+<RECORD>
+	<id>342</id>
+	<word>hôpital</word>
+	<type>m.</type>
+	<mean>医院</mean>
+</RECORD>
+<RECORD>
+	<id>343</id>
+	<word>hôtel</word>
+	<type>m.</type>
+	<mean>旅馆</mean>
+</RECORD>
+<RECORD>
+	<id>344</id>
+	<word>*huit</word>
+	<type>num.</type>
+	<mean>八</mean>
+</RECORD>
+<RECORD>
+	<id>345</id>
+	<word>ici</word>
+	<type>adv.</type>
+	<mean>这里</mean>
+</RECORD>
+<RECORD>
+	<id>346</id>
+	<word>il</word>
+	<type>pron</type>
+	<mean>他</mean>
+</RECORD>
+<RECORD>
+	<id>347</id>
+	<word>il y a </word>
+	<type>v.imp</type>
+	<mean>有</mean>
+</RECORD>
+<RECORD>
+	<id>348</id>
+	<word>il y a </word>
+	<type></type>
+	<mean>在…以前</mean>
+</RECORD>
+<RECORD>
+	<id>349</id>
+	<word>important</word>
+	<type>a.</type>
+	<mean>重要的</mean>
+</RECORD>
+<RECORD>
+	<id>350</id>
+	<word>ingénieur</word>
+	<type>m.</type>
+	<mean>工程师</mean>
+</RECORD>
+<RECORD>
+	<id>351</id>
+	<word>inquiet,-ète</word>
+	<type>a.</type>
+	<mean>担忧的</mean>
+</RECORD>
+<RECORD>
+	<id>352</id>
+	<word>institut</word>
+	<type>m.</type>
+	<mean>学院</mean>
+</RECORD>
+<RECORD>
+	<id>353</id>
+	<word>intéressant</word>
+	<type>a.</type>
+	<mean>有趣的</mean>
+</RECORD>
+<RECORD>
+	<id>354</id>
+	<word>intéresser</word>
+	<type>v.t.</type>
+	<mean>使…感兴趣</mean>
+</RECORD>
+<RECORD>
+	<id>355</id>
+	<word>invité</word>
+	<type>n.</type>
+	<mean>客人</mean>
+</RECORD>
+<RECORD>
+	<id>356</id>
+	<word>inviter</word>
+	<type>v.t.</type>
+	<mean>邀请</mean>
+</RECORD>
+<RECORD>
+	<id>357</id>
+	<word>jamais</word>
+	<type>adv.</type>
+	<mean>从不</mean>
+</RECORD>
+<RECORD>
+	<id>358</id>
+	<word>janvier</word>
+	<type>m.</type>
+	<mean>一月</mean>
+</RECORD>
+<RECORD>
+	<id>359</id>
+	<word>jardin</word>
+	<type>m.</type>
+	<mean>花园</mean>
+</RECORD>
+<RECORD>
+	<id>360</id>
+	<word>djaunir</word>
+	<type>v.i.</type>
+	<mean>变黄</mean>
+</RECORD>
+<RECORD>
+	<id>361</id>
+	<word>je</word>
+	<type>pron</type>
+	<mean>我</mean>
+</RECORD>
+<RECORD>
+	<id>362</id>
+	<word>jeudi</word>
+	<type>m.</type>
+	<mean>星期四</mean>
+</RECORD>
+<RECORD>
+	<id>363</id>
+	<word>jeune</word>
+	<type>a.</type>
+	<mean>年轻的</mean>
+</RECORD>
+<RECORD>
+	<id>364</id>
+	<word>jouer</word>
+	<type>v.t.</type>
+	<mean>演出</mean>
+</RECORD>
+<RECORD>
+	<id>365</id>
+	<word>jour</word>
+	<type>m.</type>
+	<mean>日了，天，白天</mean>
+</RECORD>
+<RECORD>
+	<id>366</id>
+	<word>journal,aux</word>
+	<type>m.</type>
+	<mean>报刊</mean>
+</RECORD>
+<RECORD>
+	<id>367</id>
+	<word>journée</word>
+	<type>f.</type>
+	<mean>一天，白昼，日了</mean>
+</RECORD>
+<RECORD>
+	<id>368</id>
+	<word>juillet</word>
+	<type>m.</type>
+	<mean>七月</mean>
+</RECORD>
+<RECORD>
+	<id>369</id>
+	<word>juin</word>
+	<type>m.</type>
+	<mean>六月</mean>
+</RECORD>
+<RECORD>
+	<id>370</id>
+	<word>jusque</word>
+	<type>prép.</type>
+	<mean>直到</mean>
+</RECORD>
+<RECORD>
+	<id>371</id>
+	<word>juste</word>
+	<type>adv.</type>
+	<mean>正确地，勉强地</mean>
+</RECORD>
+<RECORD>
+	<id>372</id>
+	<word>la,le,les</word>
+	<type>art.</type>
+	<mean>定冠词</mean>
+</RECORD>
+<RECORD>
+	<id>373</id>
+	<word>là</word>
+	<type>adv.</type>
+	<mean>那儿，这儿</mean>
+</RECORD>
+<RECORD>
+	<id>374</id>
+	<word>là-bas</word>
+	<type></type>
+	<mean>那儿</mean>
+</RECORD>
+<RECORD>
+	<id>375</id>
+	<word>laboratoire(labo)</word>
+	<type>m.</type>
+	<mean>实验室</mean>
+</RECORD>
+<RECORD>
+	<id>376</id>
+	<word>lac</word>
+	<type>m.</type>
+	<mean>湖</mean>
+</RECORD>
+<RECORD>
+	<id>377</id>
+	<word>laisser</word>
+	<type>v.t.</type>
+	<mean>让，任凭</mean>
+</RECORD>
+<RECORD>
+	<id>378</id>
+	<word>langue</word>
+	<type>f.</type>
+	<mean>语言</mean>
+</RECORD>
+<RECORD>
+	<id>379</id>
+	<word>lavabo</word>
+	<type>m.</type>
+	<mean>盥洗室</mean>
+</RECORD>
+<RECORD>
+	<id>380</id>
+	<word>laver(se)</word>
+	<type>v.pr.</type>
+	<mean>洗脸</mean>
+</RECORD>
+<RECORD>
+	<id>381</id>
+	<word>le,la,les</word>
+	<type>pron.</type>
+	<mean>他，她（它）（们）</mean>
+</RECORD>
+<RECORD>
+	<id>382</id>
+	<word>leçon</word>
+	<type>f.</type>
+	<mean>课，功课</mean>
+</RECORD>
+<RECORD>
+	<id>383</id>
+	<word>légumes</word>
+	<type>m.pl.</type>
+	<mean>蔬菜</mean>
+</RECORD>
+<RECORD>
+	<id>384</id>
+	<word>lendemain</word>
+	<type>m.</type>
+	<mean>第二天</mean>
+</RECORD>
+<RECORD>
+	<id>385</id>
+	<word>lentement</word>
+	<type>adv.</type>
+	<mean>慢慢地，冷静一点</mean>
+</RECORD>
+<RECORD>
+	<id>386</id>
+	<word>lettre</word>
+	<type>f.</type>
+	<mean>信</mean>
+</RECORD>
+<RECORD>
+	<id>387</id>
+	<word>leur</word>
+	<type>pron</type>
+	<mean>他（她）们</mean>
+</RECORD>
+<RECORD>
+	<id>388</id>
+	<word>leur,leurs</word>
+	<type>a.poss.</type>
+	<mean>他（她）们的</mean>
+</RECORD>
+<RECORD>
+	<id>389</id>
+	<word>levers(se)</word>
+	<type>v.pr.</type>
+	<mean>起立，起床</mean>
+</RECORD>
+<RECORD>
+	<id>390</id>
+	<word>libre</word>
+	<type>a.</type>
+	<mean>自由的，空闲的</mean>
+</RECORD>
+<RECORD>
+	<id>391</id>
+	<word>linge</word>
+	<type>m.</type>
+	<mean>内衣</mean>
+</RECORD>
+<RECORD>
+	<id>392</id>
+	<word>lire</word>
+	<type>v.t.</type>
+	<mean>读书</mean>
+</RECORD>
+<RECORD>
+	<id>393</id>
+	<word>lit</word>
+	<type>m.</type>
+	<mean>床</mean>
+</RECORD>
+<RECORD>
+	<id>394</id>
+	<word>littérature</word>
+	<type>f.</type>
+	<mean>文学</mean>
+</RECORD>
+<RECORD>
+	<id>395</id>
+	<word>loisir</word>
+	<type>m.pl.</type>
+	<mean>空暇；</mean>
+</RECORD>
+<RECORD>
+	<id>396</id>
+	<word>long,-ue</word>
+	<type>a.</type>
+	<mean>长的</mean>
+</RECORD>
+<RECORD>
+	<id>397</id>
+	<word>longtemps</word>
+	<type>adv.</type>
+	<mean>长久</mean>
+</RECORD>
+<RECORD>
+	<id>398</id>
+	<word>lundi</word>
+	<type>m.</type>
+	<mean>星期一</mean>
+</RECORD>
+<RECORD>
+	<id>399</id>
+	<word>lunaire</word>
+	<type>a.</type>
+	<mean>月亮的</mean>
+</RECORD>
+<RECORD>
+	<id>400</id>
+	<word>madame</word>
+	<type>f.</type>
+	<mean>夫人，太太</mean>
+</RECORD>
+<RECORD>
+	<id>401</id>
+	<word>mademoiselle</word>
+	<type>f.</type>
+	<mean>小姐</mean>
+</RECORD>
+<RECORD>
+	<id>402</id>
+	<word>mai</word>
+	<type>m.</type>
+	<mean>五月</mean>
+</RECORD>
+<RECORD>
+	<id>403</id>
+	<word>main</word>
+	<type>f.</type>
+	<mean>手</mean>
+</RECORD>
+<RECORD>
+	<id>404</id>
+	<word>maintenant</word>
+	<type>adv.</type>
+	<mean>现在</mean>
+</RECORD>
+<RECORD>
+	<id>405</id>
+	<word>mais</word>
+	<type>conj.</type>
+	<mean>但是</mean>
+</RECORD>
+<RECORD>
+	<id>406</id>
+	<word>maision</word>
+	<type>f.</type>
+	<mean>房子；家</mean>
+</RECORD>
+<RECORD>
+	<id>407</id>
+	<word>mal</word>
+	<type>adv.</type>
+	<mean>坏，差</mean>
+</RECORD>
+<RECORD>
+	<id>408</id>
+	<word>malheureusement</word>
+	<type>adv.</type>
+	<mean>不幸地</mean>
+</RECORD>
+<RECORD>
+	<id>409</id>
+	<word>maman</word>
+	<type>f.</type>
+	<mean>妈妈</mean>
+</RECORD>
+<RECORD>
+	<id>410</id>
+	<word>manger</word>
+	<type>v.t.</type>
+	<mean>吃</mean>
+</RECORD>
+<RECORD>
+	<id>411</id>
+	<word>mardi</word>
+	<type>m.</type>
+	<mean>星期二</mean>
+</RECORD>
+<RECORD>
+	<id>412</id>
+	<word>marqué</word>
+	<type>a.</type>
+	<mean>突出的，明显的</mean>
+</RECORD>
+<RECORD>
+	<id>413</id>
+	<word>marron</word>
+	<type>a.inv.</type>
+	<mean>粟色的</mean>
+</RECORD>
+<RECORD>
+	<id>414</id>
+	<word>mars</word>
+	<type>m.</type>
+	<mean>三月</mean>
+</RECORD>
+<RECORD>
+	<id>415</id>
+	<word>Marseille</word>
+	<type></type>
+	<mean>马赛</mean>
+</RECORD>
+<RECORD>
+	<id>416</id>
+	<word>matin</word>
+	<type>m.</type>
+	<mean>早晨，上午</mean>
+</RECORD>
+<RECORD>
+	<id>417</id>
+	<word>matinée</word>
+	<type>f.</type>
+	<mean>上午</mean>
+</RECORD>
+<RECORD>
+	<id>418</id>
+	<word>me</word>
+	<type>pron.</type>
+	<mean>我</mean>
+</RECORD>
+<RECORD>
+	<id>419</id>
+	<word>médecin</word>
+	<type>m.</type>
+	<mean>医生</mean>
+</RECORD>
+<RECORD>
+	<id>420</id>
+	<word>Méditerranée</word>
+	<type>f.</type>
+	<mean>地中海</mean>
+</RECORD>
+<RECORD>
+	<id>421</id>
+	<word>même</word>
+	<type>a.</type>
+	<mean>同样的</mean>
+</RECORD>
+<RECORD>
+	<id>422</id>
+	<word>même</word>
+	<type>adv.</type>
+	<mean>甚至</mean>
+</RECORD>
+<RECORD>
+	<id>423</id>
+	<word>menu</word>
+	<type>m.</type>
+	<mean>菜单</mean>
+</RECORD>
+<RECORD>
+	<id>424</id>
+	<word>merci</word>
+	<type>adv.,interj.</type>
+	<mean>谢谢</mean>
+</RECORD>
+<RECORD>
+	<id>425</id>
+	<word>mercredi</word>
+	<type>m.</type>
+	<mean>星期三</mean>
+</RECORD>
+<RECORD>
+	<id>426</id>
+	<word>mère</word>
+	<type>f.</type>
+	<mean>母亲</mean>
+</RECORD>
+<RECORD>
+	<id>427</id>
+	<word>mesurer</word>
+	<type>v.t.</type>
+	<mean>测量</mean>
+</RECORD>
+<RECORD>
+	<id>428</id>
+	<word>mètre   </word>
+	<type>m.</type>
+	<mean>一米</mean>
+</RECORD>
+<RECORD>
+	<id>429</id>
+	<word>mettre</word>
+	<type>v.t.</type>
+	<mean>放</mean>
+</RECORD>
+<RECORD>
+	<id>430</id>
+	<word>meublé</word>
+	<type>a.</type>
+	<mean>配有家具的</mean>
+</RECORD>
+<RECORD>
+	<id>431</id>
+	<word>midi</word>
+	<type>m.</type>
+	<mean>中午十二点</mean>
+</RECORD>
+<RECORD>
+	<id>432</id>
+	<word>Midi(le)</word>
+	<type>m.</type>
+	<mean>法国南方</mean>
+</RECORD>
+<RECORD>
+	<id>433</id>
+	<word>mignon,-ne</word>
+	<type>a.</type>
+	<mean>娇小可爱的</mean>
+</RECORD>
+<RECORD>
+	<id>434</id>
+	<word>mince</word>
+	<type>a.</type>
+	<mean>瘦长的，细长的</mean>
+</RECORD>
+<RECORD>
+	<id>435</id>
+	<word>minuit</word>
+	<type>m.</type>
+	<mean>午夜十二点</mean>
+</RECORD>
+<RECORD>
+	<id>436</id>
+	<word>minute</word>
+	<type>f.</type>
+	<mean>一分钟</mean>
+</RECORD>
+<RECORD>
+	<id>437</id>
+	<word>moi</word>
+	<type>pron.</type>
+	<mean>我</mean>
+</RECORD>
+<RECORD>
+	<id>438</id>
+	<word>moins</word>
+	<type>adv.</type>
+	<mean>少些</mean>
+</RECORD>
+<RECORD>
+	<id>439</id>
+	<word>au moins</word>
+	<type>loc.adv.</type>
+	<mean>至少</mean>
+</RECORD>
+<RECORD>
+	<id>440</id>
+	<word>mois</word>
+	<type>m.</type>
+	<mean>月</mean>
+</RECORD>
+<RECORD>
+	<id>441</id>
+	<word>moment</word>
+	<type>m.</type>
+	<mean>时刻</mean>
+</RECORD>
+<RECORD>
+	<id>442</id>
+	<word>mon,ma,mes</word>
+	<type>a.poss.</type>
+	<mean>我的</mean>
+</RECORD>
+<RECORD>
+	<id>443</id>
+	<word>monde</word>
+	<type>m.</type>
+	<mean>世界；人，人们</mean>
+</RECORD>
+<RECORD>
+	<id>444</id>
+	<word>tout le monde</word>
+	<type></type>
+	<mean>大家</mean>
+</RECORD>
+<RECORD>
+	<id>445</id>
+	<word>monsieur</word>
+	<type>m.</type>
+	<mean>先生</mean>
+</RECORD>
+<RECORD>
+	<id>446</id>
+	<word>monter</word>
+	<type>v.i.</type>
+	<mean>登上</mean>
+</RECORD>
+<RECORD>
+	<id>447</id>
+	<word>montre</word>
+	<type>f.</type>
+	<mean>手表</mean>
+</RECORD>
+<RECORD>
+	<id>448</id>
+	<word>montrer</word>
+	<type>v.t.</type>
+	<mean>给…看，出示</mean>
+</RECORD>
+<RECORD>
+	<id>449</id>
+	<word>moustache</word>
+	<type>f.</type>
+	<mean>（唇上的）胡子</mean>
+</RECORD>
+<RECORD>
+	<id>450</id>
+	<word>musique</word>
+	<type>f.</type>
+	<mean>音乐</mean>
+</RECORD>
+<RECORD>
+	<id>451</id>
+	<word>naturellement</word>
+	<type>adv.</type>
+	<mean>当然</mean>
+</RECORD>
+<RECORD>
+	<id>452</id>
+	<word>ne</word>
+	<type>adv.</type>
+	<mean>不</mean>
+</RECORD>
+<RECORD>
+	<id>453</id>
+	<word>ne…pas</word>
+	<type></type>
+	<mean>不</mean>
+</RECORD>
+<RECORD>
+	<id>454</id>
+	<word>ne…plus</word>
+	<type></type>
+	<mean>不再</mean>
+</RECORD>
+<RECORD>
+	<id>455</id>
+	<word>ne…que</word>
+	<type></type>
+	<mean>仅仅</mean>
+</RECORD>
+<RECORD>
+	<id>456</id>
+	<word>neuf</word>
+	<type>num.</type>
+	<mean>九</mean>
+</RECORD>
+<RECORD>
+	<id>457</id>
+	<word>ni</word>
+	<type>conj.</type>
+	<mean>也不</mean>
+</RECORD>
+<RECORD>
+	<id>458</id>
+	<word>ne…ni…ni</word>
+	<type></type>
+	<mean>既不…也不</mean>
+</RECORD>
+<RECORD>
+	<id>459</id>
+	<word>Noël</word>
+	<type>m.</type>
+	<mean>圣诞节</mean>
+</RECORD>
+<RECORD>
+	<id>460</id>
+	<word>nombreux,-se</word>
+	<type>a.</type>
+	<mean>许多的</mean>
+</RECORD>
+<RECORD>
+	<id>461</id>
+	<word>non</word>
+	<type>adv.</type>
+	<mean>不</mean>
+</RECORD>
+<RECORD>
+	<id>462</id>
+	<word>notre</word>
+	<type>a.poss.</type>
+	<mean>我们的</mean>
+</RECORD>
+<RECORD>
+	<id>463</id>
+	<word>nouveau,elle</word>
+	<type>a.</type>
+	<mean>新的</mean>
+</RECORD>
+<RECORD>
+	<id>464</id>
+	<word>nouvelle</word>
+	<type>f.</type>
+	<mean>消息，音讯</mean>
+</RECORD>
+<RECORD>
+	<id>465</id>
+	<word>novembre</word>
+	<type>m.</type>
+	<mean>十一月</mean>
+</RECORD>
+<RECORD>
+	<id>466</id>
+	<word>objet</word>
+	<type>m.</type>
+	<mean>物件</mean>
+</RECORD>
+<RECORD>
+	<id>467</id>
+	<word>obligatoire</word>
+	<type>a.</type>
+	<mean>强制性的</mean>
+</RECORD>
+<RECORD>
+	<id>468</id>
+	<word>un cours obligatoire</word>
+	<type></type>
+	<mean>必修课</mean>
+</RECORD>
+<RECORD>
+	<id>469</id>
+	<word>Occident</word>
+	<type>m.</type>
+	<mean>西方</mean>
+</RECORD>
+<RECORD>
+	<id>470</id>
+	<word>occupé</word>
+	<type>a.</type>
+	<mean>忙的</mean>
+</RECORD>
+<RECORD>
+	<id>471</id>
+	<word>occuper(s')de</word>
+	<type>v.pr.</type>
+	<mean>照管</mean>
+</RECORD>
+<RECORD>
+	<id>472</id>
+	<word>octobre</word>
+	<type>m.</type>
+	<mean>十月</mean>
+</RECORD>
+<RECORD>
+	<id>473</id>
+	<word>oignon</word>
+	<type>m.</type>
+	<mean>葱头，洋葱</mean>
+</RECORD>
+<RECORD>
+	<id>474</id>
+	<word>on</word>
+	<type>pron.</type>
+	<mean>人们</mean>
+</RECORD>
+<RECORD>
+	<id>475</id>
+	<word>onze</word>
+	<type>num.</type>
+	<mean>十一</mean>
+</RECORD>
+<RECORD>
+	<id>476</id>
+	<word>option</word>
+	<type>f.</type>
+	<mean>选择，挑选</mean>
+</RECORD>
+<RECORD>
+	<id>477</id>
+	<word>un cours àoption</word>
+	<type></type>
+	<mean>选修课</mean>
+</RECORD>
+<RECORD>
+	<id>478</id>
+	<word>ou</word>
+	<type>conj.</type>
+	<mean>或者</mean>
+</RECORD>
+<RECORD>
+	<id>479</id>
+	<word>où</word>
+	<type>adv.</type>
+	<mean>哪里</mean>
+</RECORD>
+<RECORD>
+	<id>480</id>
+	<word>ouest</word>
+	<type>m.</type>
+	<mean>西</mean>
+</RECORD>
+<RECORD>
+	<id>481</id>
+	<word>oui</word>
+	<type>adv.</type>
+	<mean>是的</mean>
+</RECORD>
+<RECORD>
+	<id>482</id>
+	<word>ouvrier,-ère</word>
+	<type>n.</type>
+	<mean>工人</mean>
+</RECORD>
+<RECORD>
+	<id>483</id>
+	<word>ouvrir</word>
+	<type>v.t.</type>
+	<mean>打开</mean>
+</RECORD>
+<RECORD>
+	<id>484</id>
+	<word>pain</word>
+	<type>m.</type>
+	<mean>面包</mean>
+</RECORD>
+<RECORD>
+	<id>485</id>
+	<word>un petit pain</word>
+	<type></type>
+	<mean>馒对</mean>
+</RECORD>
+<RECORD>
+	<id>486</id>
+	<word>palais</word>
+	<type>m.</type>
+	<mean>宫殿</mean>
+</RECORD>
+<RECORD>
+	<id>487</id>
+	<word>paquet</word>
+	<type>m.</type>
+	<mean>包，包裹</mean>
+</RECORD>
+<RECORD>
+	<id>488</id>
+	<word>par </word>
+	<type>prép.</type>
+	<mean>从…经过</mean>
+</RECORD>
+<RECORD>
+	<id>489</id>
+	<word>parc</word>
+	<type>m.</type>
+	<mean>公园</mean>
+</RECORD>
+<RECORD>
+	<id>490</id>
+	<word>parce que</word>
+	<type>conj.</type>
+	<mean>因为</mean>
+</RECORD>
+<RECORD>
+	<id>491</id>
+	<word>pardon</word>
+	<type>m.</type>
+	<mean>对不起</mean>
+</RECORD>
+<RECORD>
+	<id>492</id>
+	<word>parents</word>
+	<type>m.pl.</type>
+	<mean>父母；亲威</mean>
+</RECORD>
+<RECORD>
+	<id>493</id>
+	<word>paresseux,-se</word>
+	<type>a.</type>
+	<mean>懒惰的</mean>
+</RECORD>
+<RECORD>
+	<id>494</id>
+	<word>Paris</word>
+	<type></type>
+	<mean>巴黎</mean>
+</RECORD>
+<RECORD>
+	<id>495</id>
+	<word>parler</word>
+	<type>v.i.</type>
+	<mean>说话</mean>
+</RECORD>
+<RECORD>
+	<id>496</id>
+	<word>participer(à)</word>
+	<type>v.t.ind</type>
+	<mean>参加</mean>
+</RECORD>
+<RECORD>
+	<id>497</id>
+	<word>partir</word>
+	<type>v.i.</type>
+	<mean>出发</mean>
+</RECORD>
+<RECORD>
+	<id>498</id>
+	<word>pas</word>
+	<type>adv.</type>
+	<mean>不</mean>
+</RECORD>
+<RECORD>
+	<id>499</id>
+	<word>pas du tout</word>
+	<type>loc.adv.</type>
+	<mean>一点也不</mean>
+</RECORD>
+<RECORD>
+	<id>500</id>
+	<word>passer</word>
+	<type>v.i.</type>
+	<mean>经过</mean>
+</RECORD>
+<RECORD>
+	<id>501</id>
+	<word>se passer </word>
+	<type>v.pr.</type>
+	<mean>发生</mean>
+</RECORD>
+<RECORD>
+	<id>502</id>
+	<word>passionnant</word>
+	<type>a.</type>
+	<mean>动人的</mean>
+</RECORD>
+<RECORD>
+	<id>503</id>
+	<word>patiner</word>
+	<type>v.i.</type>
+	<mean>滑冰</mean>
+</RECORD>
+<RECORD>
+	<id>504</id>
+	<word>pavillon</word>
+	<type>m.</type>
+	<mean>楼房/亭、阁、小屋</mean>
+</RECORD>
+<RECORD>
+	<id>505</id>
+	<word>peinture</word>
+	<type>f.</type>
+	<mean>画，图画</mean>
+</RECORD>
+<RECORD>
+	<id>506</id>
+	<word>pendant</word>
+	<type>prép.</type>
+	<mean>在…期间</mean>
+</RECORD>
+<RECORD>
+	<id>507</id>
+	<word>père</word>
+	<type>m.</type>
+	<mean>父亲</mean>
+</RECORD>
+<RECORD>
+	<id>508</id>
+	<word>le père Noël</word>
+	<type></type>
+	<mean>圣诞老人</mean>
+</RECORD>
+<RECORD>
+	<id>509</id>
+	<word>personne</word>
+	<type>f.</type>
+	<mean>人们</mean>
+</RECORD>
+<RECORD>
+	<id>510</id>
+	<word>pétard</word>
+	<type>n.m.</type>
+	<mean>鞭炮</mean>
+</RECORD>
+<RECORD>
+	<id>511</id>
+	<word>petit</word>
+	<type>a.</type>
+	<mean>小的</mean>
+</RECORD>
+<RECORD>
+	<id>512</id>
+	<word>peu</word>
+	<type>m.</type>
+	<mean>少量</mean>
+</RECORD>
+<RECORD>
+	<id>513</id>
+	<word>un peu</word>
+	<type></type>
+	<mean>一点 </mean>
+</RECORD>
+<RECORD>
+	<id>514</id>
+	<word>un peu de</word>
+	<type></type>
+	<mean>一点，一些</mean>
+</RECORD>
+<RECORD>
+	<id>515</id>
+	<word>peureux</word>
+	<type>a.</type>
+	<mean>胆小的</mean>
+</RECORD>
+<RECORD>
+	<id>516</id>
+	<word>peut-être</word>
+	<type>adv.</type>
+	<mean>可能</mean>
+</RECORD>
+<RECORD>
+	<id>517</id>
+	<word>philosophie</word>
+	<type>f.</type>
+	<mean>哲学</mean>
+</RECORD>
+<RECORD>
+	<id>518</id>
+	<word>photo</word>
+	<type>f.</type>
+	<mean>照片</mean>
+</RECORD>
+<RECORD>
+	<id>519</id>
+	<word>pièce</word>
+	<type>f.</type>
+	<mean>房间</mean>
+</RECORD>
+<RECORD>
+	<id>520</id>
+	<word>pied</word>
+	<type>m.</type>
+	<mean>脚</mean>
+</RECORD>
+<RECORD>
+	<id>521</id>
+	<word>à pied</word>
+	<type>loc.adv.</type>
+	<mean>步行</mean>
+</RECORD>
+<RECORD>
+	<id>522</id>
+	<word>au pied de </word>
+	<type></type>
+	<mean>在…脚下</mean>
+</RECORD>
+<RECORD>
+	<id>523</id>
+	<word>placard</word>
+	<type>m.</type>
+	<mean>壁橱</mean>
+</RECORD>
+<RECORD>
+	<id>524</id>
+	<word>placer</word>
+	<type>v.t.</type>
+	<mean>安放</mean>
+</RECORD>
+<RECORD>
+	<id>525</id>
+	<word>plage</word>
+	<type>f.</type>
+	<mean>海滩，海滨</mean>
+</RECORD>
+<RECORD>
+	<id>526</id>
+	<word>plaire(à)</word>
+	<type>v.t.ind</type>
+	<mean>使喜欢</mean>
+</RECORD>
+<RECORD>
+	<id>527</id>
+	<word>s'il vous plaît</word>
+	<type></type>
+	<mean>请</mean>
+</RECORD>
+<RECORD>
+	<id>528</id>
+	<word>plaisir</word>
+	<type>m.</type>
+	<mean>愉快</mean>
+</RECORD>
+<RECORD>
+	<id>529</id>
+	<word>avec plaisir</word>
+	<type>loc.adv.</type>
+	<mean>很乐意</mean>
+</RECORD>
+<RECORD>
+	<id>530</id>
+	<word>plat</word>
+	<type>m.</type>
+	<mean>一道菜，一盘菜</mean>
+</RECORD>
+<RECORD>
+	<id>531</id>
+	<word>pleurer</word>
+	<type>v.i.</type>
+	<mean>哭</mean>
+</RECORD>
+<RECORD>
+	<id>532</id>
+	<word>pleuvoir</word>
+	<type>v.imp.</type>
+	<mean>下雨</mean>
+</RECORD>
+<RECORD>
+	<id>533</id>
+	<word>pluie</word>
+	<type>f.</type>
+	<mean>雨</mean>
+</RECORD>
+<RECORD>
+	<id>534</id>
+	<word>plus</word>
+	<type>adv.</type>
+	<mean>更</mean>
+</RECORD>
+<RECORD>
+	<id>535</id>
+	<word> en plus de </word>
+	<type></type>
+	<mean>除…以外</mean>
+</RECORD>
+<RECORD>
+	<id>536</id>
+	<word>plusieurs</word>
+	<type>a.</type>
+	<mean>好几个</mean>
+</RECORD>
+<RECORD>
+	<id>537</id>
+	<word>plutôt</word>
+	<type>adv.</type>
+	<mean>更确切地说，有点颇为</mean>
+</RECORD>
+<RECORD>
+	<id>538</id>
+	<word>poche</word>
+	<type>f.</type>
+	<mean>口袋</mean>
+</RECORD>
+<RECORD>
+	<id>539</id>
+	<word>poisson</word>
+	<type>m.</type>
+	<mean>鱼</mean>
+</RECORD>
+<RECORD>
+	<id>540</id>
+	<word>pomme</word>
+	<type>f.</type>
+	<mean>苹果</mean>
+</RECORD>
+<RECORD>
+	<id>541</id>
+	<word>pomme de terre</word>
+	<type></type>
+	<mean>土豆</mean>
+</RECORD>
+<RECORD>
+	<id>542</id>
+	<word>porc</word>
+	<type>m.</type>
+	<mean>猪；猪肉</mean>
+</RECORD>
+<RECORD>
+	<id>543</id>
+	<word>porte</word>
+	<type>f.</type>
+	<mean>门</mean>
+</RECORD>
+<RECORD>
+	<id>544</id>
+	<word>porter</word>
+	<type>v.t.</type>
+	<mean>穿戴着，拿着</mean>
+</RECORD>
+<RECORD>
+	<id>545</id>
+	<word>poser</word>
+	<type>v.t.</type>
+	<mean>提出（问题）</mean>
+</RECORD>
+<RECORD>
+	<id>546</id>
+	<word>possibilité</word>
+	<type>f.</type>
+	<mean>可能性</mean>
+</RECORD>
+<RECORD>
+	<id>547</id>
+	<word>possible</word>
+	<type>a.</type>
+	<mean>可能的</mean>
+</RECORD>
+<RECORD>
+	<id>548</id>
+	<word>poste</word>
+	<type>f.</type>
+	<mean>邮局，邮政</mean>
+</RECORD>
+<RECORD>
+	<id>549</id>
+	<word>poste</word>
+	<type>m.</type>
+	<mean>站</mean>
+</RECORD>
+<RECORD>
+	<id>550</id>
+	<word>poulet</word>
+	<type>m.</type>
+	<mean>鸡；鸡肉</mean>
+</RECORD>
+<RECORD>
+	<id>551</id>
+	<word>pour</word>
+	<type>prép</type>
+	<mean>为了</mean>
+</RECORD>
+<RECORD>
+	<id>552</id>
+	<word>pourquoi</word>
+	<type>adv.</type>
+	<mean>为什么</mean>
+</RECORD>
+<RECORD>
+	<id>553</id>
+	<word>pouvoir</word>
+	<type>v.t.</type>
+	<mean>能够</mean>
+</RECORD>
+<RECORD>
+	<id>554</id>
+	<word>précédent</word>
+	<type>a.</type>
+	<mean>前一个的</mean>
+</RECORD>
+<RECORD>
+	<id>555</id>
+	<word>précipiter(se)(vers)</word>
+	<type>v.pr.</type>
+	<mean>扑向；冲向</mean>
+</RECORD>
+<RECORD>
+	<id>556</id>
+	<word>préférer</word>
+	<type>v.t.</type>
+	<mean>宁愿，更喜欢</mean>
+</RECORD>
+<RECORD>
+	<id>557</id>
+	<word>premier,-ère</word>
+	<type>a.</type>
+	<mean>第一</mean>
+</RECORD>
+<RECORD>
+	<id>558</id>
+	<word>prendre</word>
+	<type>v.t.</type>
+	<mean>拿；乘（车），取（道）</mean>
+</RECORD>
+<RECORD>
+	<id>559</id>
+	<word>prendre une rue</word>
+	<type></type>
+	<mean></mean>
+</RECORD>
+<RECORD>
+	<id>560</id>
+	<word>prendre l'autobus</word>
+	<type></type>
+	<mean></mean>
+</RECORD>
+<RECORD>
+	<id>561</id>
+	<word>préparer</word>
+	<type>v.t.</type>
+	<mean>准备</mean>
+</RECORD>
+<RECORD>
+	<id>562</id>
+	<word>près</word>
+	<type>adv.</type>
+	<mean>附近</mean>
+</RECORD>
+<RECORD>
+	<id>563</id>
+	<word>près de</word>
+	<type>prép.</type>
+	<mean>附近</mean>
+</RECORD>
+<RECORD>
+	<id>564</id>
+	<word>présent</word>
+	<type>a.</type>
+	<mean>出席的</mean>
+</RECORD>
+<RECORD>
+	<id>565</id>
+	<word>presque</word>
+	<type>adv.</type>
+	<mean>几乎，差不多</mean>
+</RECORD>
+<RECORD>
+	<id>566</id>
+	<word>presser(se)</word>
+	<type>v.pr.</type>
+	<mean>赶紧</mean>
+</RECORD>
+<RECORD>
+	<id>567</id>
+	<word>prêt</word>
+	<type>a.</type>
+	<mean>做好准备的</mean>
+</RECORD>
+<RECORD>
+	<id>568</id>
+	<word>prévoir</word>
+	<type>v.t.</type>
+	<mean>预见，预定</mean>
+</RECORD>
+<RECORD>
+	<id>569</id>
+	<word>prieer</word>
+	<type>v.t.</type>
+	<mean>请求</mean>
+</RECORD>
+<RECORD>
+	<id>570</id>
+	<word>printemps</word>
+	<type>m.</type>
+	<mean>春季</mean>
+</RECORD>
+<RECORD>
+	<id>571</id>
+	<word>prochain</word>
+	<type>a.</type>
+	<mean>下一个的</mean>
+</RECORD>
+<RECORD>
+	<id>572</id>
+	<word>professeur</word>
+	<type>m.</type>
+	<mean>教授，教师</mean>
+</RECORD>
+<RECORD>
+	<id>573</id>
+	<word>programme</word>
+	<type>m.</type>
+	<mean>日程</mean>
+</RECORD>
+<RECORD>
+	<id>574</id>
+	<word>progrès</word>
+	<type>m.</type>
+	<mean>进步</mean>
+</RECORD>
+<RECORD>
+	<id>575</id>
+	<word>faire des progrès</word>
+	<type></type>
+	<mean></mean>
+</RECORD>
+<RECORD>
+	<id>576</id>
+	<word>promenade</word>
+	<type>f.</type>
+	<mean>散步</mean>
+</RECORD>
+<RECORD>
+	<id>577</id>
+	<word>promener(se)</word>
+	<type>v.pr.</type>
+	<mean>散步</mean>
+</RECORD>
+<RECORD>
+	<id>578</id>
+	<word>promettre</word>
+	<type>v.t.</type>
+	<mean>答应</mean>
+</RECORD>
+<RECORD>
+	<id>579</id>
+	<word>proposer</word>
+	<type>v.t.</type>
+	<mean>建议</mean>
+</RECORD>
+<RECORD>
+	<id>580</id>
+	<word>puis</word>
+	<type>adv.</type>
+	<mean>然后</mean>
+</RECORD>
+<RECORD>
+	<id>581</id>
+	<word>qualifié</word>
+	<type>a.</type>
+	<mean>合格的</mean>
+</RECORD>
+<RECORD>
+	<id>582</id>
+	<word>quand</word>
+	<type>adv,conj</type>
+	<mean>何时？在…时候</mean>
+</RECORD>
+<RECORD>
+	<id>583</id>
+	<word>quarante</word>
+	<type>num.</type>
+	<mean>四十</mean>
+</RECORD>
+<RECORD>
+	<id>584</id>
+	<word>quart</word>
+	<type>m.</type>
+	<mean>四分之一；一刻钟</mean>
+</RECORD>
+<RECORD>
+	<id>585</id>
+	<word>un quart d'heure</word>
+	<type></type>
+	<mean>一刻钟</mean>
+</RECORD>
+<RECORD>
+	<id>586</id>
+	<word>quatorze</word>
+	<type>num.</type>
+	<mean>十四</mean>
+</RECORD>
+<RECORD>
+	<id>587</id>
+	<word>quatre</word>
+	<type>num.</type>
+	<mean>四</mean>
+</RECORD>
+<RECORD>
+	<id>588</id>
+	<word>quatre-vingts</word>
+	<type>num.</type>
+	<mean>八十</mean>
+</RECORD>
+<RECORD>
+	<id>589</id>
+	<word>quatre-vingt-dix</word>
+	<type>num.</type>
+	<mean>九十</mean>
+</RECORD>
+<RECORD>
+	<id>590</id>
+	<word>que,qu'est-ce que</word>
+	<type>pron.</type>
+	<mean>什么</mean>
+</RECORD>
+<RECORD>
+	<id>591</id>
+	<word>quel</word>
+	<type>a.</type>
+	<mean>什么样</mean>
+</RECORD>
+<RECORD>
+	<id>592</id>
+	<word>quelque chose</word>
+	<type>pron.</type>
+	<mean>某事，某物</mean>
+</RECORD>
+<RECORD>
+	<id>593</id>
+	<word>quelques</word>
+	<type>a.</type>
+	<mean>某些，几个</mean>
+</RECORD>
+<RECORD>
+	<id>594</id>
+	<word>quelqu'un</word>
+	<type>pron.</type>
+	<mean>有人</mean>
+</RECORD>
+<RECORD>
+	<id>595</id>
+	<word>question</word>
+	<type>f.</type>
+	<mean>问题</mean>
+</RECORD>
+<RECORD>
+	<id>596</id>
+	<word>queue</word>
+	<type>f.</type>
+	<mean>尾巴/队伍</mean>
+</RECORD>
+<RECORD>
+	<id>597</id>
+	<word>faire la queue</word>
+	<type></type>
+	<mean>排队</mean>
+</RECORD>
+<RECORD>
+	<id>598</id>
+	<word>qui</word>
+	<type>pron.</type>
+	<mean>谁</mean>
+</RECORD>
+<RECORD>
+	<id>599</id>
+	<word>quinze</word>
+	<type>num.</type>
+	<mean>十五</mean>
+</RECORD>
+<RECORD>
+	<id>600</id>
+	<word>quoi</word>
+	<type>pron.</type>
+	<mean>什么（事，东西）</mean>
+</RECORD>
+<RECORD>
+	<id>601</id>
+	<word>Il n'y a pas de quoi</word>
+	<type></type>
+	<mean>没关系，别客气。</mean>
+</RECORD>
+<RECORD>
+	<id>602</id>
+	<word>raconter</word>
+	<type>v.t.</type>
+	<mean>讲述</mean>
+</RECORD>
+<RECORD>
+	<id>603</id>
+	<word>rapidement</word>
+	<type>adv.</type>
+	<mean>迅速，快</mean>
+</RECORD>
+<RECORD>
+	<id>604</id>
+	<word>rappeler</word>
+	<type>v.t.</type>
+	<mean>再叫</mean>
+</RECORD>
+<RECORD>
+	<id>605</id>
+	<word>rarement</word>
+	<type>adv.</type>
+	<mean>稀少地</mean>
+</RECORD>
+<RECORD>
+	<id>606</id>
+	<word>recevoir</word>
+	<type>v.t.</type>
+	<mean>接待，收到</mean>
+</RECORD>
+<RECORD>
+	<id>607</id>
+	<word>réchaud</word>
+	<type>m.</type>
+	<mean>炉子</mean>
+</RECORD>
+<RECORD>
+	<id>608</id>
+	<word>redescendre</word>
+	<type>v.t.</type>
+	<mean>再下业</mean>
+</RECORD>
+<RECORD>
+	<id>609</id>
+	<word>regarder</word>
+	<type>v.t.</type>
+	<mean>瞧</mean>
+</RECORD>
+<RECORD>
+	<id>610</id>
+	<word>région</word>
+	<type>f.</type>
+	<mean>地区</mean>
+</RECORD>
+<RECORD>
+	<id>611</id>
+	<word>Renault</word>
+	<type></type>
+	<mean>雷诺</mean>
+</RECORD>
+<RECORD>
+	<id>612</id>
+	<word>rencontrer</word>
+	<type>v.t.</type>
+	<mean>遇见</mean>
+</RECORD>
+<RECORD>
+	<id>613</id>
+	<word>rentrer</word>
+	<type>v.i.</type>
+	<mean>回来，</mean>
+</RECORD>
+<RECORD>
+	<id>614</id>
+	<word>repas</word>
+	<type>m.</type>
+	<mean>餐，一顿饭</mean>
+</RECORD>
+<RECORD>
+	<id>615</id>
+	<word>répondre(à)</word>
+	<type>v.t.ind</type>
+	<mean>回答</mean>
+</RECORD>
+<RECORD>
+	<id>616</id>
+	<word>repose(se)</word>
+	<type>v.pr.</type>
+	<mean>休息</mean>
+</RECORD>
+<RECORD>
+	<id>617</id>
+	<word>respecter</word>
+	<type>v.t.</type>
+	<mean>尊重</mean>
+</RECORD>
+<RECORD>
+	<id>618</id>
+	<word>ressembler(à)</word>
+	<type>v.t.ind</type>
+	<mean>与…相像</mean>
+</RECORD>
+<RECORD>
+	<id>619</id>
+	<word>rester</word>
+	<type>v.i.</type>
+	<mean>留下，逗留</mean>
+</RECORD>
+<RECORD>
+	<id>620</id>
+	<word>retarder(de)</word>
+	<type>v.i.</type>
+	<mean>（钟表）走慢</mean>
+</RECORD>
+<RECORD>
+	<id>621</id>
+	<word>retrouver</word>
+	<type>v.t.</type>
+	<mean>重新找到</mean>
+</RECORD>
+<RECORD>
+	<id>622</id>
+	<word>réveillon</word>
+	<type>m.</type>
+	<mean>（圣诞节前夜的）聚餐；年夜饭</mean>
+</RECORD>
+<RECORD>
+	<id>623</id>
+	<word>revenir</word>
+	<type>v.i.</type>
+	<mean>回来，</mean>
+</RECORD>
+<RECORD>
+	<id>624</id>
+	<word>révision</word>
+	<type>f.</type>
+	<mean>复习</mean>
+</RECORD>
+<RECORD>
+	<id>625</id>
+	<word>revoir</word>
+	<type>v.t.</type>
+	<mean>再次见到</mean>
+</RECORD>
+<RECORD>
+	<id>626</id>
+	<word>au revoir</word>
+	<type></type>
+	<mean>再见</mean>
+</RECORD>
+<RECORD>
+	<id>627</id>
+	<word>rien</word>
+	<type>pron.</type>
+	<mean>什么也没有</mean>
+</RECORD>
+<RECORD>
+	<id>628</id>
+	<word>riz</word>
+	<type>m.</type>
+	<mean>稻米，米饭</mean>
+</RECORD>
+<RECORD>
+	<id>629</id>
+	<word>rôti</word>
+	<type>m.</type>
+	<mean>烤肉</mean>
+</RECORD>
+<RECORD>
+	<id>630</id>
+	<word>rouge</word>
+	<type>a.</type>
+	<mean>红色的</mean>
+</RECORD>
+<RECORD>
+	<id>631</id>
+	<word>rougir</word>
+	<type>v.i.</type>
+	<mean>变红（色）</mean>
+</RECORD>
+<RECORD>
+	<id>632</id>
+	<word>rouler</word>
+	<type>v.i.</type>
+	<mean>滚；（车辆）行驶，乘车走</mean>
+</RECORD>
+<RECORD>
+	<id>633</id>
+	<word>rue</word>
+	<type>f.</type>
+	<mean>街道</mean>
+</RECORD>
+<RECORD>
+	<id>634</id>
+	<word>saison</word>
+	<type>f.</type>
+	<mean>季节</mean>
+</RECORD>
+<RECORD>
+	<id>635</id>
+	<word>salle</word>
+	<type>f.</type>
+	<mean>室，厅</mean>
+</RECORD>
+<RECORD>
+	<id>636</id>
+	<word>saluer</word>
+	<type>v.t.</type>
+	<mean>向…致意</mean>
+</RECORD>
+<RECORD>
+	<id>637</id>
+	<word>salut</word>
+	<type>m.</type>
+	<mean>致意（俗）你好！</mean>
+</RECORD>
+<RECORD>
+	<id>638</id>
+	<word>sans</word>
+	<type>prép.</type>
+	<mean>没有</mean>
+</RECORD>
+<RECORD>
+	<id>639</id>
+	<word>asapin</word>
+	<type>m.</type>
+	<mean>枞树</mean>
+</RECORD>
+<RECORD>
+	<id>640</id>
+	<word>sauté,-e</word>
+	<type>a.</type>
+	<mean>嫩煎的，炒的</mean>
+</RECORD>
+<RECORD>
+	<id>641</id>
+	<word>savoir</word>
+	<type>v.t.</type>
+	<mean>知道</mean>
+</RECORD>
+<RECORD>
+	<id>642</id>
+	<word>séance</word>
+	<type>f.</type>
+	<mean>一场，一次，会期</mean>
+</RECORD>
+<RECORD>
+	<id>643</id>
+	<word>secours</word>
+	<type>m.</type>
+	<mean>救护</mean>
+</RECORD>
+<RECORD>
+	<id>644</id>
+	<word>seize</word>
+	<type>num.</type>
+	<mean>十六</mean>
+</RECORD>
+<RECORD>
+	<id>645</id>
+	<word>séjour</word>
+	<type>m.</type>
+	<mean>逗留；起居室</mean>
+</RECORD>
+<RECORD>
+	<id>646</id>
+	<word>semaine</word>
+	<type>f.</type>
+	<mean>星期，周</mean>
+</RECORD>
+<RECORD>
+	<id>647</id>
+	<word>sentir</word>
+	<type>v.i.</type>
+	<mean>发出…气味</mean>
+</RECORD>
+<RECORD>
+	<id>648</id>
+	<word>ça sent bon</word>
+	<type></type>
+	<mean>好香啊！</mean>
+</RECORD>
+<RECORD>
+	<id>649</id>
+	<word>se sentir</word>
+	<type>v.pr.</type>
+	<mean>感觉 </mean>
+</RECORD>
+<RECORD>
+	<id>650</id>
+	<word>sept</word>
+	<type>num.</type>
+	<mean>七</mean>
+</RECORD>
+<RECORD>
+	<id>651</id>
+	<word>septembre</word>
+	<type>m.</type>
+	<mean>九月</mean>
+</RECORD>
+<RECORD>
+	<id>652</id>
+	<word>service</word>
+	<type>m.</type>
+	<mean>服务</mean>
+</RECORD>
+<RECORD>
+	<id>653</id>
+	<word>servir</word>
+	<type>v.t.</type>
+	<mean>服待，上菜</mean>
+</RECORD>
+<RECORD>
+	<id>654</id>
+	<word>seulement</word>
+	<type>adv.</type>
+	<mean>只，仅仅</mean>
+</RECORD>
+<RECORD>
+	<id>655</id>
+	<word>si</word>
+	<type>conj.</type>
+	<mean>如果</mean>
+</RECORD>
+<RECORD>
+	<id>656</id>
+	<word>siècle</word>
+	<type>m.</type>
+	<mean>世纪</mean>
+</RECORD>
+<RECORD>
+	<id>657</id>
+	<word>signalement</word>
+	<type>m.</type>
+	<mean>体貌特征</mean>
+</RECORD>
+<RECORD>
+	<id>658</id>
+	<word>simple</word>
+	<type>a.</type>
+	<mean>简单的</mean>
+</RECORD>
+<RECORD>
+	<id>659</id>
+	<word>six</word>
+	<type>num.</type>
+	<mean>六</mean>
+</RECORD>
+<RECORD>
+	<id>660</id>
+	<word>slip</word>
+	<type>m.</type>
+	<mean>[英]三角裤</mean>
+</RECORD>
+<RECORD>
+	<id>661</id>
+	<word>sœur</word>
+	<type>f.</type>
+	<mean>姐妹</mean>
+</RECORD>
+<RECORD>
+	<id>662</id>
+	<word>soir</word>
+	<type>m.</type>
+	<mean>晚上</mean>
+</RECORD>
+<RECORD>
+	<id>663</id>
+	<word>soirée</word>
+	<type>f.</type>
+	<mean>晚间，晚会</mean>
+</RECORD>
+<RECORD>
+	<id>664</id>
+	<word>soixante</word>
+	<type>num.</type>
+	<mean>六十</mean>
+</RECORD>
+<RECORD>
+	<id>665</id>
+	<word>soixante-dix</word>
+	<type>num.</type>
+	<mean>七十</mean>
+</RECORD>
+<RECORD>
+	<id>666</id>
+	<word>soleil</word>
+	<type>m.</type>
+	<mean>太阳</mean>
+</RECORD>
+<RECORD>
+	<id>667</id>
+	<word>sommeil</word>
+	<type>m.</type>
+	<mean>睡眠，睡意</mean>
+</RECORD>
+<RECORD>
+	<id>668</id>
+	<word>avoir sommeil</word>
+	<type></type>
+	<mean>困 </mean>
+</RECORD>
+<RECORD>
+	<id>669</id>
+	<word>sommet</word>
+	<type>m.</type>
+	<mean>顶，顶峰</mean>
+</RECORD>
+<RECORD>
+	<id>670</id>
+	<word>son,sa,ses</word>
+	<type>a.</type>
+	<mean>他（她，它）的</mean>
+</RECORD>
+<RECORD>
+	<id>671</id>
+	<word>sortir</word>
+	<type>v.i.</type>
+	<mean>出去</mean>
+</RECORD>
+<RECORD>
+	<id>672</id>
+	<word>soupe</word>
+	<type>f.</type>
+	<mean>汤</mean>
+</RECORD>
+<RECORD>
+	<id>673</id>
+	<word>souvent</word>
+	<type>adv.</type>
+	<mean>经常</mean>
+</RECORD>
+<RECORD>
+	<id>674</id>
+	<word>station</word>
+	<type>f.</type>
+	<mean>车站</mean>
+</RECORD>
+<RECORD>
+	<id>675</id>
+	<word>statue</word>
+	<type>f.</type>
+	<mean>塑像，雕像</mean>
+</RECORD>
+<RECORD>
+	<id>676</id>
+	<word>suffire</word>
+	<type>v.i.</type>
+	<mean>足够</mean>
+</RECORD>
+<RECORD>
+	<id>677</id>
+	<word>suisse</word>
+	<type>a.</type>
+	<mean>瑞士的</mean>
+</RECORD>
+<RECORD>
+	<id>678</id>
+	<word>Suisse</word>
+	<type>n.</type>
+	<mean>瑞士人</mean>
+</RECORD>
+<RECORD>
+	<id>679</id>
+	<word>sujet</word>
+	<type>m.</type>
+	<mean>题目</mean>
+</RECORD>
+<RECORD>
+	<id>680</id>
+	<word>au sujet de</word>
+	<type>loc.adv.</type>
+	<mean>有关…</mean>
+</RECORD>
+<RECORD>
+	<id>681</id>
+	<word>sur</word>
+	<type>prép</type>
+	<mean>在…之上</mean>
+</RECORD>
+<RECORD>
+	<id>682</id>
+	<word>sûrement</word>
+	<type>adv.</type>
+	<mean>肯定地</mean>
+</RECORD>
+<RECORD>
+	<id>683</id>
+	<word>surtout</word>
+	<type>adv.</type>
+	<mean>尤其</mean>
+</RECORD>
+<RECORD>
+	<id>684</id>
+	<word>sympathique</word>
+	<type>a</type>
+	<mean>热情的</mean>
+</RECORD>
+<RECORD>
+	<id>685</id>
+	<word>tard</word>
+	<type>adv</type>
+	<mean>晚</mean>
+</RECORD>
+<RECORD>
+	<id>686</id>
+	<word>plus tard</word>
+	<type></type>
+	<mean>以后</mean>
+</RECORD>
+<RECORD>
+	<id>687</id>
+	<word>tas</word>
+	<type>m.</type>
+	<mean>堆</mean>
+</RECORD>
+<RECORD>
+	<id>688</id>
+	<word>des tas de</word>
+	<type></type>
+	<mean>许多的</mean>
+</RECORD>
+<RECORD>
+	<id>689</id>
+	<word>tasse </word>
+	<type>f.</type>
+	<mean>杯子</mean>
+</RECORD>
+<RECORD>
+	<id>690</id>
+	<word>taxi</word>
+	<type>m.</type>
+	<mean>出租汽车</mean>
+</RECORD>
+<RECORD>
+	<id>691</id>
+	<word>te</word>
+	<type>pron.</type>
+	<mean>你</mean>
+</RECORD>
+<RECORD>
+	<id>692</id>
+	<word>téléphone</word>
+	<type>m.</type>
+	<mean>电话</mean>
+</RECORD>
+<RECORD>
+	<id>693</id>
+	<word>téléphoner</word>
+	<type>v.i.</type>
+	<mean>打电话 </mean>
+</RECORD>
+<RECORD>
+	<id>694</id>
+	<word>télévision</word>
+	<type>f.</type>
+	<mean>电视</mean>
+</RECORD>
+<RECORD>
+	<id>695</id>
+	<word>tempéré,-e</word>
+	<type>a.</type>
+	<mean>温和的</mean>
+</RECORD>
+<RECORD>
+	<id>696</id>
+	<word>temple</word>
+	<type>m.</type>
+	<mean>寺院，庙</mean>
+</RECORD>
+<RECORD>
+	<id>697</id>
+	<word>temps</word>
+	<type>m.</type>
+	<mean>时间；天所</mean>
+</RECORD>
+<RECORD>
+	<id>698</id>
+	<word>en même temps</word>
+	<type>loc.adv.</type>
+	<mean>同时</mean>
+</RECORD>
+<RECORD>
+	<id>699</id>
+	<word>tenir</word>
+	<type>v.t.</type>
+	<mean>握住，抓住</mean>
+</RECORD>
+<RECORD>
+	<id>700</id>
+	<word>terminus</word>
+	<type>m.</type>
+	<mean>终点站</mean>
+</RECORD>
+<RECORD>
+	<id>701</id>
+	<word>terre</word>
+	<type>f.</type>
+	<mean>土地</mean>
+</RECORD>
+<RECORD>
+	<id>702</id>
+	<word>textile</word>
+	<type>a.</type>
+	<mean>纺织的</mean>
+</RECORD>
+<RECORD>
+	<id>703</id>
+	<word>toi</word>
+	<type>pron.</type>
+	<mean>你</mean>
+</RECORD>
+<RECORD>
+	<id>704</id>
+	<word>toilette</word>
+	<type>f.</type>
+	<mean>梳洗</mean>
+</RECORD>
+<RECORD>
+	<id>705</id>
+	<word>tomber</word>
+	<type>v.i.</type>
+	<mean>跌倒，落下</mean>
+</RECORD>
+<RECORD>
+	<id>706</id>
+	<word>tôt</word>
+	<type>adv.</type>
+	<mean>早</mean>
+</RECORD>
+<RECORD>
+	<id>707</id>
+	<word>toujours</word>
+	<type>adv.</type>
+	<mean>总是</mean>
+</RECORD>
+<RECORD>
+	<id>708</id>
+	<word>tour</word>
+	<type>m.</type>
+	<mean>旋转；轮值，轮班</mean>
+</RECORD>
+<RECORD>
+	<id>709</id>
+	<word>tourner</word>
+	<type>v.t.</type>
+	<mean>转弯</mean>
+</RECORD>
+<RECORD>
+	<id>710</id>
+	<word>tout</word>
+	<type>pron.</type>
+	<mean>一切</mean>
+</RECORD>
+<RECORD>
+	<id>711</id>
+	<word>tout(toute,tous,toutes)</word>
+	<type>a.</type>
+	<mean>全部的，所有的</mean>
+</RECORD>
+<RECORD>
+	<id>712</id>
+	<word>tout à coup</word>
+	<type></type>
+	<mean>突然</mean>
+</RECORD>
+<RECORD>
+	<id>713</id>
+	<word>tour à fait</word>
+	<type></type>
+	<mean>完全地</mean>
+</RECORD>
+<RECORD>
+	<id>714</id>
+	<word>tout de même</word>
+	<type></type>
+	<mean>还是，仍然</mean>
+</RECORD>
+<RECORD>
+	<id>715</id>
+	<word>tradition</word>
+	<type>f.</type>
+	<mean>传统</mean>
+</RECORD>
+<RECORD>
+	<id>716</id>
+	<word>traditionnel</word>
+	<type>a.</type>
+	<mean>传统的</mean>
+</RECORD>
+<RECORD>
+	<id>717</id>
+	<word>train</word>
+	<type>m.</type>
+	<mean>步伐/火车</mean>
+</RECORD>
+<RECORD>
+	<id>718</id>
+	<word>être en train(de f. qch.)</word>
+	<type></type>
+	<mean>正在做某事</mean>
+</RECORD>
+<RECORD>
+	<id>719</id>
+	<word>tranquille</word>
+	<type>a.</type>
+	<mean>安静的</mean>
+</RECORD>
+<RECORD>
+	<id>720</id>
+	<word>travail</word>
+	<type>m.</type>
+	<mean>工作，劳动</mean>
+</RECORD>
+<RECORD>
+	<id>721</id>
+	<word>travailler</word>
+	<type>v.i.</type>
+	<mean>工作，劳动</mean>
+</RECORD>
+<RECORD>
+	<id>722</id>
+	<word>traverser</word>
+	<type>v.t.</type>
+	<mean>穿过</mean>
+</RECORD>
+<RECORD>
+	<id>723</id>
+	<word>treize</word>
+	<type>num.</type>
+	<mean>十三</mean>
+</RECORD>
+<RECORD>
+	<id>724</id>
+	<word>trente</word>
+	<type>num.</type>
+	<mean>三十</mean>
+</RECORD>
+<RECORD>
+	<id>725</id>
+	<word>très</word>
+	<type>adv.</type>
+	<mean>很</mean>
+</RECORD>
+<RECORD>
+	<id>726</id>
+	<word>triste</word>
+	<type>a.</type>
+	<mean>忧郁的，悲伤的</mean>
+</RECORD>
+<RECORD>
+	<id>727</id>
+	<word>trois</word>
+	<type>num.</type>
+	<mean>三十</mean>
+</RECORD>
+<RECORD>
+	<id>728</id>
+	<word>trolley</word>
+	<type>m.</type>
+	<mean>无轨电车</mean>
+</RECORD>
+<RECORD>
+	<id>729</id>
+	<word>trop</word>
+	<type>adv.</type>
+	<mean>太</mean>
+</RECORD>
+<RECORD>
+	<id>730</id>
+	<word>trouver</word>
+	<type>v.t.</type>
+	<mean>发现，感到</mean>
+</RECORD>
+<RECORD>
+	<id>731</id>
+	<word>se trouver</word>
+	<type></type>
+	<mean>位于</mean>
+</RECORD>
+<RECORD>
+	<id>732</id>
+	<word>tu</word>
+	<type>pron.</type>
+	<mean>你</mean>
+</RECORD>
+<RECORD>
+	<id>733</id>
+	<word>un,une</word>
+	<type></type>
+	<mean>一个</mean>
+</RECORD>
+<RECORD>
+	<id>734</id>
+	<word>l'un après l'autre</word>
+	<type></type>
+	<mean>一个接一个</mean>
+</RECORD>
+<RECORD>
+	<id>735</id>
+	<word>universitaire</word>
+	<type>a.</type>
+	<mean>大学的</mean>
+</RECORD>
+<RECORD>
+	<id>736</id>
+	<word>université</word>
+	<type>f.</type>
+	<mean>大学</mean>
+</RECORD>
+<RECORD>
+	<id>737</id>
+	<word>usine</word>
+	<type>f.</type>
+	<mean>工厂</mean>
+</RECORD>
+<RECORD>
+	<id>738</id>
+	<word>utile(à)</word>
+	<type>a.</type>
+	<mean>有用的</mean>
+</RECORD>
+<RECORD>
+	<id>739</id>
+	<word>veau</word>
+	<type>m.</type>
+	<mean>牛犊，小牛肉</mean>
+</RECORD>
+<RECORD>
+	<id>740</id>
+	<word>veille</word>
+	<type>f.</type>
+	<mean>前夕</mean>
+</RECORD>
+<RECORD>
+	<id>741</id>
+	<word>vélo</word>
+	<type>m.</type>
+	<mean>自行车</mean>
+</RECORD>
+<RECORD>
+	<id>742</id>
+	<word>vendredi</word>
+	<type>m.</type>
+	<mean>星期五</mean>
+</RECORD>
+<RECORD>
+	<id>743</id>
+	<word>venir</word>
+	<type>v.i.</type>
+	<mean>来</mean>
+</RECORD>
+<RECORD>
+	<id>744</id>
+	<word>vent</word>
+	<type>m.</type>
+	<mean>风</mean>
+</RECORD>
+<RECORD>
+	<id>745</id>
+	<word>vers</word>
+	<type>prép</type>
+	<mean>朝向，接近</mean>
+</RECORD>
+<RECORD>
+	<id>746</id>
+	<word>vidéo</word>
+	<type>a.inv</type>
+	<mean>录相的</mean>
+</RECORD>
+<RECORD>
+	<id>747</id>
+	<word>vidéo-cassette</word>
+	<type></type>
+	<mean>录相磁带</mean>
+</RECORD>
+<RECORD>
+	<id>748</id>
+	<word>village</word>
+	<type>m.</type>
+	<mean>村庄</mean>
+</RECORD>
+<RECORD>
+	<id>749</id>
+	<word>ville</word>
+	<type>fm</type>
+	<mean>城市</mean>
+</RECORD>
+<RECORD>
+	<id>750</id>
+	<word>vin</word>
+	<type>m.</type>
+	<mean>酒</mean>
+</RECORD>
+<RECORD>
+	<id>751</id>
+	<word>vingt</word>
+	<type>num.</type>
+	<mean>二十</mean>
+</RECORD>
+<RECORD>
+	<id>752</id>
+	<word>visite</word>
+	<type>f.</type>
+	<mean>参观，访问</mean>
+</RECORD>
+<RECORD>
+	<id>753</id>
+	<word>visiter</word>
+	<type>v.t.</type>
+	<mean>参观</mean>
+</RECORD>
+<RECORD>
+	<id>754</id>
+	<word>vite</word>
+	<type>adv.</type>
+	<mean>快</mean>
+</RECORD>
+<RECORD>
+	<id>755</id>
+	<word>vivre</word>
+	<type>v.i.</type>
+	<mean>生活</mean>
+</RECORD>
+<RECORD>
+	<id>756</id>
+	<word>voilà</word>
+	<type>prép.</type>
+	<mean>这儿是；（语气词瞧）</mean>
+</RECORD>
+<RECORD>
+	<id>757</id>
+	<word>voir</word>
+	<type>v.t.</type>
+	<mean>看见</mean>
+</RECORD>
+<RECORD>
+	<id>758</id>
+	<word>voisin,-e</word>
+	<type>n.</type>
+	<mean>邻居</mean>
+</RECORD>
+<RECORD>
+	<id>759</id>
+	<word>votre,vos</word>
+	<type>a.</type>
+	<mean>您的，你们的</mean>
+</RECORD>
+<RECORD>
+	<id>760</id>
+	<word>vouloir</word>
+	<type>v.t.</type>
+	<mean>愿，想要</mean>
+</RECORD>
+<RECORD>
+	<id>761</id>
+	<word>vous</word>
+	<type>pron.</type>
+	<mean>你们，您</mean>
+</RECORD>
+<RECORD>
+	<id>762</id>
+	<word>voyage</word>
+	<type>m.</type>
+	<mean>旅行</mean>
+</RECORD>
+<RECORD>
+	<id>763</id>
+	<word>voyager</word>
+	<type>v.i.</type>
+	<mean>旅行</mean>
+</RECORD>
+<RECORD>
+	<id>764</id>
+	<word>vraiment</word>
+	<type>adv.</type>
+	<mean>真正地</mean>
+</RECORD>
+<RECORD>
+	<id>765</id>
+	<word>y</word>
+	<type>adv.</type>
+	<mean>在那里</mean>
+</RECORD>
+<RECORD>
+	<id>766</id>
+	<word>yeux(œil)</word>
+	<type>m.pl</type>
+	<mean>眼睛</mean>
+</RECORD>
+<RECORD>
+	<id>767</id>
+	<word>zut</word>
+	<type>interj.</type>
+	<mean>（俗）得了!见鬼！倒霉</mean>
+</RECORD>
+</RECORDS>

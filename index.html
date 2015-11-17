@@ -1,0 +1,173 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Word Killer</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Access-Control-Allow-Origin" content="*"/>
+        <!--meta name="apple-itunes-app" content="app-id=982806051, affiliate-data=myAffiliateData, app-argument=myURL"-->
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+	    <script src="js/jquery-ui/jquery-ui.js"></script>
+        <script src="js/index.js"></script>
+	    <script src="js/progress.js"></script>
+	    <script src="js/word.js"></script>
+        <script src="js/json2.js"></script>
+        <script src="js/connect.js"></script>
+        <script src="js/animate.js"></script>
+        <!--script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="cordova_plugins.js"></script>    
+	    <script src="js/webSqlSync.js" type="application/x-javascript" charset="utf-8"></script-->
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+    <link rel="stylesheet" href="js/jquery-ui/jquery-ui.css" />
+    <link rel="stylesheet" href="css/animate.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+
+	</head>
+	<body style="height:100%" onload="onLoad()">
+    <script type="text/javascript" charset="utf-8">
+
+    function onLoad() {
+		//huntPVP();
+        //PushbotsPlugin.initialize("552a8b1e177959002d8b4574");
+
+			// if ((/(ipad|iphone|ipod|android)/i.test(navigator.userAgent))) {
+			// 	document.addEventListener('deviceready', initApp, false);
+			// } else {
+			// 	initApp();
+			// }
+		}
+
+		function initApp() {
+
+			// if(iAd) iAd.createBanner( {
+			//     position:iAd.AD_POSITION.BOTTOM_CENTER, 
+			//     autoShow:true
+			// } );
+		}
+		
+		
+
+    </script>
+		
+        <!-- Header -->
+			<section id="header">
+            <!--div style="position: absolute;top: 0px;right: 0px;"><a href="https://itunes.apple.com/cn/app/word-killer-fa-yu-dan-ci-bao/id982806051?mt=8&uo=4" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/zh_cn//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/zh_cn//images/web/linkmaker/badge_appstore-lrg.svg);}"></a></div-->
+
+            <div id="top" style="font-size:0.8em"><a id="topbtn" onclick="showdictrecord()">当前词库：TEF考试7392词</a></div>
+            <!--div id="topid" style="position:absolute;font-size:12px; top:12px; right:1em;overflow: hidden; white-space: nowrap; text-overflow: ellipsis; width:40%; z-index:100;"></div>
+            
+            
+            <!-- Message box -->
+            <div id="msg" class="inner" style="background: rgba(0%,10%,20%,0.6);display:none; height:100%;padding:10px 10px 10px 10px;" >
+            <div style="height:10%;"> 
+            <a id="msgtitle" style="font-size:24px"><strong>Word Killer</strong></a>
+            </div>
+            <div style="overflow-y:auto; height:80%;"> 
+            <ul class="actions">
+			<li><a id="msgcontent" style="text-align:left"><p>I'am not a world killer but a word killer</p></a></li>
+            </ul>
+            </div>
+            <div style="height:10%;"> 
+            <a id="msgbutton" class="button" onClick="startmatch()" style="height:100%; width:100%;">OK</a>
+            </div>
+            </div>
+            
+           <!-- Account -->
+            
+           <!-- Welcome -->
+            <div id="welcome" class="inner" style=" padding-top:2em;">
+					<span class="icon major fa-user-secret"></span>
+					<h1><strong>Word Killer</strong></h1>
+                    <h2><strong>法语单词宝</strong></h2>
+					<p>I'am not a world killer but a word killer</p>
+					<ul class="actions">
+                     <li><a id="mode0" class="button" onClick="numQ=0;choosemode();"><i class="icon alt fa-trophy"></i>&nbsp;&nbsp;经典模式</a></li>
+						<li><a id="mode1" class="button" onClick="numQ=1;choosemode();"><i class="icon alt fa-flag-checkered"></i>&nbsp;&nbsp;竞技模式</a></li>
+                        <!--li><a id="mode2" class="button" onClick="numQ=2;choosemode();"><i class="icon alt fa-joomla"></i>&nbsp;&nbsp;对战模式</a></li-->
+                        <li><a href="https://itunes.apple.com/cn/app/word-killer-fa-yu-dan-ci-bao/id982806051?mt=8&uo=4" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/zh_cn//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/zh_cn//images/web/linkmaker/badge_appstore-lrg.svg);}"></a></li>
+					</ul>
+				</div>
+                
+           <!-- Select dict-->
+            <div id="select" class="inner" style="display:none">
+					<span class="icon major fa-list-ul"></span>
+					<h1><strong>选择词库</strong></h1>
+					<p>I'am not a world killer but a word killer</p>
+					<ul class="actions">
+                     <li><a id="dict1" class="button" onClick="iddict=0;choosedict('#dict1');"><i class="icon alt fa-book"></i>&nbsp;&nbsp;法语基础767词</a></li>
+						<li><a id="dict2" class="button" onClick="iddict=1;choosedict('#dict2');"><i class="icon alt fa-book"></i>&nbsp;&nbsp;TEF考试7392词</a></li>
+                        <li><a id="dict3" class="button" onClick="iddict=2;choosedict('#dict3');"><i class="icon alt fa-book"></i>&nbsp;&nbsp;德语基础775词</a></li>
+					</ul>
+				</div>
+
+           <!-- Study record-->
+            <div id="record" class="inner" style="background: rgba(0%,10%,20%,0.6);display:none; height:100%;padding:10px 10px 10px 10px;" >
+                <div style="height:10%;"> 
+                	<a class="icon fa-pencil fa" style="font-size:24px"><strong>&nbsp;&nbsp;学习记录</strong></a>
+                </div>
+                <div style="overflow-y:auto; height:80%;"> 
+                    <ul class="actions">
+                    	<li><a id="recordcontent" style="text-align:left"></a></li>
+                    </ul>
+                </div>
+                <div style="height:10%;"> 
+                	<a class="button" onClick="welcome()" style="height:100%; width:100%;">OK</a>
+                </div>
+			</div>
+                
+           <!-- Search box -->
+            <div id="search" class="inner" style="background: rgba(0%,10%,20%,0.6);display:none; padding:10px 10px 10px 10px;" >
+            <div style="height:8%;"> 
+            <input id="searchword" value="输入想要查询的单词或意思" style="height:100%; width:100%;" oninput="hint()"  onClick="if(this.value=='输入想要查询的单词或意思')this.value=''" onkeypress="EnterPress(event)" onkeydown="EnterPress()" ></input><!--a class="myButton" onClick="" style="height:80%; width:20%;">搜索</a-->
+            </div>
+            <div style="overflow-y:auto; height:90%;"> 
+            <ul class="actions">
+			<li><a id="searchcontent" style="text-align:left"></a></li>
+            </ul>
+            </div>
+            </div>
+      
+            
+				<div id="maincontent" class="inner" style="display: none; height: 100%; width: 100%; position: relative;">
+					<div style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis; width:100%;  height:12%; font-size:2em;"><p style="font-size:0.5em;"></p><a id="keyword" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis; width:100%;">I am westhigh</a><p style="font-size:0.5em;"></p></div>
+                    <ul class="icons">
+                    <li><a id="wordtype"></a></li>
+                    <li><a id="easy" onClick="easy()" class="icon fa-rocket fa"></a></li><li><a id="pass" onClick="pass()" class="icon fa-arrow-circle-right fa"></a></li><li><a id="pause" onClick="pausePlay()" class="icon fa-pause fa"></a></li>
+                    
+                    <div id="progressbar" style="height:5px;width:auto";></div>
+                    <li><a id="numQuestion" class="fa fa-pie-chart">&nbsp;&nbsp;</a></li>&nbsp;&nbsp;<li><a id="numRight" class="fa fa-check-square">&nbsp;&nbsp;</a></li><li><a id="score" class="fa fa-line-chart"></a></li></ul>
+					<ul class="actions">
+                        <li><a id="ans0" class="button"  onClick="ans=0;checkans()">westhigh</a></li>
+                            <li><a id="ans1" class="button" onClick="ans=1;checkans()">is</a></li>
+                            <li><a id="ans2" class="button" onClick="ans=2;checkans()">the</a></li>
+                            <li><a id="ans3" class="button" onClick="ans=3;checkans()">author</a></li>
+                            <li><a id="tips" style="font-size:0.8em">TIP</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<section id="footer">
+				<ul class="icons">
+                <li><a id="home" class="myButton" onClick="welcome()"><i class="icon alt fa-home"></i>&nbsp;&nbsp;主页</a></li>
+                <li><a id="dict" class="myButton" onClick="selectdict()"><i class="icon alt fa-list-ul"></i>&nbsp;&nbsp;词库</a></li>
+                <li><a id="find" class="myButton" onClick="initsearch()"><i class="icon alt fa-search"></i></a></li>
+                <!--li><a href="#" id="mute" onClick="mute()" class="icon alt fa-volume-up"></a></li>
+                <!--li><a href="#" onClick="sync()" class="icon alt refresh">&nbsp;&nbsp;同步</a></li>
+                <br><li><a href="wanghongbin.cn">&copy; West&amp;Wei</a></li-->
+                </ul>
+                <div id='sizeinfo'></div>
+			</section>
+<audio id="sound"><source src="" type="audio/mpeg"></audio>
+    </body>
+</html>

@@ -1,0 +1,4653 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<word>Abend</word>
+	<type>m,-e</type>
+	<mean>晚上</mean>
+	<id>1</id>
+</RECORD>
+<RECORD>
+	<word>Abschied</word>
+	<type>m,-e</type>
+	<mean>告别，分别</mean>
+	<id>2</id>
+</RECORD>
+<RECORD>
+	<word>Absicht</word>
+	<type>f,-en</type>
+	<mean>意图</mean>
+	<id>3</id>
+</RECORD>
+<RECORD>
+	<word>Achtung</word>
+	<type>f</type>
+	<mean>尊敬，注意</mean>
+	<id>4</id>
+</RECORD>
+<RECORD>
+	<word>Adresse</word>
+	<type>f,-n</type>
+	<mean>地址</mean>
+	<id>5</id>
+</RECORD>
+<RECORD>
+	<word>allein</word>
+	<type>adv,adj</type>
+	<mean>单独，独自</mean>
+	<id>6</id>
+</RECORD>
+<RECORD>
+	<word>alles</word>
+	<type>pron</type>
+	<mean>所有，全部</mean>
+	<id>7</id>
+</RECORD>
+<RECORD>
+	<word>alt</word>
+	<type>adj</type>
+	<mean>老的，旧的</mean>
+	<id>8</id>
+</RECORD>
+<RECORD>
+	<word>Alter</word>
+	<type>n,-</type>
+	<mean>老年；年龄</mean>
+	<id>9</id>
+</RECORD>
+<RECORD>
+	<word>Amt</word>
+	<type>n,-:er</type>
+	<mean>职位，职务；局，厅，处，所</mean>
+	<id>10</id>
+</RECORD>
+<RECORD>
+	<word>Anfang</word>
+	<type>m,-:e</type>
+	<mean>开始</mean>
+	<id>11</id>
+</RECORD>
+<RECORD>
+	<word>Angelegenheit</word>
+	<type>f,-en</type>
+	<mean>事，事情</mean>
+	<id>12</id>
+</RECORD>
+<RECORD>
+	<word>angenehm</word>
+	<type>adj</type>
+	<mean>适意的，愉快的；欢迎的</mean>
+	<id>13</id>
+</RECORD>
+<RECORD>
+	<word>Angriff</word>
+	<type>m,-e</type>
+	<mean>进攻，攻击</mean>
+	<id>14</id>
+</RECORD>
+<RECORD>
+	<word>Angst</word>
+	<type>f,-:e</type>
+	<mean>害怕</mean>
+	<id>15</id>
+</RECORD>
+<RECORD>
+	<word>Ansicht</word>
+	<type>f,-en</type>
+	<mean>看法，观点，意见</mean>
+	<id>16</id>
+</RECORD>
+<RECORD>
+	<word>Antwort</word>
+	<type>f,-en</type>
+	<mean>回答</mean>
+	<id>17</id>
+</RECORD>
+<RECORD>
+	<word>Anzeige</word>
+	<type>f,-n</type>
+	<mean>广告</mean>
+	<id>18</id>
+</RECORD>
+<RECORD>
+	<word>Anzug</word>
+	<type>m,-:e</type>
+	<mean>西服</mean>
+	<id>19</id>
+</RECORD>
+<RECORD>
+	<word>Apparat</word>
+	<type>m,-e</type>
+	<mean>器械，仪器；（电话等）机件；机构</mean>
+	<id>20</id>
+</RECORD>
+<RECORD>
+	<word>Arbeit</word>
+	<type>f,-en</type>
+	<mean>工作，劳动</mean>
+	<id>21</id>
+</RECORD>
+<RECORD>
+	<word>Arbeiter</word>
+	<type>m,-</type>
+	<mean>工人</mean>
+	<id>22</id>
+</RECORD>
+<RECORD>
+	<word>Arm</word>
+	<type>m,-e</type>
+	<mean>臂</mean>
+	<id>23</id>
+</RECORD>
+<RECORD>
+	<word>arm</word>
+	<type>adj</type>
+	<mean>贫穷的，可怜的</mean>
+	<id>24</id>
+</RECORD>
+<RECORD>
+	<word>Arznei</word>
+	<type>f,-en</type>
+	<mean>药，药剂，药物</mean>
+	<id>25</id>
+</RECORD>
+<RECORD>
+	<word>Arzt</word>
+	<type>m,-:e</type>
+	<mean>医师</mean>
+	<id>26</id>
+</RECORD>
+<RECORD>
+	<word>Atem</word>
+	<type>m</type>
+	<mean>呼吸</mean>
+	<id>27</id>
+</RECORD>
+<RECORD>
+	<word>Atom</word>
+	<type>n,-e</type>
+	<mean>原子</mean>
+	<id>28</id>
+</RECORD>
+<RECORD>
+	<word>Aufgabaufmerksam</word>
+	<type>adj</type>
+	<mean>注意的，专心的</mean>
+	<id>29</id>
+</RECORD>
+<RECORD>
+	<word>Auge</word>
+	<type>n,-n</type>
+	<mean>眼睛</mean>
+	<id>30</id>
+</RECORD>
+<RECORD>
+	<word>Ausland</word>
+	<type>n</type>
+	<mean>外国</mean>
+	<id>31</id>
+</RECORD>
+<RECORD>
+	<word>Ausnahme</word>
+	<type>f,-n</type>
+	<mean>例外</mean>
+	<id>32</id>
+</RECORD>
+<RECORD>
+	<word>auβen</word>
+	<type>adv</type>
+	<mean>在外面，外部</mean>
+	<id>33</id>
+</RECORD>
+<RECORD>
+	<word>Ausstellung</word>
+	<type>f,-en</type>
+	<mean>展览会；展览，陈列</mean>
+	<id>34</id>
+</RECORD>
+<RECORD>
+	<word>Ausweis</word>
+	<type>m,-e</type>
+	<mean>证件，凭证</mean>
+	<id>35</id>
+</RECORD>
+<RECORD>
+	<word>Auto</word>
+	<type>n,-s</type>
+	<mean>汽车</mean>
+	<id>36</id>
+</RECORD>
+<RECORD>
+	<word>Automat</word>
+	<type>m,-en,-en</type>
+	<mean>自动装置；自动售货机</mean>
+	<id>37</id>
+</RECORD>
+<RECORD>
+	<word>Bad</word>
+	<type>n,-:er</type>
+	<mean>洗澡，澡堂，游泳池</mean>
+	<id>38</id>
+</RECORD>
+<RECORD>
+	<word>Bahn</word>
+	<type>f,-en</type>
+	<mean>铁路；跑道</mean>
+	<id>39</id>
+</RECORD>
+<RECORD>
+	<word>bald</word>
+	<type>adv</type>
+	<mean>不久</mean>
+	<id>40</id>
+</RECORD>
+<RECORD>
+	<word>Ball</word>
+	<type>m,-:e</type>
+	<mean>球，舞会</mean>
+	<id>41</id>
+</RECORD>
+<RECORD>
+	<word>Bank</word>
+	<type>f,-en</type>
+	<mean>银行</mean>
+	<id>42</id>
+</RECORD>
+<RECORD>
+	<word>Band</word>
+	<type>n,-:er</type>
+	<mean>带子</mean>
+	<id>43</id>
+</RECORD>
+<RECORD>
+	<word>Bau</word>
+	<type>m,-ten</type>
+	<mean>建筑物；种植</mean>
+	<id>44</id>
+</RECORD>
+<RECORD>
+	<word>Bauch</word>
+	<type>m,-:e</type>
+	<mean>腹，肚子</mean>
+	<id>45</id>
+</RECORD>
+<RECORD>
+	<word>Bauer</word>
+	<type>m,-n,-n</type>
+	<mean>农民</mean>
+	<id>46</id>
+</RECORD>
+<RECORD>
+	<word>Baum</word>
+	<type>m,-:e</type>
+	<mean>树</mean>
+	<id>47</id>
+</RECORD>
+<RECORD>
+	<word>Bedarf</word>
+	<type>m</type>
+	<mean>需求，需要</mean>
+	<id>48</id>
+</RECORD>
+<RECORD>
+	<word>Bedeutung</word>
+	<type>f,-en</type>
+	<mean>意义，重要性</mean>
+	<id>49</id>
+</RECORD>
+<RECORD>
+	<word>Bedingung</word>
+	<type>f,-en</type>
+	<mean>条件</mean>
+	<id>50</id>
+</RECORD>
+<RECORD>
+	<word>Beginn</word>
+	<type>m</type>
+	<mean>开始</mean>
+	<id>51</id>
+</RECORD>
+<RECORD>
+	<word>Bein</word>
+	<type>n,-e</type>
+	<mean>腿</mean>
+	<id>52</id>
+</RECORD>
+<RECORD>
+	<word>Beispiel</word>
+	<type>n,-e</type>
+	<mean>例子；榜样；样品</mean>
+	<id>53</id>
+</RECORD>
+<RECORD>
+	<word>Beitrag</word>
+	<type>m,-:e</type>
+	<mean>贡献；稿件；（成员）会费</mean>
+	<id>54</id>
+</RECORD>
+<RECORD>
+	<word>Beistand</word>
+	<type>m,-:e</type>
+	<mean>帮助，支援；支持者</mean>
+	<id>55</id>
+</RECORD>
+<RECORD>
+	<word>Bekannt</word>
+	<type>adj</type>
+	<mean>有名的；众所周知的</mean>
+	<id>56</id>
+</RECORD>
+<RECORD>
+	<word>bereit</word>
+	<type>adj</type>
+	<mean>准备好的；乐意的</mean>
+	<id>57</id>
+</RECORD>
+<RECORD>
+	<word>Berg</word>
+	<type>m,-e</type>
+	<mean>山</mean>
+	<id>58</id>
+</RECORD>
+<RECORD>
+	<word>Bericht</word>
+	<type>m,-e</type>
+	<mean>报告</mean>
+	<id>59</id>
+</RECORD>
+<RECORD>
+	<word>Beruf</word>
+	<type>m,-e</type>
+	<mean>职业</mean>
+	<id>60</id>
+</RECORD>
+<RECORD>
+	<word>berühmt</word>
+	<type>adj</type>
+	<mean>著名的</mean>
+	<id>61</id>
+</RECORD>
+<RECORD>
+	<word>Besseres</word>
+	<type>n</type>
+	<mean>较好的事情（条件、行为、主张）</mean>
+	<id>62</id>
+</RECORD>
+<RECORD>
+	<word>Bescheid</word>
+	<type>m,-e</type>
+	<mean>通知；（对申请）答复</mean>
+	<id>63</id>
+</RECORD>
+<RECORD>
+	<word>bescheiden</word>
+	<type>adj</type>
+	<mean>谦虚的，朴素的</mean>
+	<id>64</id>
+</RECORD>
+<RECORD>
+	<word>Beschluβ</word>
+	<type>m,-:sse</type>
+	<mean>结束；决定；决议</mean>
+	<id>65</id>
+</RECORD>
+<RECORD>
+	<word>Beschwerde</word>
+	<type>f,-n</type>
+	<mean>辛苦；艰难；疾苦；申诉，抗议</mean>
+	<id>66</id>
+</RECORD>
+<RECORD>
+	<word>Besen</word>
+	<type>m,-</type>
+	<mean>扫帚</mean>
+	<id>67</id>
+</RECORD>
+<RECORD>
+	<word>Besitz</word>
+	<type>m</type>
+	<mean>占有物，财产</mean>
+	<id>68</id>
+</RECORD>
+<RECORD>
+	<word>besondere</word>
+	<type>adj</type>
+	<mean>特殊的，独特的，异常的</mean>
+	<id>69</id>
+</RECORD>
+<RECORD>
+	<word>besonders</word>
+	<type>adv</type>
+	<mean>单独地，特别地</mean>
+	<id>70</id>
+</RECORD>
+<RECORD>
+	<word>Besorgnis</word>
+	<type>f,-se</type>
+	<mean>忧虑，惊慌</mean>
+	<id>71</id>
+</RECORD>
+<RECORD>
+	<word>Bestand</word>
+	<type>m,-:e</type>
+	<mean>生存，持续库存，贮存量</mean>
+	<id>72</id>
+</RECORD>
+<RECORD>
+	<word>bestimmt</word>
+	<type>adj</type>
+	<mean>一定的adv</mean>
+	<id>73</id>
+</RECORD>
+<RECORD>
+	<word>Besuch</word>
+	<type>m,-e</type>
+	<mean>访问，看望</mean>
+	<id>74</id>
+</RECORD>
+<RECORD>
+	<word>Betrieb</word>
+	<type>m,-e</type>
+	<mean>企业，工厂</mean>
+	<id>75</id>
+</RECORD>
+<RECORD>
+	<word>Bett</word>
+	<type>n,-en</type>
+	<mean>床</mean>
+	<id>76</id>
+</RECORD>
+<RECORD>
+	<word>Bevoelkerung</word>
+	<type>f,-en</type>
+	<mean>人口，居民</mean>
+	<id>77</id>
+</RECORD>
+<RECORD>
+	<word>Beweis</word>
+	<type>m,-e</type>
+	<mean>证明，证据</mean>
+	<id>78</id>
+</RECORD>
+<RECORD>
+	<word>Beyiehung</word>
+	<type>f,-en</type>
+	<mean>关系</mean>
+	<id>79</id>
+</RECORD>
+<RECORD>
+	<word>Bier</word>
+	<type>n,-e</type>
+	<mean>啤酒</mean>
+	<id>80</id>
+</RECORD>
+<RECORD>
+	<word>Bild</word>
+	<type>n,-er</type>
+	<mean>图画；相片；图像</mean>
+	<id>81</id>
+</RECORD>
+<RECORD>
+	<word>Billing</word>
+	<type>adj</type>
+	<mean>便宜的，廉价的</mean>
+	<id>82</id>
+</RECORD>
+<RECORD>
+	<word>Binde</word>
+	<type>f,-n</type>
+	<mean>带子，绷带</mean>
+	<id>83</id>
+</RECORD>
+<RECORD>
+	<word>Birne</word>
+	<type>f,-n</type>
+	<mean>梨；电灯泡</mean>
+	<id>84</id>
+</RECORD>
+<RECORD>
+	<word></word>
+	<type></type>
+	<mean></mean>
+	<id>85</id>
+</RECORD>
+<RECORD>
+	<word>biβchen</word>
+	<type>num</type>
+	<mean>少量，少许，一些，一点儿</mean>
+	<id>86</id>
+</RECORD>
+<RECORD>
+	<word>bissing</word>
+	<type>adj</type>
+	<mean>咬人的；尖刻的；辛辣的</mean>
+	<id>87</id>
+</RECORD>
+<RECORD>
+	<word>bitte</word>
+	<type>adv</type>
+	<mean>请</mean>
+	<id>88</id>
+</RECORD>
+<RECORD>
+	<word>bitter</word>
+	<type>adj</type>
+	<mean>苦的；尖锐的；非常</mean>
+	<id>89</id>
+</RECORD>
+<RECORD>
+	<word>Blatt</word>
+	<type>n,-:er</type>
+	<mean>叶；页；报纸</mean>
+	<id>90</id>
+</RECORD>
+<RECORD>
+	<word>blau</word>
+	<type>adj</type>
+	<mean>蓝色的</mean>
+	<id>91</id>
+</RECORD>
+<RECORD>
+	<word>Blick</word>
+	<type>m,-e</type>
+	<mean>目光；眼色</mean>
+	<id>92</id>
+</RECORD>
+<RECORD>
+	<word>blind</word>
+	<type>adj</type>
+	<mean>盲的</mean>
+	<id>93</id>
+</RECORD>
+<RECORD>
+	<word>Blume</word>
+	<type>f,-n</type>
+	<mean>花</mean>
+	<id>94</id>
+</RECORD>
+<RECORD>
+	<word>Blut</word>
+	<type>n</type>
+	<mean>血</mean>
+	<id>95</id>
+</RECORD>
+<RECORD>
+	<word>Boden</word>
+	<type>m,-:</type>
+	<mean>地，土地；地板；底</mean>
+	<id>96</id>
+</RECORD>
+<RECORD>
+	<word>Bote</word>
+	<type>m,-n,-n</type>
+	<mean>信差，送信人</mean>
+	<id>97</id>
+</RECORD>
+<RECORD>
+	<word>Botschaft</word>
+	<type>f,-en</type>
+	<mean>消息，信息；大使馆</mean>
+	<id>98</id>
+</RECORD>
+<RECORD>
+	<word>Brand</word>
+	<type>m,-:e</type>
+	<mean>火，火灾；烙印；激情</mean>
+	<id>99</id>
+</RECORD>
+<RECORD>
+	<word>Brauch</word>
+	<type>m</type>
+	<mean>使用，利用</mean>
+	<id>100</id>
+</RECORD>
+<RECORD>
+	<word>braun</word>
+	<type>adj</type>
+	<mean>褐色的，棕色的</mean>
+	<id>101</id>
+</RECORD>
+<RECORD>
+	<word>breit</word>
+	<type>adj</type>
+	<mean>宽的</mean>
+	<id>102</id>
+</RECORD>
+<RECORD>
+	<word>Brett</word>
+	<type>n,-er</type>
+	<mean>木板</mean>
+	<id>103</id>
+</RECORD>
+<RECORD>
+	<word>Brief</word>
+	<type>m,-e</type>
+	<mean>信</mean>
+	<id>104</id>
+</RECORD>
+<RECORD>
+	<word>Brot</word>
+	<type>n,-e</type>
+	<mean>面包</mean>
+	<id>105</id>
+</RECORD>
+<RECORD>
+	<word>Brücke</word>
+	<type>f,-n</type>
+	<mean>桥</mean>
+	<id>106</id>
+</RECORD>
+<RECORD>
+	<word>Bruder</word>
+	<type>m,-:</type>
+	<mean>兄弟</mean>
+	<id>107</id>
+</RECORD>
+<RECORD>
+	<word>Buch</word>
+	<type>n,-:er</type>
+	<mean>书</mean>
+	<id>108</id>
+</RECORD>
+<RECORD>
+	<word>Büchse</word>
+	<type>f,-n</type>
+	<mean>小盒，小罐</mean>
+	<id>109</id>
+</RECORD>
+<RECORD>
+	<word>Bucht</word>
+	<type>f,-en</type>
+	<mean>海湾，湖湾</mean>
+	<id>110</id>
+</RECORD>
+<RECORD>
+	<word>Bühne</word>
+	<type>f,-n</type>
+	<mean>舞台</mean>
+	<id>111</id>
+</RECORD>
+<RECORD>
+	<word>Bund</word>
+	<type>m,-:e</type>
+	<mean>结盟，结合</mean>
+	<id>112</id>
+</RECORD>
+<RECORD>
+	<word>Bündel</word>
+	<type>n,-</type>
+	<mean>扎，捆，束，把</mean>
+	<id>113</id>
+</RECORD>
+<RECORD>
+	<word>bunt</word>
+	<type>adj</type>
+	<mean>彩色的，五</mean>
+	<id>114</id>
+</RECORD>
+<RECORD>
+	<word>Büro</word>
+	<type>n,-s</type>
+	<mean>办公室；局，处，所，科</mean>
+	<id>115</id>
+</RECORD>
+<RECORD>
+	<word>Bus</word>
+	<type>m,-se</type>
+	<mean>公共汽车</mean>
+	<id>116</id>
+</RECORD>
+<RECORD>
+	<word>Chef</word>
+	<type>m,-s</type>
+	<mean>主任；首脑，领导</mean>
+	<id>117</id>
+</RECORD>
+<RECORD>
+	<word>Chemie</word>
+	<type>f</type>
+	<mean>化学</mean>
+	<id>118</id>
+</RECORD>
+<RECORD>
+	<word>Dame</word>
+	<type>f,-n</type>
+	<mean>女士</mean>
+	<id>119</id>
+</RECORD>
+<RECORD>
+	<word>Dampf</word>
+	<type>m,-:e</type>
+	<mean>蒸汽；力量</mean>
+	<id>120</id>
+</RECORD>
+<RECORD>
+	<word>Dank</word>
+	<type>m</type>
+	<mean>感谢</mean>
+	<id>121</id>
+</RECORD>
+<RECORD>
+	<word>Decke</word>
+	<type>f,-n</type>
+	<mean>罩，套，覆盖物</mean>
+	<id>122</id>
+</RECORD>
+<RECORD>
+	<word>Deckel</word>
+	<type>m,-</type>
+	<mean>(瓶，缸等)盖子；帽子</mean>
+	<id>123</id>
+</RECORD>
+<RECORD>
+	<word>deutlich</word>
+	<type>adj</type>
+	<mean>清楚的；明确的</mean>
+	<id>124</id>
+</RECORD>
+<RECORD>
+	<word>deutsch</word>
+	<type>adj</type>
+	<mean>德国的，德语的</mean>
+	<id>125</id>
+</RECORD>
+<RECORD>
+	<word>dicht</word>
+	<type>adj</type>
+	<mean>紧密的，浓密的，稠密的</mean>
+	<id>126</id>
+</RECORD>
+<RECORD>
+	<word>dick</word>
+	<type>adj</type>
+	<mean>胖的，厚的，浓的</mean>
+	<id>127</id>
+</RECORD>
+<RECORD>
+	<word>Dienst</word>
+	<type>m,-e</type>
+	<mean>工作，职务，服务，效劳</mean>
+	<id>128</id>
+</RECORD>
+<RECORD>
+	<word>Ding</word>
+	<type>n,-e</type>
+	<mean>东西；事情</mean>
+	<id>129</id>
+</RECORD>
+<RECORD>
+	<word>Direkt</word>
+	<type>adj</type>
+	<mean>直接的</mean>
+	<id>130</id>
+</RECORD>
+<RECORD>
+	<word>Direktor</word>
+	<type>m,-en</type>
+	<mean>经理，厂长，所长</mean>
+	<id>131</id>
+</RECORD>
+<RECORD>
+	<word>Dorf</word>
+	<type>n,-:er</type>
+	<mean>农村，村庄</mean>
+	<id>132</id>
+</RECORD>
+<RECORD>
+	<word>dort</word>
+	<type>adv</type>
+	<mean>在那儿</mean>
+	<id>133</id>
+</RECORD>
+<RECORD>
+	<word>Druck</word>
+	<type>m,-:e</type>
+	<mean>压，压力</mean>
+	<id>134</id>
+</RECORD>
+<RECORD>
+	<word>dumm</word>
+	<type>adj</type>
+	<mean>愚蠢的</mean>
+	<id>135</id>
+</RECORD>
+<RECORD>
+	<word>dunkel</word>
+	<type>adj</type>
+	<mean>黑暗的</mean>
+	<id>136</id>
+</RECORD>
+<RECORD>
+	<word>dünn</word>
+	<type>adj</type>
+	<mean>薄的，稀的</mean>
+	<id>137</id>
+</RECORD>
+<RECORD>
+	<word>Dunst</word>
+	<type>m</type>
+	<mean>蒸汽，水汽；云雾</mean>
+	<id>138</id>
+</RECORD>
+<RECORD>
+	<word>Durchfahrt</word>
+	<type>f</type>
+	<mean>通行，畅通</mean>
+	<id>139</id>
+</RECORD>
+<RECORD>
+	<word>Durchgang</word>
+	<type>m</type>
+	<mean>通行</mean>
+	<id>140</id>
+</RECORD>
+<RECORD>
+	<word>Durchmesser</word>
+	<type>m,-</type>
+	<mean>直径</mean>
+	<id>141</id>
+</RECORD>
+<RECORD>
+	<word>Durchsage</word>
+	<type>f,-n</type>
+	<mean>广播通知，电话通知</mean>
+	<id>142</id>
+</RECORD>
+<RECORD>
+	<word>Durchschnitt</word>
+	<type>m,-e</type>
+	<mean>平均</mean>
+	<id>143</id>
+</RECORD>
+<RECORD>
+	<word>Durst</word>
+	<type>m</type>
+	<mean>渴</mean>
+	<id>144</id>
+</RECORD>
+<RECORD>
+	<word>echt</word>
+	<type>adj</type>
+	<mean>真的，真正的；不褪色的</mean>
+	<id>145</id>
+</RECORD>
+<RECORD>
+	<word>Ecke</word>
+	<type>f,-n</type>
+	<mean>角</mean>
+	<id>146</id>
+</RECORD>
+<RECORD>
+	<word>Ehe</word>
+	<type>f,-n</type>
+	<mean>婚姻</mean>
+	<id>147</id>
+</RECORD>
+<RECORD>
+	<word>Ehre</word>
+	<type>f,-n</type>
+	<mean>荣誉，声望，尊敬</mean>
+	<id>148</id>
+</RECORD>
+<RECORD>
+	<word>Ei</word>
+	<type>n,-er</type>
+	<mean>蛋</mean>
+	<id>149</id>
+</RECORD>
+<RECORD>
+	<word>eigen</word>
+	<type>adj</type>
+	<mean>自己的；特有的</mean>
+	<id>150</id>
+</RECORD>
+<RECORD>
+	<word>Eigentum</word>
+	<type>n</type>
+	<mean>财产；所有制</mean>
+	<id>151</id>
+</RECORD>
+<RECORD>
+	<word>Einfluβ</word>
+	<type>m,-:sse</type>
+	<mean>影响</mean>
+	<id>152</id>
+</RECORD>
+<RECORD>
+	<word>Eingang</word>
+	<type>m,-:e</type>
+	<mean>入口</mean>
+	<id>153</id>
+</RECORD>
+<RECORD>
+	<word>Eis</word>
+	<type>n</type>
+	<mean>冰</mean>
+	<id>154</id>
+</RECORD>
+<RECORD>
+	<word>Eisen</word>
+	<type>n,-</type>
+	<mean>铁</mean>
+	<id>155</id>
+</RECORD>
+<RECORD>
+	<word>elektrifizieren</word>
+	<type>vt</type>
+	<mean>使电气化</mean>
+	<id>156</id>
+</RECORD>
+<RECORD>
+	<word>elektrisch</word>
+	<type>adj</type>
+	<mean>电的，导电的，发电的</mean>
+	<id>157</id>
+</RECORD>
+<RECORD>
+	<word>Elektriyitaet</word>
+	<type>f,-en</type>
+	<mean>电</mean>
+	<id>158</id>
+</RECORD>
+<RECORD>
+	<word>Elektron</word>
+	<type>n,-en</type>
+	<mean>电子</mean>
+	<id>159</id>
+</RECORD>
+<RECORD>
+	<word>elementar</word>
+	<type>adj</type>
+	<mean>基本的，初步的；自然力的，强有力的</mean>
+	<id>160</id>
+</RECORD>
+<RECORD>
+	<word>Ende</word>
+	<type>n,-n</type>
+	<mean>结束，末端，末尾</mean>
+	<id>161</id>
+</RECORD>
+<RECORD>
+	<word>eng</word>
+	<type>adj</type>
+	<mean>狭窄的；紧的</mean>
+	<id>162</id>
+</RECORD>
+<RECORD>
+	<word>Erfolg</word>
+	<type>m,-e</type>
+	<mean>成绩，成就</mean>
+	<id>163</id>
+</RECORD>
+<RECORD>
+	<word>Ereignis</word>
+	<type>n,-se</type>
+	<mean>发生的事情，事件</mean>
+	<id>164</id>
+</RECORD>
+<RECORD>
+	<word>ernst</word>
+	<type>adj</type>
+	<mean>严肃的；认真的；严重的</mean>
+	<id>165</id>
+</RECORD>
+<RECORD>
+	<word>Ernte</word>
+	<type>f,-n</type>
+	<mean>收割；收成</mean>
+	<id>166</id>
+</RECORD>
+<RECORD>
+	<word>Essen</word>
+	<type>n</type>
+	<mean>饭菜；进餐</mean>
+	<id>167</id>
+</RECORD>
+<RECORD>
+	<word>Esel</word>
+	<type>m,-</type>
+	<mean>驴；蠢人</mean>
+	<id>168</id>
+</RECORD>
+<RECORD>
+	<word>Fabrik</word>
+	<type>f,-en</type>
+	<mean>工厂</mean>
+	<id>169</id>
+</RECORD>
+<RECORD>
+	<word>Fach</word>
+	<type>n,-:er</type>
+	<mean>专业；学科</mean>
+	<id>170</id>
+</RECORD>
+<RECORD>
+	<word>Faedchen</word>
+	<type>n,-</type>
+	<mean>细线</mean>
+	<id>171</id>
+</RECORD>
+<RECORD>
+	<word>faehig</word>
+	<type>adj</type>
+	<mean>有能力的</mean>
+	<id>172</id>
+</RECORD>
+<RECORD>
+	<word></word>
+	<type></type>
+	<mean></mean>
+	<id>173</id>
+</RECORD>
+<RECORD>
+	<word>Fahrer</word>
+	<type>m,-</type>
+	<mean>司机</mean>
+	<id>174</id>
+</RECORD>
+<RECORD>
+	<word>falsch</word>
+	<type>adj</type>
+	<mean>错误的；假的</mean>
+	<id>175</id>
+</RECORD>
+<RECORD>
+	<word>Familie</word>
+	<type>f,-n</type>
+	<mean>家庭</mean>
+	<id>176</id>
+</RECORD>
+<RECORD>
+	<word>Farbe</word>
+	<type>f,-n</type>
+	<mean>颜色</mean>
+	<id>177</id>
+</RECORD>
+<RECORD>
+	<word>faul</word>
+	<type>adj</type>
+	<mean>懒的；腐烂的</mean>
+	<id>178</id>
+</RECORD>
+<RECORD>
+	<word>Feder</word>
+	<type>f,-n</type>
+	<mean>弹簧；羽毛</mean>
+	<id>179</id>
+</RECORD>
+<RECORD>
+	<word>Fehler</word>
+	<type>m,-</type>
+	<mean>错误，缺点</mean>
+	<id>180</id>
+</RECORD>
+<RECORD>
+	<word>Feier</word>
+	<type>f,-n</type>
+	<mean>庆祝活动，庆祝会，纪念会</mean>
+	<id>181</id>
+</RECORD>
+<RECORD>
+	<word>feige</word>
+	<type>adj</type>
+	<mean>胆小的</mean>
+	<id>182</id>
+</RECORD>
+<RECORD>
+	<word>fein</word>
+	<type>adj</type>
+	<mean>精细的</mean>
+	<id>183</id>
+</RECORD>
+<RECORD>
+	<word>Feld</word>
+	<type>n,-er</type>
+	<mean>田地；原野；场地</mean>
+	<id>184</id>
+</RECORD>
+<RECORD>
+	<word>Fenster</word>
+	<type>n,-</type>
+	<mean>窗</mean>
+	<id>185</id>
+</RECORD>
+<RECORD>
+	<word>Ferien</word>
+	<type>pl.</type>
+	<mean>假期</mean>
+	<id>186</id>
+</RECORD>
+<RECORD>
+	<word>Fest</word>
+	<type>n,-e</type>
+	<mean>节日</mean>
+	<id>187</id>
+</RECORD>
+<RECORD>
+	<word>fest</word>
+	<type>adj</type>
+	<mean>固体的，牢固的，结实的</mean>
+	<id>188</id>
+</RECORD>
+<RECORD>
+	<word>fett</word>
+	<type>adj</type>
+	<mean>油腻的；肥胖的</mean>
+	<id>189</id>
+</RECORD>
+<RECORD>
+	<word>feucht</word>
+	<type>adj</type>
+	<mean>潮湿的</mean>
+	<id>190</id>
+</RECORD>
+<RECORD>
+	<word>Feuer</word>
+	<type>n,-</type>
+	<mean>火</mean>
+	<id>191</id>
+</RECORD>
+<RECORD>
+	<word>Fieber</word>
+	<type>n,-</type>
+	<mean>发烧，热度</mean>
+	<id>192</id>
+</RECORD>
+<RECORD>
+	<word>Film</word>
+	<type>m,-e</type>
+	<mean>电影；胶卷</mean>
+	<id>193</id>
+</RECORD>
+<RECORD>
+	<word>Finanz</word>
+	<type>f</type>
+	<mean>财政，金融；金融界人物(总称)</mean>
+	<id>194</id>
+</RECORD>
+<RECORD>
+	<word>Finger</word>
+	<type>m,-</type>
+	<mean>手指</mean>
+	<id>195</id>
+</RECORD>
+<RECORD>
+	<word>finster</word>
+	<type>adj</type>
+	<mean>幽暗的；阴沉的；阴森森的</mean>
+	<id>196</id>
+</RECORD>
+<RECORD>
+	<word>Firma</word>
+	<type>f,-en</type>
+	<mean>公司，商号</mean>
+	<id>197</id>
+</RECORD>
+<RECORD>
+	<word>Fisch</word>
+	<type>m,-e</type>
+	<mean>鱼</mean>
+	<id>198</id>
+</RECORD>
+<RECORD>
+	<word>Flasche</word>
+	<type>f,-n</type>
+	<mean>瓶</mean>
+	<id>199</id>
+</RECORD>
+<RECORD>
+	<word>Fleisch</word>
+	<type>n</type>
+	<mean>肉</mean>
+	<id>200</id>
+</RECORD>
+<RECORD>
+	<word>Fleiβ</word>
+	<type>m</type>
+	<mean>勤勉，勤奋，努力，刻苦</mean>
+	<id>201</id>
+</RECORD>
+<RECORD>
+	<word>Fluβ</word>
+	<type>m,-:sse</type>
+	<mean>河</mean>
+	<id>202</id>
+</RECORD>
+<RECORD>
+	<word>Form</word>
+	<type>f,-en</type>
+	<mean>形式</mean>
+	<id>203</id>
+</RECORD>
+<RECORD>
+	<word>Frage</word>
+	<type>f,-n</type>
+	<mean>问题</mean>
+	<id>204</id>
+</RECORD>
+<RECORD>
+	<word>Frau</word>
+	<type>f,-en</type>
+	<mean>成年女子，妇女；妻子，夫人，太太</mean>
+	<id>205</id>
+</RECORD>
+<RECORD>
+	<word>frei</word>
+	<type>adj</type>
+	<mean>自由的；独立的；空的；免去的；没有的</mean>
+	<id>206</id>
+</RECORD>
+<RECORD>
+	<word>fremd</word>
+	<type>adj</type>
+	<mean>异乡的，外国的；陌生的</mean>
+	<id>207</id>
+</RECORD>
+<RECORD>
+	<word>Freude</word>
+	<type>f</type>
+	<mean>愉快，高兴</mean>
+	<id>208</id>
+</RECORD>
+<RECORD>
+	<word>Freund</word>
+	<type>m,-e</type>
+	<mean>朋友</mean>
+	<id>209</id>
+</RECORD>
+<RECORD>
+	<word>Freundschaft</word>
+	<type>f,-en</type>
+	<mean>友谊</mean>
+	<id>210</id>
+</RECORD>
+<RECORD>
+	<word>Frieden</word>
+	<type>m</type>
+	<mean>和平</mean>
+	<id>211</id>
+</RECORD>
+<RECORD>
+	<word>frisch</word>
+	<type>adj</type>
+	<mean>新鲜的；干净的；凉爽的</mean>
+	<id>212</id>
+</RECORD>
+<RECORD>
+	<word>froh</word>
+	<type>adj</type>
+	<mean>高兴的，愉快的</mean>
+	<id>213</id>
+</RECORD>
+<RECORD>
+	<word>Frucht</word>
+	<type>f,-:e</type>
+	<mean>果子，果实</mean>
+	<id>214</id>
+</RECORD>
+<RECORD>
+	<word>früh</word>
+	<type>adj</type>
+	<mean>早的</mean>
+	<id>215</id>
+</RECORD>
+<RECORD>
+	<word>Fuβ</word>
+	<type>m,-:e</type>
+	<mean>脚</mean>
+	<id>216</id>
+</RECORD>
+<RECORD>
+	<word>Garten</word>
+	<type>m,-:</type>
+	<mean>花园</mean>
+	<id>217</id>
+</RECORD>
+<RECORD>
+	<word>Gas</word>
+	<type>n,-e</type>
+	<mean>煤气；气体</mean>
+	<id>218</id>
+</RECORD>
+<RECORD>
+	<word>Gast</word>
+	<type>m,-:e</type>
+	<mean>客人</mean>
+	<id>219</id>
+</RECORD>
+<RECORD>
+	<word>Gebaeude</word>
+	<type>n,-</type>
+	<mean>大楼</mean>
+	<id>220</id>
+</RECORD>
+<RECORD>
+	<word>Gebiet</word>
+	<type>n,-e</type>
+	<mean>地区；领域</mean>
+	<id>221</id>
+</RECORD>
+<RECORD>
+	<word>Geburt</word>
+	<type>f,-en</type>
+	<mean>出生</mean>
+	<id>222</id>
+</RECORD>
+<RECORD>
+	<word>Gedanke</word>
+	<type>m,-ns,-n</type>
+	<mean>思想</mean>
+	<id>223</id>
+</RECORD>
+<RECORD>
+	<word>Gefahr</word>
+	<type>f,-en</type>
+	<mean>危险</mean>
+	<id>224</id>
+</RECORD>
+<RECORD>
+	<word>Gefühl</word>
+	<type>n,-e</type>
+	<mean>感情；感触</mean>
+	<id>225</id>
+</RECORD>
+<RECORD>
+	<word>Geist</word>
+	<type>m</type>
+	<mean>精神，思想</mean>
+	<id>226</id>
+</RECORD>
+<RECORD>
+	<word>geld</word>
+	<type>adj</type>
+	<mean>黄颜色的</mean>
+	<id>227</id>
+</RECORD>
+<RECORD>
+	<word>Geld</word>
+	<type>n,-er</type>
+	<mean>钱</mean>
+	<id>228</id>
+</RECORD>
+<RECORD>
+	<word>Gelegenheit</word>
+	<type>f,-en</type>
+	<mean>机会</mean>
+	<id>229</id>
+</RECORD>
+<RECORD>
+	<word>Gemüse</word>
+	<type>n,-</type>
+	<mean>蔬菜</mean>
+	<id>230</id>
+</RECORD>
+<RECORD>
+	<word>genau</word>
+	<type>adj</type>
+	<mean>精确的，准确的</mean>
+	<id>231</id>
+</RECORD>
+<RECORD>
+	<word>Geraet</word>
+	<type>n,-e</type>
+	<mean>工具；器具；器</mean>
+	<id>232</id>
+</RECORD>
+<RECORD>
+	<word>genug</word>
+	<type>adv</type>
+	<mean>足够地；够受的</mean>
+	<id>233</id>
+</RECORD>
+<RECORD>
+	<word>Genuβ</word>
+	<type>m</type>
+	<mean>饮用，食用</mean>
+	<id>234</id>
+</RECORD>
+<RECORD>
+	<word>Gepaeck</word>
+	<type>n</type>
+	<mean>行李</mean>
+	<id>235</id>
+</RECORD>
+<RECORD>
+	<word>gerade</word>
+	<type>adj</type>
+	<mean>直的</mean>
+	<id>236</id>
+</RECORD>
+<RECORD>
+	<word>Geraet</word>
+	<type>n,-e</type>
+	<mean>工具；器具；机器装置</mean>
+	<id>237</id>
+</RECORD>
+<RECORD>
+	<word>gerecht</word>
+	<type>adj</type>
+	<mean>正义的；公正的；应得的；恰当的</mean>
+	<id>238</id>
+</RECORD>
+<RECORD>
+	<word>Gericht</word>
+	<type>n,-e</type>
+	<mean>(烧好的)菜；法庭，法院</mean>
+	<id>239</id>
+</RECORD>
+<RECORD>
+	<word>gering</word>
+	<type>adj</type>
+	<mean>少量的；不足的；微不足道的</mean>
+	<id>240</id>
+</RECORD>
+<RECORD>
+	<word>gern</word>
+	<type>adv</type>
+	<mean>喜欢</mean>
+	<id>241</id>
+</RECORD>
+<RECORD>
+	<word>Geruch</word>
+	<type>m</type>
+	<mean>嗅觉；声誉</mean>
+	<id>242</id>
+</RECORD>
+<RECORD>
+	<word>Gerücht</word>
+	<type>n,-e</type>
+	<mean>谣言，流言蜚语</mean>
+	<id>243</id>
+</RECORD>
+<RECORD>
+	<word>gesamt</word>
+	<type>adj</type>
+	<mean>全部的，完全的，所有的</mean>
+	<id>244</id>
+</RECORD>
+<RECORD>
+	<word>Geschaeft</word>
+	<type>n,-e</type>
+	<mean>商店；商业</mean>
+	<id>245</id>
+</RECORD>
+<RECORD>
+	<word>Geschichte</word>
+	<type>f,-n</type>
+	<mean>历史</mean>
+	<id>246</id>
+</RECORD>
+<RECORD>
+	<word>Geschwindigkeit</word>
+	<type>f,-en</type>
+	<mean>速度</mean>
+	<id>247</id>
+</RECORD>
+<RECORD>
+	<word>Gesellschaft</word>
+	<type>f</type>
+	<mean>社会</mean>
+	<id>248</id>
+</RECORD>
+<RECORD>
+	<word>Gesetz</word>
+	<type>n,-e</type>
+	<mean>法律</mean>
+	<id>249</id>
+</RECORD>
+<RECORD>
+	<word>Gespraech</word>
+	<type>n,-e</type>
+	<mean>谈话</mean>
+	<id>250</id>
+</RECORD>
+<RECORD>
+	<word>gestern</word>
+	<type>adv</type>
+	<mean>昨天</mean>
+	<id>251</id>
+</RECORD>
+<RECORD>
+	<word>gesund</word>
+	<type>adj</type>
+	<mean>健康的</mean>
+	<id>252</id>
+</RECORD>
+<RECORD>
+	<word>Getride</word>
+	<type>n,-</type>
+	<mean>粮食</mean>
+	<id>253</id>
+</RECORD>
+<RECORD>
+	<word>Gewicht</word>
+	<type>n,-e</type>
+	<mean>重量；分量；重要性</mean>
+	<id>254</id>
+</RECORD>
+<RECORD>
+	<word>Gewinn</word>
+	<type>m,-e</type>
+	<mean>收益；利润</mean>
+	<id>255</id>
+</RECORD>
+<RECORD>
+	<word>Gift</word>
+	<type>n,-e</type>
+	<mean>毒</mean>
+	<id>256</id>
+</RECORD>
+<RECORD>
+	<word>Glas</word>
+	<type>n,-er</type>
+	<mean>玻璃，玻璃杯</mean>
+	<id>257</id>
+</RECORD>
+<RECORD>
+	<word>Glaube</word>
+	<type>m,-ns</type>
+	<mean>信念，信仰；信赖，信任</mean>
+	<id>258</id>
+</RECORD>
+<RECORD>
+	<word></word>
+	<type></type>
+	<mean></mean>
+	<id>259</id>
+</RECORD>
+<RECORD>
+	<word>gleich</word>
+	<type>adj</type>
+	<mean>相同的；立刻</mean>
+	<id>260</id>
+</RECORD>
+<RECORD>
+	<word>glatt</word>
+	<type>adj</type>
+	<mean>光滑的</mean>
+	<id>261</id>
+</RECORD>
+<RECORD>
+	<word>Gold</word>
+	<type>n</type>
+	<mean>黄金</mean>
+	<id>262</id>
+</RECORD>
+<RECORD>
+	<word>Gott</word>
+	<type>m,-:er</type>
+	<mean>上帝；神</mean>
+	<id>263</id>
+</RECORD>
+<RECORD>
+	<word>Grad</word>
+	<type>m,-e</type>
+	<mean>度；程度；等级</mean>
+	<id>264</id>
+</RECORD>
+<RECORD>
+	<word>grau</word>
+	<type>adj</type>
+	<mean>灰色的，苍白色的</mean>
+	<id>265</id>
+</RECORD>
+<RECORD>
+	<word>grob</word>
+	<type>adj</type>
+	<mean>粗糙的，粗重的，粗俗的</mean>
+	<id>266</id>
+</RECORD>
+<RECORD>
+	<word>groβ</word>
+	<type>adj</type>
+	<mean>大的</mean>
+	<id>267</id>
+</RECORD>
+<RECORD>
+	<word>grün</word>
+	<type>adj</type>
+	<mean>绿色的</mean>
+	<id>268</id>
+</RECORD>
+<RECORD>
+	<word>Grund</word>
+	<type>m,-:e</type>
+	<mean>土地，田地；地基；底；基础</mean>
+	<id>269</id>
+</RECORD>
+<RECORD>
+	<word>Gummi</word>
+	<type>n(m),-(s)</type>
+	<mean>橡胶</mean>
+	<id>270</id>
+</RECORD>
+<RECORD>
+	<word>gut</word>
+	<type>adj</type>
+	<mean>好的；友好的</mean>
+	<id>271</id>
+</RECORD>
+<RECORD>
+	<word>Harr</word>
+	<type>n,-e</type>
+	<mean>毛，头发</mean>
+	<id>272</id>
+</RECORD>
+<RECORD>
+	<word>Hafen</word>
+	<type>m,-:</type>
+	<mean>港口</mean>
+	<id>273</id>
+</RECORD>
+<RECORD>
+	<word>hager</word>
+	<type>adj</type>
+	<mean>瘦长的，骨瘦如柴的</mean>
+	<id>274</id>
+</RECORD>
+<RECORD>
+	<word>Hahn</word>
+	<type>m,-:e</type>
+	<mean>公鸡；(管道)开关，龙头</mean>
+	<id>275</id>
+</RECORD>
+<RECORD>
+	<word>Haken</word>
+	<type>m,-</type>
+	<mean>钩子</mean>
+	<id>276</id>
+</RECORD>
+<RECORD>
+	<word>halb</word>
+	<type>adj</type>
+	<mean>半，一半</mean>
+	<id>277</id>
+</RECORD>
+<RECORD>
+	<word>Halle</word>
+	<type>f,-n</type>
+	<mean>大厅</mean>
+	<id>278</id>
+</RECORD>
+<RECORD>
+	<word>Hammer</word>
+	<type>m,-:</type>
+	<mean>锤子</mean>
+	<id>279</id>
+</RECORD>
+<RECORD>
+	<word>Hand</word>
+	<type>f,-:e</type>
+	<mean>手</mean>
+	<id>280</id>
+</RECORD>
+<RECORD>
+	<word>Handel</word>
+	<type>m</type>
+	<mean>商业，贸易，买卖</mean>
+	<id>281</id>
+</RECORD>
+<RECORD>
+	<word>hart</word>
+	<type>adj</type>
+	<mean>硬的</mean>
+	<id>282</id>
+</RECORD>
+<RECORD>
+	<word>Haupt</word>
+	<type>n,-:er</type>
+	<mean>首，头；主要，总</mean>
+	<id>283</id>
+</RECORD>
+<RECORD>
+	<word>Haus</word>
+	<type>n,-:er</type>
+	<mean>房屋；家庭</mean>
+	<id>284</id>
+</RECORD>
+<RECORD>
+	<word>Haut</word>
+	<type>f,-:e</type>
+	<mean>皮，皮肤</mean>
+	<id>285</id>
+</RECORD>
+<RECORD>
+	<word>heftig</word>
+	<type>adj</type>
+	<mean>强烈的，激动的</mean>
+	<id>286</id>
+</RECORD>
+<RECORD>
+	<word>Heim</word>
+	<type>n,-e</type>
+	<mean>家；故乡；休养所</mean>
+	<id>287</id>
+</RECORD>
+<RECORD>
+	<word>heiβ</word>
+	<type>adj</type>
+	<mean>热的</mean>
+	<id>288</id>
+</RECORD>
+<RECORD>
+	<word>hell</word>
+	<type>adj</type>
+	<mean>明亮的</mean>
+	<id>289</id>
+</RECORD>
+<RECORD>
+	<word>Hemd</word>
+	<type>n,-en</type>
+	<mean>汗衫，衬衣</mean>
+	<id>290</id>
+</RECORD>
+<RECORD>
+	<word>her</word>
+	<type>adv</type>
+	<mean>到这儿来</mean>
+	<id>291</id>
+</RECORD>
+<RECORD>
+	<word>Herr</word>
+	<type>m,-n,-en</type>
+	<mean>先生；主人</mean>
+	<id>292</id>
+</RECORD>
+<RECORD>
+	<word>Herz</word>
+	<type>n,-ens,-en</type>
+	<mean>心，心脏</mean>
+	<id>293</id>
+</RECORD>
+<RECORD>
+	<word>heute</word>
+	<type>adv</type>
+	<mean>今天</mean>
+	<id>294</id>
+</RECORD>
+<RECORD>
+	<word>Hifle</word>
+	<type>f,-n</type>
+	<mean>帮助</mean>
+	<id>295</id>
+</RECORD>
+<RECORD>
+	<word>Himmel</word>
+	<type>m,-</type>
+	<mean>天空</mean>
+	<id>296</id>
+</RECORD>
+<RECORD>
+	<word>hoch</word>
+	<type>adj</type>
+	<mean>高的</mean>
+	<id>297</id>
+</RECORD>
+<RECORD>
+	<word>hoeflich</word>
+	<type>adj</type>
+	<mean>客气的，有礼貌的</mean>
+	<id>298</id>
+</RECORD>
+<RECORD>
+	<word>Holz</word>
+	<type>n</type>
+	<mean>木，木头</mean>
+	<id>299</id>
+</RECORD>
+<RECORD>
+	<word>Hotel</word>
+	<type>n,-s</type>
+	<mean>旅馆</mean>
+	<id>300</id>
+</RECORD>
+<RECORD>
+	<word>Hund</word>
+	<type>m,-e</type>
+	<mean>狗</mean>
+	<id>301</id>
+</RECORD>
+<RECORD>
+	<word>Hut</word>
+	<type>m,-:e</type>
+	<mean>帽子</mean>
+	<id>302</id>
+</RECORD>
+<RECORD>
+	<word>immer</word>
+	<type>adv</type>
+	<mean>总是</mean>
+	<id>303</id>
+</RECORD>
+<RECORD>
+	<word>Industrie</word>
+	<type>f,-n</type>
+	<mean>工业</mean>
+	<id>304</id>
+</RECORD>
+<RECORD>
+	<word>Instrument</word>
+	<type>n,-e</type>
+	<mean>工具；仪器；器械</mean>
+	<id>305</id>
+</RECORD>
+<RECORD>
+	<word>irr(e)</word>
+	<type>adj</type>
+	<mean>迷途的；精神错乱的</mean>
+	<id>306</id>
+</RECORD>
+<RECORD>
+	<word>Jahr</word>
+	<type>n,-e</type>
+	<mean>年</mean>
+	<id>307</id>
+</RECORD>
+<RECORD>
+	<word>jetzt</word>
+	<type>adv</type>
+	<mean>现在</mean>
+	<id>308</id>
+</RECORD>
+<RECORD>
+	<word>Jugend</word>
+	<type>f</type>
+	<mean>青年(人)；青年时代；青春</mean>
+	<id>309</id>
+</RECORD>
+<RECORD>
+	<word>jung</word>
+	<type>adj</type>
+	<mean>年轻的</mean>
+	<id>310</id>
+</RECORD>
+<RECORD>
+	<word>kalt</word>
+	<type>adj</type>
+	<mean>冷的；冷漠的</mean>
+	<id>311</id>
+</RECORD>
+<RECORD>
+	<word>Kampf</word>
+	<type>m,-:e</type>
+	<mean>斗争</mean>
+	<id>312</id>
+</RECORD>
+<RECORD>
+	<word>Karte</word>
+	<type>f,-n</type>
+	<mean>卡，票，地图，纸牌</mean>
+	<id>313</id>
+</RECORD>
+<RECORD>
+	<word>Kasse</word>
+	<type>f,-n</type>
+	<mean>钱箱；收款处；售票处；出纳处</mean>
+	<id>314</id>
+</RECORD>
+<RECORD>
+	<word>Kasten</word>
+	<type>m,-:</type>
+	<mean>箱子</mean>
+	<id>315</id>
+</RECORD>
+<RECORD>
+	<word>Katze</word>
+	<type>f,-n</type>
+	<mean>猫</mean>
+	<id>316</id>
+</RECORD>
+<RECORD>
+	<word>Kern</word>
+	<type>m,-e</type>
+	<mean>核；果核</mean>
+	<id>317</id>
+</RECORD>
+<RECORD>
+	<word>Kind</word>
+	<type>n,-er</type>
+	<mean>小孩</mean>
+	<id>318</id>
+</RECORD>
+<RECORD>
+	<word>klar</word>
+	<type>adj</type>
+	<mean>明亮的；清新的；清楚的</mean>
+	<id>319</id>
+</RECORD>
+<RECORD>
+	<word>Klasse</word>
+	<type>f,-n</type>
+	<mean>阶级；班级</mean>
+	<id>320</id>
+</RECORD>
+<RECORD>
+	<word>Kleid</word>
+	<type>n,-er</type>
+	<mean>衣服</mean>
+	<id>321</id>
+</RECORD>
+<RECORD>
+	<word>Kleidung</word>
+	<type>f</type>
+	<mean>衣服，服装(总称)</mean>
+	<id>322</id>
+</RECORD>
+<RECORD>
+	<word>klein</word>
+	<type>adj</type>
+	<mean>小的</mean>
+	<id>323</id>
+</RECORD>
+<RECORD>
+	<word>klug</word>
+	<type>adj</type>
+	<mean>聪明的</mean>
+	<id>324</id>
+</RECORD>
+<RECORD>
+	<word>Knopf</word>
+	<type>m,-:e</type>
+	<mean>纽扣；电钮</mean>
+	<id>325</id>
+</RECORD>
+<RECORD>
+	<word>Koffer</word>
+	<type>m,-</type>
+	<mean>箱子</mean>
+	<id>326</id>
+</RECORD>
+<RECORD>
+	<word>Kohle</word>
+	<type>f,-n</type>
+	<mean>煤</mean>
+	<id>327</id>
+</RECORD>
+<RECORD>
+	<word>Kopf</word>
+	<type>m,-:e</type>
+	<mean>头</mean>
+	<id>328</id>
+</RECORD>
+<RECORD>
+	<word>Korn</word>
+	<type>n</type>
+	<mean>谷物</mean>
+	<id>329</id>
+</RECORD>
+<RECORD>
+	<word>Koerper</word>
+	<type>m,-</type>
+	<mean>身体；物体</mean>
+	<id>330</id>
+</RECORD>
+<RECORD>
+	<word>korrekt</word>
+	<type>adj正确的，准确的</type>
+	<mean></mean>
+	<id>331</id>
+</RECORD>
+<RECORD>
+	<word>Kosten</word>
+	<type>pl.</type>
+	<mean>费用，支出</mean>
+	<id>332</id>
+</RECORD>
+<RECORD>
+	<word>Kraft</word>
+	<type>f,-:e</type>
+	<mean>力，力量</mean>
+	<id>333</id>
+</RECORD>
+<RECORD>
+	<word>krank</word>
+	<type>adj</type>
+	<mean>病的</mean>
+	<id>334</id>
+</RECORD>
+<RECORD>
+	<word>Kreis</word>
+	<type>m,-e</type>
+	<mean>圆；县</mean>
+	<id>335</id>
+</RECORD>
+<RECORD>
+	<word>Krieg</word>
+	<type>m,-e</type>
+	<mean>战争</mean>
+	<id>336</id>
+</RECORD>
+<RECORD>
+	<word>Kühl</word>
+	<type>adj</type>
+	<mean>凉爽的，冷漠的</mean>
+	<id>337</id>
+</RECORD>
+<RECORD>
+	<word>kurz</word>
+	<type>adj</type>
+	<mean>短的</mean>
+	<id>338</id>
+</RECORD>
+<RECORD>
+	<word>Laden</word>
+	<type>m,-:</type>
+	<mean>商店</mean>
+	<id>339</id>
+</RECORD>
+<RECORD>
+	<word>Lage</word>
+	<type>f,-n</type>
+	<mean>位置；情况；形势；一层</mean>
+	<id>340</id>
+</RECORD>
+<RECORD>
+	<word>Lampe</word>
+	<type>f,-n</type>
+	<mean>灯</mean>
+	<id>341</id>
+</RECORD>
+<RECORD>
+	<word>Land</word>
+	<type>n,-:er</type>
+	<mean>土地，田野；国家；农村</mean>
+	<id>342</id>
+</RECORD>
+<RECORD>
+	<word>Lang</word>
+	<type>adj</type>
+	<mean>长的</mean>
+	<id>343</id>
+</RECORD>
+<RECORD>
+	<word>Last</word>
+	<type>f,-en</type>
+	<mean>重量，负重，(运载的)货物</mean>
+	<id>344</id>
+</RECORD>
+<RECORD>
+	<word>Lauf</word>
+	<type>m,-:e</type>
+	<mean>跑；进程，过程</mean>
+	<id>345</id>
+</RECORD>
+<RECORD>
+	<word>laut</word>
+	<type>adj</type>
+	<mean>大声的</mean>
+	<id>346</id>
+</RECORD>
+<RECORD>
+	<word>Leben</word>
+	<type>n,-</type>
+	<mean>生活，生命</mean>
+	<id>347</id>
+</RECORD>
+<RECORD>
+	<word></word>
+	<type></type>
+	<mean></mean>
+	<id>348</id>
+</RECORD>
+<RECORD>
+	<word>Leder</word>
+	<type>n,-</type>
+	<mean>皮革</mean>
+	<id>349</id>
+</RECORD>
+<RECORD>
+	<word>Leer</word>
+	<type>adj</type>
+	<mean>空的</mean>
+	<id>350</id>
+</RECORD>
+<RECORD>
+	<word>Lehre</word>
+	<type>f,-n</type>
+	<mean>学说；教育，教训</mean>
+	<id>351</id>
+</RECORD>
+<RECORD>
+	<word>leicht</word>
+	<type>adj</type>
+	<mean>轻的；容易的</mean>
+	<id>352</id>
+</RECORD>
+<RECORD>
+	<word>Leitung</word>
+	<type>f,-en</type>
+	<mean>管道；领导</mean>
+	<id>353</id>
+</RECORD>
+<RECORD>
+	<word>Licht</word>
+	<type>n,-er</type>
+	<mean>光；灯光；灯</mean>
+	<id>354</id>
+</RECORD>
+<RECORD>
+	<word>Liebe</word>
+	<type>f</type>
+	<mean>爱，热爱；爱情</mean>
+	<id>355</id>
+</RECORD>
+<RECORD>
+	<word>Lied</word>
+	<type>n,-er</type>
+	<mean>歌曲</mean>
+	<id>356</id>
+</RECORD>
+<RECORD>
+	<word>Linie</word>
+	<type>f,-n</type>
+	<mean>线，线条；行；排</mean>
+	<id>357</id>
+</RECORD>
+<RECORD>
+	<word>Liste</word>
+	<type>f,-n</type>
+	<mean>表，一览表</mean>
+	<id>358</id>
+</RECORD>
+<RECORD>
+	<word>Lohn</word>
+	<type>m,-:e</type>
+	<mean>工资；报酬</mean>
+	<id>359</id>
+</RECORD>
+<RECORD>
+	<word>Luft</word>
+	<type>f,-:e</type>
+	<mean>空气</mean>
+	<id>360</id>
+</RECORD>
+<RECORD>
+	<word>Lüge</word>
+	<type>f,-n</type>
+	<mean>谎言，谎话</mean>
+	<id>361</id>
+</RECORD>
+<RECORD>
+	<word>Lust</word>
+	<type>f,-:e</type>
+	<mean>兴趣</mean>
+	<id>362</id>
+</RECORD>
+<RECORD>
+	<word>Macht</word>
+	<type>f,-:e</type>
+	<mean>权力；力量；政权</mean>
+	<id>363</id>
+</RECORD>
+<RECORD>
+	<word>mager</word>
+	<type>adj</type>
+	<mean>瘦的</mean>
+	<id>364</id>
+</RECORD>
+<RECORD>
+	<word>Mangel</word>
+	<type>m,-:</type>
+	<mean>缺乏；缺点</mean>
+	<id>365</id>
+</RECORD>
+<RECORD>
+	<word>Mann</word>
+	<type>m,-:er</type>
+	<mean>男人</mean>
+	<id>366</id>
+</RECORD>
+<RECORD>
+	<word>Mantel</word>
+	<type>m,-:</type>
+	<mean>大衣</mean>
+	<id>367</id>
+</RECORD>
+<RECORD>
+	<word>Marke</word>
+	<type>f,-n</type>
+	<mean>标记；商标；票证</mean>
+	<id>368</id>
+</RECORD>
+<RECORD>
+	<word>Markt</word>
+	<type>m,-:e</type>
+	<mean>市场</mean>
+	<id>369</id>
+</RECORD>
+<RECORD>
+	<word>Maβ</word>
+	<type>n,-e</type>
+	<mean>计量单位；大小，量具；标准；限度</mean>
+	<id>370</id>
+</RECORD>
+<RECORD>
+	<word>Maschine</word>
+	<type>f,-n</type>
+	<mean>机器</mean>
+	<id>371</id>
+</RECORD>
+<RECORD>
+	<word>Marterial</word>
+	<type>n,-ien</type>
+	<mean>材料；资料</mean>
+	<id>372</id>
+</RECORD>
+<RECORD>
+	<word>Materie</word>
+	<type>f,-n</type>
+	<mean>物质</mean>
+	<id>373</id>
+</RECORD>
+<RECORD>
+	<word>Medizin</word>
+	<type>f,-en</type>
+	<mean>医学</mean>
+	<id>374</id>
+</RECORD>
+<RECORD>
+	<word>mehr</word>
+	<type>num.</type>
+	<mean>adv</mean>
+	<id>375</id>
+</RECORD>
+<RECORD>
+	<word>Meinung</word>
+	<type>f,-en</type>
+	<mean>意见，看法</mean>
+	<id>376</id>
+</RECORD>
+<RECORD>
+	<word>Meister</word>
+	<type>m,-</type>
+	<mean>师傅，领班大师，冠军</mean>
+	<id>377</id>
+</RECORD>
+<RECORD>
+	<word>Mensch</word>
+	<type>m,-en,-en</type>
+	<mean>人</mean>
+	<id>378</id>
+</RECORD>
+<RECORD>
+	<word>Messer</word>
+	<type>n,-</type>
+	<mean>刀</mean>
+	<id>379</id>
+</RECORD>
+<RECORD>
+	<word>Metall</word>
+	<type>n,-e</type>
+	<mean>金属</mean>
+	<id>380</id>
+</RECORD>
+<RECORD>
+	<word>Meter</word>
+	<type>n(m),-</type>
+	<mean>米，公尺</mean>
+	<id>381</id>
+</RECORD>
+<RECORD>
+	<word>Mitglied</word>
+	<type>n,-er</type>
+	<mean>成员</mean>
+	<id>382</id>
+</RECORD>
+<RECORD>
+	<word>Mittag</word>
+	<type>m,-e</type>
+	<mean>中午</mean>
+	<id>383</id>
+</RECORD>
+<RECORD>
+	<word>Mitte</word>
+	<type>f,-n</type>
+	<mean>中间</mean>
+	<id>384</id>
+</RECORD>
+<RECORD>
+	<word>Mittle</word>
+	<type>n,-</type>
+	<mean>中等；方法，手段；资金</mean>
+	<id>385</id>
+</RECORD>
+<RECORD>
+	<word>Mode</word>
+	<type>f,-n</type>
+	<mean>流行式样，时髦；时装</mean>
+	<id>386</id>
+</RECORD>
+<RECORD>
+	<word>modern</word>
+	<type>adj</type>
+	<mean>现代的，时新的</mean>
+	<id>387</id>
+</RECORD>
+<RECORD>
+	<word>moeglich</word>
+	<type>adj</type>
+	<mean>可能的</mean>
+	<id>388</id>
+</RECORD>
+<RECORD>
+	<word>Monat</word>
+	<type>m,-e</type>
+	<mean>月</mean>
+	<id>389</id>
+</RECORD>
+<RECORD>
+	<word>Morgen</word>
+	<type>m,-</type>
+	<mean>早上</mean>
+	<id>390</id>
+</RECORD>
+<RECORD>
+	<word>müde</word>
+	<type>adj</type>
+	<mean>疲倦的</mean>
+	<id>391</id>
+</RECORD>
+<RECORD>
+	<word>Mund</word>
+	<type>m,-:er</type>
+	<mean>口，嘴</mean>
+	<id>392</id>
+</RECORD>
+<RECORD>
+	<word>Musik</word>
+	<type>f</type>
+	<mean>音乐</mean>
+	<id>393</id>
+</RECORD>
+<RECORD>
+	<word>Muster</word>
+	<type>n,-</type>
+	<mean>榜样；图案；样式</mean>
+	<id>394</id>
+</RECORD>
+<RECORD>
+	<word>Mutter</word>
+	<type>f,-:</type>
+	<mean>母亲</mean>
+	<id>395</id>
+</RECORD>
+<RECORD>
+	<word>Mut</word>
+	<type>m</type>
+	<mean>勇敢</mean>
+	<id>396</id>
+</RECORD>
+<RECORD>
+	<word>Nachmittag</word>
+	<type>m,-e</type>
+	<mean>下午</mean>
+	<id>397</id>
+</RECORD>
+<RECORD>
+	<word>Nachricht</word>
+	<type>f,-en</type>
+	<mean>消息</mean>
+	<id>398</id>
+</RECORD>
+<RECORD>
+	<word>Nacht</word>
+	<type>f,-e</type>
+	<mean>夜</mean>
+	<id>399</id>
+</RECORD>
+<RECORD>
+	<word>nackt</word>
+	<type>adj</type>
+	<mean>赤裸的，裸体的，光秃的</mean>
+	<id>400</id>
+</RECORD>
+<RECORD>
+	<word>nahe</word>
+	<type>adj,adv</type>
+	<mean>近的</mean>
+	<id>401</id>
+</RECORD>
+<RECORD>
+	<word>Name</word>
+	<type>m,-ns,-n</type>
+	<mean>名字</mean>
+	<id>402</id>
+</RECORD>
+<RECORD>
+	<word>Narr</word>
+	<type>m,-en,-en</type>
+	<mean>傻瓜，愚人</mean>
+	<id>403</id>
+</RECORD>
+<RECORD>
+	<word>naβ</word>
+	<type>adj</type>
+	<mean>湿的</mean>
+	<id>404</id>
+</RECORD>
+<RECORD>
+	<word>Natur</word>
+	<type>f,-en</type>
+	<mean>自然；天性</mean>
+	<id>405</id>
+</RECORD>
+<RECORD>
+	<word>Netz</word>
+	<type>n,-e</type>
+	<mean>网；网络</mean>
+	<id>406</id>
+</RECORD>
+<RECORD>
+	<word>neu</word>
+	<type>adj</type>
+	<mean>新的</mean>
+	<id>407</id>
+</RECORD>
+<RECORD>
+	<word>Nord</word>
+	<type>m</type>
+	<mean>Norden</mean>
+	<id>408</id>
+</RECORD>
+<RECORD>
+	<word>Not</word>
+	<type>f,-:e</type>
+	<mean>困苦；急迫</mean>
+	<id>409</id>
+</RECORD>
+<RECORD>
+	<word>Nummer</word>
+	<type>f,-n</type>
+	<mean>号，号码，数</mean>
+	<id>410</id>
+</RECORD>
+<RECORD>
+	<word>oben</word>
+	<type>adv</type>
+	<mean>上，上面</mean>
+	<id>411</id>
+</RECORD>
+<RECORD>
+	<word>ober</word>
+	<type>adj</type>
+	<mean>较高的，上面的，高级的</mean>
+	<id>412</id>
+</RECORD>
+<RECORD>
+	<word>Oberflaeche</word>
+	<type>f,-n</type>
+	<mean>表面</mean>
+	<id>413</id>
+</RECORD>
+<RECORD>
+	<word>Obst</word>
+	<type>n</type>
+	<mean>水果</mean>
+	<id>414</id>
+</RECORD>
+<RECORD>
+	<word>Ofen</word>
+	<type>m,-:</type>
+	<mean>炉子</mean>
+	<id>415</id>
+</RECORD>
+<RECORD>
+	<word>offen</word>
+	<type>adj</type>
+	<mean>开的，敞开的</mean>
+	<id>416</id>
+</RECORD>
+<RECORD>
+	<word>oel</word>
+	<type>n,-e</type>
+	<mean>油</mean>
+	<id>417</id>
+</RECORD>
+<RECORD>
+	<word>Operation</word>
+	<type>f,-en</type>
+	<mean>手术</mean>
+	<id>418</id>
+</RECORD>
+<RECORD>
+	<word>Ort</word>
+	<type>m,-e</type>
+	<mean>地点，地方</mean>
+	<id>419</id>
+</RECORD>
+<RECORD>
+	<word>Parr</word>
+	<type>n,-e</type>
+	<mean>一对，一双</mean>
+	<id>420</id>
+</RECORD>
+<RECORD>
+	<word>Papier</word>
+	<type>n,-e</type>
+	<mean>纸；证件</mean>
+	<id>421</id>
+</RECORD>
+<RECORD>
+	<word>Phzsik</word>
+	<type>f</type>
+	<mean>物理</mean>
+	<id>422</id>
+</RECORD>
+<RECORD>
+	<word>Plan</word>
+	<type>m,-:e</type>
+	<mean>计划</mean>
+	<id>423</id>
+</RECORD>
+<RECORD>
+	<word>Plastik</word>
+	<type>n</type>
+	<mean>塑料</mean>
+	<id>424</id>
+</RECORD>
+<RECORD>
+	<word>Platte</word>
+	<type>f,-n</type>
+	<mean>平板</mean>
+	<id>425</id>
+</RECORD>
+<RECORD>
+	<word>Platz</word>
+	<type>m,-:e</type>
+	<mean>位置；座位；场地</mean>
+	<id>426</id>
+</RECORD>
+<RECORD>
+	<word>Politik</word>
+	<type>f</type>
+	<mean>政治，政策</mean>
+	<id>427</id>
+</RECORD>
+<RECORD>
+	<word>Post</word>
+	<type>f</type>
+	<mean>邮局，邮件</mean>
+	<id>428</id>
+</RECORD>
+<RECORD>
+	<word>Preis</word>
+	<type>m,-e</type>
+	<mean>价格</mean>
+	<id>429</id>
+</RECORD>
+<RECORD>
+	<word>privat</word>
+	<type>adj</type>
+	<mean>私人的</mean>
+	<id>430</id>
+</RECORD>
+<RECORD>
+	<word>Produkt</word>
+	<type>n,-e</type>
+	<mean>产品；结果</mean>
+	<id>431</id>
+</RECORD>
+<RECORD>
+	<word>Programm</word>
+	<type>n,-e</type>
+	<mean>节目，节目单；纲领；计划；编程</mean>
+	<id>432</id>
+</RECORD>
+<RECORD>
+	<word>Proportion</word>
+	<type>f,-en</type>
+	<mean>比，比例，成比例</mean>
+	<id>433</id>
+</RECORD>
+<RECORD>
+	<word>Protest</word>
+	<type>m,-e</type>
+	<mean>抗议，异议</mean>
+	<id>434</id>
+</RECORD>
+<RECORD>
+	<word>Prozent</word>
+	<type>n,-(e)</type>
+	<mean>百分数，百分比</mean>
+	<id>435</id>
+</RECORD>
+<RECORD>
+	<word></word>
+	<type></type>
+	<mean></mean>
+	<id>436</id>
+</RECORD>
+<RECORD>
+	<word>Prozeβ</word>
+	<type>m,-sse</type>
+	<mean>诉讼、起诉；过程，进程</mean>
+	<id>437</id>
+</RECORD>
+<RECORD>
+	<word>Pubikum</word>
+	<type>n</type>
+	<mean>公众；观众，听众，读者</mean>
+	<id>438</id>
+</RECORD>
+<RECORD>
+	<word>Puls</word>
+	<type>m,-e</type>
+	<mean>脉，脉搏</mean>
+	<id>439</id>
+</RECORD>
+<RECORD>
+	<word>Pult</word>
+	<type>n,-e</type>
+	<mean>斜桌面，斜面架</mean>
+	<id>440</id>
+</RECORD>
+<RECORD>
+	<word>Pulver</word>
+	<type>n,-</type>
+	<mean>粉末；药粉</mean>
+	<id>441</id>
+</RECORD>
+<RECORD>
+	<word>Punkt</word>
+	<type>m,.e</type>
+	<mean>点；分</mean>
+	<id>442</id>
+</RECORD>
+<RECORD>
+	<word>Qualitaet</word>
+	<type>f,-en</type>
+	<mean>质量</mean>
+	<id>443</id>
+</RECORD>
+<RECORD>
+	<word>Quantitaet</word>
+	<type>f,-en</type>
+	<mean>数量</mean>
+	<id>444</id>
+</RECORD>
+<RECORD>
+	<word>quer</word>
+	<type>adj</type>
+	<mean>横的</mean>
+	<id>445</id>
+</RECORD>
+<RECORD>
+	<word>Rad</word>
+	<type>n,-:er</type>
+	<mean>轮子；自行车</mean>
+	<id>446</id>
+</RECORD>
+<RECORD>
+	<word>Radio</word>
+	<type>n,-s</type>
+	<mean>收音机</mean>
+	<id>447</id>
+</RECORD>
+<RECORD>
+	<word>Rakete</word>
+	<type>f,-n</type>
+	<mean>火箭</mean>
+	<id>448</id>
+</RECORD>
+<RECORD>
+	<word>rasch</word>
+	<type>adj</type>
+	<mean>快的</mean>
+	<id>449</id>
+</RECORD>
+<RECORD>
+	<word>Rauch</word>
+	<type>m</type>
+	<mean>烟，烟雾</mean>
+	<id>450</id>
+</RECORD>
+<RECORD>
+	<word>Raum</word>
+	<type>m,-:e</type>
+	<mean>房间；空间</mean>
+	<id>451</id>
+</RECORD>
+<RECORD>
+	<word>Recht</word>
+	<type>n,-e</type>
+	<mean>法，权利</mean>
+	<id>452</id>
+</RECORD>
+<RECORD>
+	<word>recht</word>
+	<type>adj</type>
+	<mean>右的，右边的；右倾的；正确的</mean>
+	<id>453</id>
+</RECORD>
+<RECORD>
+	<word>rechts</word>
+	<type>adv</type>
+	<mean>右面地，右</mean>
+	<id>454</id>
+</RECORD>
+<RECORD>
+	<word>Rede</word>
+	<type>f,-n</type>
+	<mean>讲话，演讲</mean>
+	<id>455</id>
+</RECORD>
+<RECORD>
+	<word>Regen</word>
+	<type>m</type>
+	<mean>雨</mean>
+	<id>456</id>
+</RECORD>
+<RECORD>
+	<word>reich</word>
+	<type>adj</type>
+	<mean>富的</mean>
+	<id>457</id>
+</RECORD>
+<RECORD>
+	<word>Reihe</word>
+	<type>f,-n</type>
+	<mean>排，列，行</mean>
+	<id>458</id>
+</RECORD>
+<RECORD>
+	<word>rein</word>
+	<type>adj</type>
+	<mean>纯的；洁净的</mean>
+	<id>459</id>
+</RECORD>
+<RECORD>
+	<word>Reise</word>
+	<type>f,-n</type>
+	<mean>旅行</mean>
+	<id>460</id>
+</RECORD>
+<RECORD>
+	<word>Reparatur</word>
+	<type>f,.-en</type>
+	<mean>修理</mean>
+	<id>461</id>
+</RECORD>
+<RECORD>
+	<word>Rolle</word>
+	<type>f,-n</type>
+	<mean>卷；角色</mean>
+	<id>462</id>
+</RECORD>
+<RECORD>
+	<word>rot</word>
+	<type>adj</type>
+	<mean>红色的</mean>
+	<id>463</id>
+</RECORD>
+<RECORD>
+	<word>Ruhe</word>
+	<type>f</type>
+	<mean>安静；休息</mean>
+	<id>464</id>
+</RECORD>
+<RECORD>
+	<word>rund</word>
+	<type>adj</type>
+	<mean>圆的</mean>
+	<id>465</id>
+</RECORD>
+<RECORD>
+	<word>Sache</word>
+	<type>f,-n</type>
+	<mean>物品，东西；事情</mean>
+	<id>466</id>
+</RECORD>
+<RECORD>
+	<word>Sack</word>
+	<type>m,-:e</type>
+	<mean>袋，包；钱包</mean>
+	<id>467</id>
+</RECORD>
+<RECORD>
+	<word>Salz</word>
+	<type>n,-e</type>
+	<mean>盐</mean>
+	<id>468</id>
+</RECORD>
+<RECORD>
+	<word>satt</word>
+	<type>adj</type>
+	<mean>饱的</mean>
+	<id>469</id>
+</RECORD>
+<RECORD>
+	<word>sauber</word>
+	<type>adj</type>
+	<mean>干净的</mean>
+	<id>470</id>
+</RECORD>
+<RECORD>
+	<word>sauer</word>
+	<type>adj</type>
+	<mean>酸的</mean>
+	<id>471</id>
+</RECORD>
+<RECORD>
+	<word>Schaden</word>
+	<type>m,-:</type>
+	<mean>损失</mean>
+	<id>472</id>
+</RECORD>
+<RECORD>
+	<word>scharf</word>
+	<type>adj</type>
+	<mean>锐利的；尖锐的</mean>
+	<id>473</id>
+</RECORD>
+<RECORD>
+	<word>Schatten</word>
+	<type>m,-</type>
+	<mean>影子；阴影；暗处</mean>
+	<id>474</id>
+</RECORD>
+<RECORD>
+	<word>Schau</word>
+	<type>f,-en</type>
+	<mean>展出，展览，陈列；表演</mean>
+	<id>475</id>
+</RECORD>
+<RECORD>
+	<word>Schein</word>
+	<type>m,-e</type>
+	<mean>光；外表；假象；证件；钞票</mean>
+	<id>476</id>
+</RECORD>
+<RECORD>
+	<word>Schiff</word>
+	<type>n,-e</type>
+	<mean>船</mean>
+	<id>477</id>
+</RECORD>
+<RECORD>
+	<word>Schirm</word>
+	<type>m,-e</type>
+	<mean>伞；罩；荧光屏</mean>
+	<id>478</id>
+</RECORD>
+<RECORD>
+	<word>Schlaf</word>
+	<type>m</type>
+	<mean>睡眠</mean>
+	<id>479</id>
+</RECORD>
+<RECORD>
+	<word>schlecht</word>
+	<type>adj</type>
+	<mean>坏的</mean>
+	<id>480</id>
+</RECORD>
+<RECORD>
+	<word>Schluβ</word>
+	<type>m,-:sse</type>
+	<mean>结束</mean>
+	<id>481</id>
+</RECORD>
+<RECORD>
+	<word>Schmerz</word>
+	<type>m,-en</type>
+	<mean>痛，疼痛</mean>
+	<id>482</id>
+</RECORD>
+<RECORD>
+	<word>schmutzig</word>
+	<type>adj</type>
+	<mean>脏的，不干净的；下流的，卑鄙的</mean>
+	<id>483</id>
+</RECORD>
+<RECORD>
+	<word>schnell</word>
+	<type>adj</type>
+	<mean>快的，迅速的；敏捷的</mean>
+	<id>484</id>
+</RECORD>
+<RECORD>
+	<word>schoen</word>
+	<type>adj</type>
+	<mean>美丽的</mean>
+	<id>485</id>
+</RECORD>
+<RECORD>
+	<word>Schrank</word>
+	<type>m,-:e</type>
+	<mean>柜</mean>
+	<id>486</id>
+</RECORD>
+<RECORD>
+	<word>Schritt</word>
+	<type>m,-e</type>
+	<mean>步，步伐</mean>
+	<id>487</id>
+</RECORD>
+<RECORD>
+	<word>Schuh</word>
+	<type>m,-e</type>
+	<mean>鞋</mean>
+	<id>488</id>
+</RECORD>
+<RECORD>
+	<word>Schuld</word>
+	<type>f,-en</type>
+	<mean>债；罪责</mean>
+	<id>489</id>
+</RECORD>
+<RECORD>
+	<word>Schule</word>
+	<type>f,-n</type>
+	<mean>学校</mean>
+	<id>490</id>
+</RECORD>
+<RECORD>
+	<word>Segen</word>
+	<type>m</type>
+	<mean>祝福，祝愿；幸福，运气，好事</mean>
+	<id>491</id>
+</RECORD>
+<RECORD>
+	<word>Seide</word>
+	<type>f,-n</type>
+	<mean>蚕丝，丝；丝织品</mean>
+	<id>492</id>
+</RECORD>
+<RECORD>
+	<word>Seife</word>
+	<type>f,-n</type>
+	<mean>肥皂</mean>
+	<id>493</id>
+</RECORD>
+<RECORD>
+	<word>Schmuck</word>
+	<type>m.,-e</type>
+	<mean>首饰；装饰；装潢</mean>
+	<id>494</id>
+</RECORD>
+<RECORD>
+	<word>Schmutz</word>
+	<type>m</type>
+	<mean>垃圾，脏物；淫秽，下流话</mean>
+	<id>495</id>
+</RECORD>
+<RECORD>
+	<word>Schnee</word>
+	<type>m</type>
+	<mean>雪</mean>
+	<id>496</id>
+</RECORD>
+<RECORD>
+	<word>schwach</word>
+	<type>adj</type>
+	<mean>弱的，虚弱的</mean>
+	<id>497</id>
+</RECORD>
+<RECORD>
+	<word>schwarz</word>
+	<type>adj</type>
+	<mean>黑色的</mean>
+	<id>498</id>
+</RECORD>
+<RECORD>
+	<word>schwer</word>
+	<type>adj</type>
+	<mean>重的；难的</mean>
+	<id>499</id>
+</RECORD>
+<RECORD>
+	<word>Seele</word>
+	<type>f,-n</type>
+	<mean>灵魂，心灵</mean>
+	<id>500</id>
+</RECORD>
+<RECORD>
+	<word>Seite</word>
+	<type>f,-n</type>
+	<mean>页；方面；一边；侧面</mean>
+	<id>501</id>
+</RECORD>
+<RECORD>
+	<word>selbst</word>
+	<type>pron.</type>
+	<mean>自己，本身</mean>
+	<id>502</id>
+</RECORD>
+<RECORD>
+	<word>sicher</word>
+	<type>adj</type>
+	<mean>肯定的；安全的，可靠的</mean>
+	<id>503</id>
+</RECORD>
+<RECORD>
+	<word>Sieg</word>
+	<type>m,-e</type>
+	<mean>胜利</mean>
+	<id>504</id>
+</RECORD>
+<RECORD>
+	<word>Sommer</word>
+	<type>m,-</type>
+	<mean>夏季，夏天</mean>
+	<id>505</id>
+</RECORD>
+<RECORD>
+	<word>Sonne</word>
+	<type>f,-n</type>
+	<mean>太阳</mean>
+	<id>506</id>
+</RECORD>
+<RECORD>
+	<word>Sorge</word>
+	<type>f,-n</type>
+	<mean>忧虑，担心；发愁</mean>
+	<id>507</id>
+</RECORD>
+<RECORD>
+	<word>spaet</word>
+	<type>adj,adv</type>
+	<mean>晚，晚的</mean>
+	<id>508</id>
+</RECORD>
+<RECORD>
+	<word>Speise</word>
+	<type>f,-n</type>
+	<mean>菜，菜肴，饮食，食物</mean>
+	<id>509</id>
+</RECORD>
+<RECORD>
+	<word>Spiegel</word>
+	<type>m,-</type>
+	<mean>镜子</mean>
+	<id>510</id>
+</RECORD>
+<RECORD>
+	<word>Spiel</word>
+	<type>n,-e</type>
+	<mean>玩耍；比赛；赌博</mean>
+	<id>511</id>
+</RECORD>
+<RECORD>
+	<word>Spitze</word>
+	<type>f,-n</type>
+	<mean>尖；高峰</mean>
+	<id>512</id>
+</RECORD>
+<RECORD>
+	<word>Sport</word>
+	<type>m</type>
+	<mean>体育运动</mean>
+	<id>513</id>
+</RECORD>
+<RECORD>
+	<word>Staat</word>
+	<type>m,-en</type>
+	<mean>国家</mean>
+	<id>514</id>
+</RECORD>
+<RECORD>
+	<word>Stadt</word>
+	<type>f,-:e</type>
+	<mean>城市</mean>
+	<id>515</id>
+</RECORD>
+<RECORD>
+	<word>Stahl</word>
+	<type>m,-:e</type>
+	<mean>钢</mean>
+	<id>516</id>
+</RECORD>
+<RECORD>
+	<word>Stall</word>
+	<type>m,-:e</type>
+	<mean>圈，棚</mean>
+	<id>517</id>
+</RECORD>
+<RECORD>
+	<word>Stamm</word>
+	<type>m,-:e</type>
+	<mean>树干；部落，种族</mean>
+	<id>518</id>
+</RECORD>
+<RECORD>
+	<word>Stand</word>
+	<type>m</type>
+	<mean>站，立；金额；状态，情况</mean>
+	<id>519</id>
+</RECORD>
+<RECORD>
+	<word>Staender</word>
+	<type>m,-</type>
+	<mean>架，挂架</mean>
+	<id>520</id>
+</RECORD>
+<RECORD>
+	<word>Stange</word>
+	<type>f,-n</type>
+	<mean>棒，杆，棍</mean>
+	<id>521</id>
+</RECORD>
+<RECORD>
+	<word></word>
+	<type></type>
+	<mean></mean>
+	<id>522</id>
+</RECORD>
+<RECORD>
+	<word>stark</word>
+	<type>adj</type>
+	<mean>强的，强壮的</mean>
+	<id>523</id>
+</RECORD>
+<RECORD>
+	<word>Stein</word>
+	<type>m,-e</type>
+	<mean>石</mean>
+	<id>524</id>
+</RECORD>
+<RECORD>
+	<word>Stelle</word>
+	<type>f,-n</type>
+	<mean>地点；职位；机构</mean>
+	<id>525</id>
+</RECORD>
+<RECORD>
+	<word>Stern</word>
+	<type>m,-e</type>
+	<mean>星</mean>
+	<id>526</id>
+</RECORD>
+<RECORD>
+	<word>still</word>
+	<type>adj</type>
+	<mean>静的，安静的</mean>
+	<id>527</id>
+</RECORD>
+<RECORD>
+	<word>Stimme</word>
+	<type>f,-n</type>
+	<mean>声音；(投)票</mean>
+	<id>528</id>
+</RECORD>
+<RECORD>
+	<word>Stoff</word>
+	<type>m,-e</type>
+	<mean>材料；物质；原料</mean>
+	<id>529</id>
+</RECORD>
+<RECORD>
+	<word>Strafe</word>
+	<type>f,-n</type>
+	<mean>惩罚</mean>
+	<id>530</id>
+</RECORD>
+<RECORD>
+	<word>Straβe</word>
+	<type>f,-n</type>
+	<mean>马路</mean>
+	<id>531</id>
+</RECORD>
+<RECORD>
+	<word>streng</word>
+	<type>adj</type>
+	<mean>严厉的，严格的</mean>
+	<id>532</id>
+</RECORD>
+<RECORD>
+	<word>Strom</word>
+	<type>m,-:e</type>
+	<mean>河流；电流；流</mean>
+	<id>533</id>
+</RECORD>
+<RECORD>
+	<word>Stück</word>
+	<type>n,-e</type>
+	<mean>块，件</mean>
+	<id>534</id>
+</RECORD>
+<RECORD>
+	<word>Stunde</word>
+	<type>f,-n</type>
+	<mean>小时</mean>
+	<id>535</id>
+</RECORD>
+<RECORD>
+	<word>Süd</word>
+	<type>m</type>
+	<mean>Süden</mean>
+	<id>536</id>
+</RECORD>
+<RECORD>
+	<word>Suppe</word>
+	<type>f,-n</type>
+	<mean>汤</mean>
+	<id>537</id>
+</RECORD>
+<RECORD>
+	<word>süβ</word>
+	<type>adj</type>
+	<mean>甜的</mean>
+	<id>538</id>
+</RECORD>
+<RECORD>
+	<word>System</word>
+	<type>n,-e</type>
+	<mean>系统，体系；制度</mean>
+	<id>539</id>
+</RECORD>
+<RECORD>
+	<word>Tafel</word>
+	<type>f,-n</type>
+	<mean>牌子；板；宴席</mean>
+	<id>540</id>
+</RECORD>
+<RECORD>
+	<word>Tag</word>
+	<type>m,-e</type>
+	<mean>白天</mean>
+	<id>541</id>
+</RECORD>
+<RECORD>
+	<word>Tasche</word>
+	<type>f,-n</type>
+	<mean>袋，包</mean>
+	<id>542</id>
+</RECORD>
+<RECORD>
+	<word>Tat</word>
+	<type>f,-en</type>
+	<mean>行为，行动；业绩</mean>
+	<id>543</id>
+</RECORD>
+<RECORD>
+	<word>Taub</word>
+	<type>adj</type>
+	<mean>聋的；充耳不闻的</mean>
+	<id>544</id>
+</RECORD>
+<RECORD>
+	<word>Taxi</word>
+	<type>n,m,-(s)</type>
+	<mean>出租汽车</mean>
+	<id>545</id>
+</RECORD>
+<RECORD>
+	<word>Technik</word>
+	<type>f</type>
+	<mean>技术，技术装备</mean>
+	<id>546</id>
+</RECORD>
+<RECORD>
+	<word>Tee</word>
+	<type>m</type>
+	<mean>茶，药茶</mean>
+	<id>547</id>
+</RECORD>
+<RECORD>
+	<word>Teil</word>
+	<type>m,-e</type>
+	<mean>部分</mean>
+	<id>548</id>
+</RECORD>
+<RECORD>
+	<word>Telegramm</word>
+	<type>n,-e</type>
+	<mean>电报</mean>
+	<id>549</id>
+</RECORD>
+<RECORD>
+	<word>teuer</word>
+	<type>adj</type>
+	<mean>贵的</mean>
+	<id>550</id>
+</RECORD>
+<RECORD>
+	<word>tief</word>
+	<type>adj</type>
+	<mean>深的</mean>
+	<id>551</id>
+</RECORD>
+<RECORD>
+	<word>Tisch</word>
+	<type>m,-e</type>
+	<mean>桌子</mean>
+	<id>552</id>
+</RECORD>
+<RECORD>
+	<word>tot</word>
+	<type>adj</type>
+	<mean>死的</mean>
+	<id>553</id>
+</RECORD>
+<RECORD>
+	<word>Traum</word>
+	<type>m,-:e</type>
+	<mean>梦，梦想</mean>
+	<id>554</id>
+</RECORD>
+<RECORD>
+	<word>treu</word>
+	<type>adj</type>
+	<mean>忠实的</mean>
+	<id>555</id>
+</RECORD>
+<RECORD>
+	<word>trocken</word>
+	<type>adj</type>
+	<mean>干的</mean>
+	<id>556</id>
+</RECORD>
+<RECORD>
+	<word>Tuch</word>
+	<type>n,-:er</type>
+	<mean>织物，帕，巾</mean>
+	<id>557</id>
+</RECORD>
+<RECORD>
+	<word>Tür</word>
+	<type>f,-en</type>
+	<mean>门</mean>
+	<id>558</id>
+</RECORD>
+<RECORD>
+	<word>Turnen</word>
+	<type>n</type>
+	<mean>体操</mean>
+	<id>559</id>
+</RECORD>
+<RECORD>
+	<word>übel</word>
+	<type>adj</type>
+	<mean>坏的，劣的，凶恶的，可厌的；病的，不良的</mean>
+	<id>560</id>
+</RECORD>
+<RECORD>
+	<word>Uhr</word>
+	<type>f,-en</type>
+	<mean>表，钟</mean>
+	<id>561</id>
+</RECORD>
+<RECORD>
+	<word>Umgang</word>
+	<type>m</type>
+	<mean>交际，交往</mean>
+	<id>562</id>
+</RECORD>
+<RECORD>
+	<word>Umlauf</word>
+	<type>m</type>
+	<mean>运行，运转；流通</mean>
+	<id>563</id>
+</RECORD>
+<RECORD>
+	<word>Umschlag</word>
+	<type>m</type>
+	<mean>骤变，突变</mean>
+	<id>564</id>
+</RECORD>
+<RECORD>
+	<word>Umstand</word>
+	<type>m,-:e</type>
+	<mean>情况，事态</mean>
+	<id>565</id>
+</RECORD>
+<RECORD>
+	<word>Unfall</word>
+	<type>m,-:e</type>
+	<mean>事故</mean>
+	<id>566</id>
+</RECORD>
+<RECORD>
+	<word>Unglück</word>
+	<type>n,-sfaelle</type>
+	<mean>不幸，事故</mean>
+	<id>567</id>
+</RECORD>
+<RECORD>
+	<word>unten</word>
+	<type>adv</type>
+	<mean>下</mean>
+	<id>568</id>
+</RECORD>
+<RECORD>
+	<word>Vater</word>
+	<type>m,-:</type>
+	<mean>父亲</mean>
+	<id>569</id>
+</RECORD>
+<RECORD>
+	<word>Verbindung</word>
+	<type>f,-en</type>
+	<mean>联系</mean>
+	<id>570</id>
+</RECORD>
+<RECORD>
+	<word>Verkehr</word>
+	<type>m</type>
+	<mean>交通；往来</mean>
+	<id>571</id>
+</RECORD>
+<RECORD>
+	<word>viel</word>
+	<type>num</type>
+	<mean>许多</mean>
+	<id>572</id>
+</RECORD>
+<RECORD>
+	<word>Volk</word>
+	<type>n,-:er</type>
+	<mean>人民；民族；民间</mean>
+	<id>573</id>
+</RECORD>
+<RECORD>
+	<word>voll</word>
+	<type>adj</type>
+	<mean>满的；丰满的</mean>
+	<id>574</id>
+</RECORD>
+<RECORD>
+	<word>Vorschlag</word>
+	<type>m,-:e</type>
+	<mean>建议</mean>
+	<id>575</id>
+</RECORD>
+<RECORD>
+	<word>Wagen</word>
+	<type>m,-</type>
+	<mean>车，车厢，汽车</mean>
+	<id>576</id>
+</RECORD>
+<RECORD>
+	<word>wahr</word>
+	<type>adj</type>
+	<mean>真的</mean>
+	<id>577</id>
+</RECORD>
+<RECORD>
+	<word>Wand</word>
+	<type>f,-:e</type>
+	<mean>壁，墙壁</mean>
+	<id>578</id>
+</RECORD>
+<RECORD>
+	<word>Ware</word>
+	<type>f,-n</type>
+	<mean>商品</mean>
+	<id>579</id>
+</RECORD>
+<RECORD>
+	<word>wartm</word>
+	<type>adj</type>
+	<mean>温暖的，温的</mean>
+	<id>580</id>
+</RECORD>
+<RECORD>
+	<word>Wasser</word>
+	<type>n,-:</type>
+	<mean>水</mean>
+	<id>581</id>
+</RECORD>
+<RECORD>
+	<word>Weg</word>
+	<type>m,-e</type>
+	<mean>路，道路；途径</mean>
+	<id>582</id>
+</RECORD>
+<RECORD>
+	<word>weich</word>
+	<type>adj</type>
+	<mean>软的</mean>
+	<id>583</id>
+</RECORD>
+<RECORD>
+	<word>Wein</word>
+	<type>m,-e</type>
+	<mean>葡萄酒</mean>
+	<id>584</id>
+</RECORD>
+<RECORD>
+	<word>weiβ</word>
+	<type>adj</type>
+	<mean>白色的</mean>
+	<id>585</id>
+</RECORD>
+<RECORD>
+	<word>weit</word>
+	<type>adj</type>
+	<mean>远的；宽的</mean>
+	<id>586</id>
+</RECORD>
+<RECORD>
+	<word>Welt</word>
+	<type>f</type>
+	<mean>世界</mean>
+	<id>587</id>
+</RECORD>
+<RECORD>
+	<word>wert</word>
+	<type>adj</type>
+	<mean>有价值的，值得的</mean>
+	<id>588</id>
+</RECORD>
+<RECORD>
+	<word>West</word>
+	<type>m</type>
+	<mean>Westen</mean>
+	<id>589</id>
+</RECORD>
+<RECORD>
+	<word>Wetter</word>
+	<type>n</type>
+	<mean>天气，气象</mean>
+	<id>590</id>
+</RECORD>
+<RECORD>
+	<word>wichtig</word>
+	<type>adj</type>
+	<mean>重要的</mean>
+	<id>591</id>
+</RECORD>
+<RECORD>
+	<word>Wind</word>
+	<type>m,-e</type>
+	<mean>风</mean>
+	<id>592</id>
+</RECORD>
+<RECORD>
+	<word>Winter</word>
+	<type>m,-</type>
+	<mean>冬季，冬天</mean>
+	<id>593</id>
+</RECORD>
+<RECORD>
+	<word>wirklich</word>
+	<type>adj</type>
+	<mean>真正的；实际的；现实的</mean>
+	<id>594</id>
+</RECORD>
+<RECORD>
+	<word>Wirkung</word>
+	<type>f,-en</type>
+	<mean>作用，效果；影响</mean>
+	<id>595</id>
+</RECORD>
+<RECORD>
+	<word>Wirtschaff</word>
+	<type>f,-en</type>
+	<mean>经济</mean>
+	<id>596</id>
+</RECORD>
+<RECORD>
+	<word>Wissenschaft</word>
+	<type>f,-en</type>
+	<mean>科学</mean>
+	<id>597</id>
+</RECORD>
+<RECORD>
+	<word>Woche</word>
+	<type>f,-n</type>
+	<mean>星期，周</mean>
+	<id>598</id>
+</RECORD>
+<RECORD>
+	<word>Wohnung</word>
+	<type>f,-en</type>
+	<mean>住宅，住房</mean>
+	<id>599</id>
+</RECORD>
+<RECORD>
+	<word>Wolke</word>
+	<type>f,-n</type>
+	<mean>云</mean>
+	<id>600</id>
+</RECORD>
+<RECORD>
+	<word>Wort</word>
+	<type>n,-:er</type>
+	<mean>单词</mean>
+	<id>601</id>
+</RECORD>
+<RECORD>
+	<word>Wucher</word>
+	<type>m</type>
+	<mean>重利，高利，厚利，暴利</mean>
+	<id>602</id>
+</RECORD>
+<RECORD>
+	<word>Wunsch</word>
+	<type>m,-:e</type>
+	<mean>愿望</mean>
+	<id>603</id>
+</RECORD>
+<RECORD>
+	<word>wüst</word>
+	<type>adj</type>
+	<mean>荒凉的；混乱的；粗暴的，放荡的</mean>
+	<id>604</id>
+</RECORD>
+<RECORD>
+	<word>Wut</word>
+	<type>f</type>
+	<mean>大怒，愤怒</mean>
+	<id>605</id>
+</RECORD>
+<RECORD>
+	<word>Zahl</word>
+	<type>f,-en</type>
+	<mean>数字，数目</mean>
+	<id>606</id>
+</RECORD>
+<RECORD>
+	<word>Zahn</word>
+	<type>m,-e</type>
+	<mean>齿，牙</mean>
+	<id>607</id>
+</RECORD>
+<RECORD>
+	<word>Zeit</word>
+	<type>f,-en</type>
+	<mean>时间；时代</mean>
+	<id>608</id>
+</RECORD>
+<RECORD>
+	<word>Zeitung</word>
+	<type>f,-en</type>
+	<mean>报纸</mean>
+	<id>609</id>
+</RECORD>
+<RECORD>
+	<word></word>
+	<type></type>
+	<mean></mean>
+	<id>610</id>
+</RECORD>
+<RECORD>
+	<word>Ziel</word>
+	<type>n,-e</type>
+	<mean>目的，目标</mean>
+	<id>611</id>
+</RECORD>
+<RECORD>
+	<word>Zimmer</word>
+	<type>n,-</type>
+	<mean>房间，室</mean>
+	<id>612</id>
+</RECORD>
+<RECORD>
+	<word>Zink</word>
+	<type>n(m)</type>
+	<mean>锌</mean>
+	<id>613</id>
+</RECORD>
+<RECORD>
+	<word>Zirkel</word>
+	<type>m,-</type>
+	<mean>圈，圆；团体</mean>
+	<id>614</id>
+</RECORD>
+<RECORD>
+	<word>zirkular</word>
+	<type>adj</type>
+	<mean>圆的，圆形的；循环的</mean>
+	<id>615</id>
+</RECORD>
+<RECORD>
+	<word>Zoll</word>
+	<type>m,-e</type>
+	<mean>关税；海关；英寸</mean>
+	<id>616</id>
+</RECORD>
+<RECORD>
+	<word>Zoo</word>
+	<type>m,-s</type>
+	<mean>动物园</mean>
+	<id>617</id>
+</RECORD>
+<RECORD>
+	<word>Zucker</word>
+	<type>m</type>
+	<mean>糖</mean>
+	<id>618</id>
+</RECORD>
+<RECORD>
+	<word>Zug</word>
+	<type>m,-:e</type>
+	<mean>火车；流动；拉力</mean>
+	<id>619</id>
+</RECORD>
+<RECORD>
+	<word>Zweifel</word>
+	<type>m,-</type>
+	<mean>疑惑，怀疑</mean>
+	<id>620</id>
+</RECORD>
+<RECORD>
+	<word>Zweig</word>
+	<type>m,-e</type>
+	<mean>细枝；分支机构；分部；支线</mean>
+	<id>621</id>
+</RECORD>
+<RECORD>
+	<word>Zwerg</word>
+	<type>m,-e</type>
+	<mean>侏儒，矮子</mean>
+	<id>622</id>
+</RECORD>
+<RECORD>
+	<word>◎基础动词150</word>
+	<type></type>
+	<mean></mean>
+	<id>623</id>
+</RECORD>
+<RECORD>
+	<word>achten</word>
+	<type>vi</type>
+	<mean>注意；</mean>
+	<id>624</id>
+</RECORD>
+<RECORD>
+	<word>aendern</word>
+	<type>vt</type>
+	<mean>改变</mean>
+	<id>625</id>
+</RECORD>
+<RECORD>
+	<word>antworten</word>
+	<type>vi</type>
+	<mean>回答</mean>
+	<id>626</id>
+</RECORD>
+<RECORD>
+	<word>arbeiten</word>
+	<type>vi</type>
+	<mean>工作，劳动</mean>
+	<id>627</id>
+</RECORD>
+<RECORD>
+	<word>atmen</word>
+	<type>vt,vi</type>
+	<mean>呼吸</mean>
+	<id>628</id>
+</RECORD>
+<RECORD>
+	<word>baden</word>
+	<type>vt,vi</type>
+	<mean>洗澡</mean>
+	<id>629</id>
+</RECORD>
+<RECORD>
+	<word>bauen</word>
+	<type>vt</type>
+	<mean>建造，建筑</mean>
+	<id>630</id>
+</RECORD>
+<RECORD>
+	<word>*beginnen</word>
+	<type>vi,vt</type>
+	<mean>开始</mean>
+	<id>631</id>
+</RECORD>
+<RECORD>
+	<word>bilden</word>
+	<type>vt</type>
+	<mean>构成；培养，教育</mean>
+	<id>632</id>
+</RECORD>
+<RECORD>
+	<word>*binden</word>
+	<type>vt</type>
+	<mean>捆，扎，结</mean>
+	<id>633</id>
+</RECORD>
+<RECORD>
+	<word>*bitten</word>
+	<type>vt,vi</type>
+	<mean>请，请求</mean>
+	<id>634</id>
+</RECORD>
+<RECORD>
+	<word>*bleiben</word>
+	<type>vi(s)</type>
+	<mean>留在，依然是，保留</mean>
+	<id>635</id>
+</RECORD>
+<RECORD>
+	<word>*braten</word>
+	<type>vt</type>
+	<mean>炸，煎，烤，烘</mean>
+	<id>636</id>
+</RECORD>
+<RECORD>
+	<word>brautchen</word>
+	<type>vt</type>
+	<mean>需要，使用</mean>
+	<id>637</id>
+</RECORD>
+<RECORD>
+	<word>*brechen</word>
+	<type>vt,vi</type>
+	<mean>打碎，折断</mean>
+	<id>638</id>
+</RECORD>
+<RECORD>
+	<word>*brennen</word>
+	<type>vi,vt</type>
+	<mean>烧，燃烧</mean>
+	<id>639</id>
+</RECORD>
+<RECORD>
+	<word>breiten</word>
+	<type>vt</type>
+	<mean>摊开，展开</mean>
+	<id>640</id>
+</RECORD>
+<RECORD>
+	<word>*bringen</word>
+	<type>vt</type>
+	<mean>拿来，带来</mean>
+	<id>641</id>
+</RECORD>
+<RECORD>
+	<word>danken</word>
+	<type>vi</type>
+	<mean>感谢</mean>
+	<id>642</id>
+</RECORD>
+<RECORD>
+	<word>decken</word>
+	<type>vt</type>
+	<mean>盖，覆盖，铺</mean>
+	<id>643</id>
+</RECORD>
+<RECORD>
+	<word>*denken</word>
+	<type>vi,vt</type>
+	<mean>想，认为，猜想</mean>
+	<id>644</id>
+</RECORD>
+<RECORD>
+	<word>draengen</word>
+	<type>vt,vi</type>
+	<mean>挤，拥挤</mean>
+	<id>645</id>
+</RECORD>
+<RECORD>
+	<word>dienen</word>
+	<type>vt</type>
+	<mean>服务，效劳</mean>
+	<id>646</id>
+</RECORD>
+<RECORD>
+	<word>drehen</word>
+	<type>vt,vi</type>
+	<mean>旋转，转动</mean>
+	<id>647</id>
+</RECORD>
+<RECORD>
+	<word>drücken</word>
+	<type>vt</type>
+	<mean>按，压，挤压</mean>
+	<id>648</id>
+</RECORD>
+<RECORD>
+	<word>eilen</word>
+	<type>vi(s)</type>
+	<mean>赶快，赶紧</mean>
+	<id>649</id>
+</RECORD>
+<RECORD>
+	<word>enden</word>
+	<type>vi,vt</type>
+	<mean>结束</mean>
+	<id>650</id>
+</RECORD>
+<RECORD>
+	<word>erbauen</word>
+	<type>vt</type>
+	<mean>建造，建成</mean>
+	<id>651</id>
+</RECORD>
+<RECORD>
+	<word>*essen</word>
+	<type>vt,vi</type>
+	<mean>吃</mean>
+	<id>652</id>
+</RECORD>
+<RECORD>
+	<word>*fahren</word>
+	<type>vi(s)</type>
+	<mean>行驶；乘坐(车、船)</mean>
+	<id>653</id>
+</RECORD>
+<RECORD>
+	<word>*fallen</word>
+	<type>vi(s)</type>
+	<mean>坠落；跌倒</mean>
+	<id>654</id>
+</RECORD>
+<RECORD>
+	<word>*fangen</word>
+	<type>vt</type>
+	<mean>抓住，捕获</mean>
+	<id>655</id>
+</RECORD>
+<RECORD>
+	<word>fassen</word>
+	<type>vt</type>
+	<mean>握住；理解</mean>
+	<id>656</id>
+</RECORD>
+<RECORD>
+	<word>fehlen</word>
+	<type>vi</type>
+	<mean>缺席；缺乏</mean>
+	<id>657</id>
+</RECORD>
+<RECORD>
+	<word>feiern</word>
+	<type>vt</type>
+	<mean>庆祝；</mean>
+	<id>658</id>
+</RECORD>
+<RECORD>
+	<word>*finden</word>
+	<type>vt</type>
+	<mean>找到；认为</mean>
+	<id>659</id>
+</RECORD>
+<RECORD>
+	<word>*fliegen</word>
+	<type>vi(s)</type>
+	<mean>飞</mean>
+	<id>660</id>
+</RECORD>
+<RECORD>
+	<word>*flieβen</word>
+	<type>vi(s)</type>
+	<mean>流，淌</mean>
+	<id>661</id>
+</RECORD>
+<RECORD>
+	<word>folgen</word>
+	<type>vi(s)</type>
+	<mean>跟随</mean>
+	<id>662</id>
+</RECORD>
+<RECORD>
+	<word>fordern</word>
+	<type>vt</type>
+	<mean>索取，要求</mean>
+	<id>663</id>
+</RECORD>
+<RECORD>
+	<word>fragen</word>
+	<type>vt</type>
+	<mean>问</mean>
+	<id>664</id>
+</RECORD>
+<RECORD>
+	<word>freuen</word>
+	<type>vt</type>
+	<mean>使高兴；</mean>
+	<id>665</id>
+</RECORD>
+<RECORD>
+	<word>fühlen</word>
+	<type>vt</type>
+	<mean>感到；</mean>
+	<id>666</id>
+</RECORD>
+<RECORD>
+	<word>führen</word>
+	<type>vt</type>
+	<mean>带领；</mean>
+	<id>667</id>
+</RECORD>
+<RECORD>
+	<word>füllen</word>
+	<type>vt</type>
+	<mean>装满，填满</mean>
+	<id>668</id>
+</RECORD>
+<RECORD>
+	<word>*geben</word>
+	<type>vt</type>
+	<mean>给</mean>
+	<id>669</id>
+</RECORD>
+<RECORD>
+	<word>*geben</word>
+	<type>vi(s)</type>
+	<mean>走</mean>
+	<id>670</id>
+</RECORD>
+<RECORD>
+	<word>*gewinnen</word>
+	<type>vt</type>
+	<mean>赢</mean>
+	<id>671</id>
+</RECORD>
+<RECORD>
+	<word>glaenzen</word>
+	<type>vi</type>
+	<mean>发亮，发光，闪光</mean>
+	<id>672</id>
+</RECORD>
+<RECORD>
+	<word>glauben</word>
+	<type>vt</type>
+	<mean>认为</mean>
+	<id>673</id>
+</RECORD>
+<RECORD>
+	<word>*graben</word>
+	<type>vt</type>
+	<mean>挖，掘，挖土，掘土</mean>
+	<id>674</id>
+</RECORD>
+<RECORD>
+	<word>*greifen</word>
+	<type>vt,vi</type>
+	<mean>抓</mean>
+	<id>675</id>
+</RECORD>
+<RECORD>
+	<word>grüβen</word>
+	<type>vt</type>
+	<mean>问候</mean>
+	<id>676</id>
+</RECORD>
+<RECORD>
+	<word>*haben</word>
+	<type>vt</type>
+	<mean>有</mean>
+	<id>677</id>
+</RECORD>
+<RECORD>
+	<word>haken</word>
+	<type>vt</type>
+	<mean>钩，钩住，钩紧</mean>
+	<id>678</id>
+</RECORD>
+<RECORD>
+	<word>*halten</word>
+	<type>vt</type>
+	<mean>拿着，握着；</mean>
+	<id>679</id>
+</RECORD>
+<RECORD>
+	<word>*haengen</word>
+	<type>vt,vi</type>
+	<mean>挂</mean>
+	<id>680</id>
+</RECORD>
+<RECORD>
+	<word>harren</word>
+	<type>vi</type>
+	<mean>期待，静候</mean>
+	<id>681</id>
+</RECORD>
+<RECORD>
+	<word>*heben</word>
+	<type>vt</type>
+	<mean>举起；提高；挖掘</mean>
+	<id>682</id>
+</RECORD>
+<RECORD>
+	<word>*helfen</word>
+	<type>vi</type>
+	<mean>帮助</mean>
+	<id>683</id>
+</RECORD>
+<RECORD>
+	<word>hoffen</word>
+	<type>vt,vi</type>
+	<mean>希望，盼望，渴望</mean>
+	<id>684</id>
+</RECORD>
+<RECORD>
+	<word>holen</word>
+	<type>vt</type>
+	<mean>去取来</mean>
+	<id>685</id>
+</RECORD>
+<RECORD>
+	<word>hoeren</word>
+	<type>vt,vi</type>
+	<mean>听，听见</mean>
+	<id>686</id>
+</RECORD>
+<RECORD>
+	<word>irren</word>
+	<type>sich</type>
+	<mean>弄错，搞错；迷路</mean>
+	<id>687</id>
+</RECORD>
+<RECORD>
+	<word>kaufen</word>
+	<type>vt</type>
+	<mean>买，购买</mean>
+	<id>688</id>
+</RECORD>
+<RECORD>
+	<word>*kennen</word>
+	<type>vt</type>
+	<mean>认识，知道</mean>
+	<id>689</id>
+</RECORD>
+<RECORD>
+	<word>kleben</word>
+	<type>vt,vi</type>
+	<mean>粘，粘贴</mean>
+	<id>690</id>
+</RECORD>
+<RECORD>
+	<word>kleiden</word>
+	<type>vt</type>
+	<mean>给…穿衣；</mean>
+	<id>691</id>
+</RECORD>
+<RECORD>
+	<word>kochen</word>
+	<type>vi,vt</type>
+	<mean>烹调，烧，煮</mean>
+	<id>692</id>
+</RECORD>
+<RECORD>
+	<word>*kommen</word>
+	<type>vi(s)</type>
+	<mean>来</mean>
+	<id>693</id>
+</RECORD>
+<RECORD>
+	<word>*koennen</word>
+	<type>vt,vi</type>
+	<mean>能，能够；会，懂</mean>
+	<id>694</id>
+</RECORD>
+<RECORD>
+	<word>kosten</word>
+	<type>vt</type>
+	<mean>花费；品尝</mean>
+	<id>695</id>
+</RECORD>
+<RECORD>
+	<word>lachen</word>
+	<type>vi</type>
+	<mean>笑</mean>
+	<id>696</id>
+</RECORD>
+<RECORD>
+	<word>*laden</word>
+	<type>vt</type>
+	<mean>装，装载</mean>
+	<id>697</id>
+</RECORD>
+<RECORD>
+	<word>*lassen</word>
+	<type>vt,vi</type>
+	<mean>让</mean>
+	<id>698</id>
+</RECORD>
+<RECORD>
+	<word></word>
+	<type></type>
+	<mean></mean>
+	<id>699</id>
+</RECORD>
+<RECORD>
+	<word>*laufen</word>
+	<type>vi(s)</type>
+	<mean>跑</mean>
+	<id>700</id>
+</RECORD>
+<RECORD>
+	<word>leben</word>
+	<type>vi</type>
+	<mean>生活</mean>
+	<id>701</id>
+</RECORD>
+<RECORD>
+	<word>logen</word>
+	<type>vt</type>
+	<mean>横放，平放</mean>
+	<id>702</id>
+</RECORD>
+<RECORD>
+	<word>lehren</word>
+	<type>vt</type>
+	<mean>教</mean>
+	<id>703</id>
+</RECORD>
+<RECORD>
+	<word>lernen</word>
+	<type>vt,vi</type>
+	<mean>学习</mean>
+	<id>704</id>
+</RECORD>
+<RECORD>
+	<word>*lesen</word>
+	<type>vt,vi</type>
+	<mean>读，阅读</mean>
+	<id>705</id>
+</RECORD>
+<RECORD>
+	<word>lieben</word>
+	<type>vt</type>
+	<mean>爱，热爱</mean>
+	<id>706</id>
+</RECORD>
+<RECORD>
+	<word>liegen</word>
+	<type>vi</type>
+	<mean>平放；躺</mean>
+	<id>707</id>
+</RECORD>
+<RECORD>
+	<word>liefern</word>
+	<type>vt</type>
+	<mean>供，提供，供应</mean>
+	<id>708</id>
+</RECORD>
+<RECORD>
+	<word>loesen</word>
+	<type>vt</type>
+	<mean>解开；解放</mean>
+	<id>709</id>
+</RECORD>
+<RECORD>
+	<word>machen</word>
+	<type>vt</type>
+	<mean>做，作，从事</mean>
+	<id>710</id>
+</RECORD>
+<RECORD>
+	<word>*nehmen</word>
+	<type>vt</type>
+	<mean>拿，取</mean>
+	<id>711</id>
+</RECORD>
+<RECORD>
+	<word>nützen</word>
+	<type>vi</type>
+	<mean>有益，有用</mean>
+	<id>712</id>
+</RECORD>
+<RECORD>
+	<word>mieten</word>
+	<type>vt</type>
+	<mean>租用</mean>
+	<id>713</id>
+</RECORD>
+<RECORD>
+	<word>oeffnen</word>
+	<type>vt</type>
+	<mean>开，打开</mean>
+	<id>714</id>
+</RECORD>
+<RECORD>
+	<word>packen</word>
+	<type>vt</type>
+	<mean>抓；包装</mean>
+	<id>715</id>
+</RECORD>
+<RECORD>
+	<word>passen</word>
+	<type>vi</type>
+	<mean>合适，适合</mean>
+	<id>716</id>
+</RECORD>
+<RECORD>
+	<word>pflegen</word>
+	<type>vt</type>
+	<mean>照料，护理，保养</mean>
+	<id>717</id>
+</RECORD>
+<RECORD>
+	<word>rauchen</word>
+	<type>vt,vi</type>
+	<mean>吸烟；冒烟</mean>
+	<id>718</id>
+</RECORD>
+<RECORD>
+	<word>rechnen</word>
+	<type>vi,vt</type>
+	<mean>计算；指望</mean>
+	<id>719</id>
+</RECORD>
+<RECORD>
+	<word>reden</word>
+	<type>vi,vt</type>
+	<mean>说，讲；演讲</mean>
+	<id>720</id>
+</RECORD>
+<RECORD>
+	<word>reisen</word>
+	<type>vi(s)</type>
+	<mean>旅行</mean>
+	<id>721</id>
+</RECORD>
+<RECORD>
+	<word>*reiβen</word>
+	<type>vt,vi</type>
+	<mean>撕，扯</mean>
+	<id>722</id>
+</RECORD>
+<RECORD>
+	<word>richten</word>
+	<type>vt,vi</type>
+	<mean>竖起；指向；调整，校准</mean>
+	<id>723</id>
+</RECORD>
+<RECORD>
+	<word>*rufen</word>
+	<type>vt,vi</type>
+	<mean>喊，叫，呼</mean>
+	<id>724</id>
+</RECORD>
+<RECORD>
+	<word>sagen</word>
+	<type>vt,vi</type>
+	<mean>说</mean>
+	<id>725</id>
+</RECORD>
+<RECORD>
+	<word>schaffen</word>
+	<type>vt,vi</type>
+	<mean>做，工作；弄到</mean>
+	<id>726</id>
+</RECORD>
+<RECORD>
+	<word>schalten</word>
+	<type>vt</type>
+	<mean>接通，开电门</mean>
+	<id>727</id>
+</RECORD>
+<RECORD>
+	<word>schaetzen</word>
+	<type>vt</type>
+	<mean>评价，估计；尊重，重视</mean>
+	<id>728</id>
+</RECORD>
+<RECORD>
+	<word>schenken</word>
+	<type>vt</type>
+	<mean>赠送，给予</mean>
+	<id>729</id>
+</RECORD>
+<RECORD>
+	<word>schicken</word>
+	<type>vt</type>
+	<mean>寄；派</mean>
+	<id>730</id>
+</RECORD>
+<RECORD>
+	<word>*schieben</word>
+	<type>vt</type>
+	<mean>推</mean>
+	<id>731</id>
+</RECORD>
+<RECORD>
+	<word>*schieβen</word>
+	<type>vi,vt</type>
+	<mean>开枪，射</mean>
+	<id>732</id>
+</RECORD>
+<RECORD>
+	<word>*schlafen</word>
+	<type>vi</type>
+	<mean>睡，睡觉</mean>
+	<id>733</id>
+</RECORD>
+<RECORD>
+	<word>*schlagen</word>
+	<type>vt</type>
+	<mean>打，敲，拍</mean>
+	<id>734</id>
+</RECORD>
+<RECORD>
+	<word>*schlieβen</word>
+	<type>vt,vi</type>
+	<mean>关上，锁上；结束</mean>
+	<id>735</id>
+</RECORD>
+<RECORD>
+	<word>*schneiden</word>
+	<type>vt,vi</type>
+	<mean>剪，切</mean>
+	<id>736</id>
+</RECORD>
+<RECORD>
+	<word>*schreiben</word>
+	<type>vt,vi</type>
+	<mean>写</mean>
+	<id>737</id>
+</RECORD>
+<RECORD>
+	<word>schützen</word>
+	<type>vt</type>
+	<mean>保护</mean>
+	<id>738</id>
+</RECORD>
+<RECORD>
+	<word>*sehen</word>
+	<type>vt,vi</type>
+	<mean>看，看见</mean>
+	<id>739</id>
+</RECORD>
+<RECORD>
+	<word>*sein</word>
+	<type>vi(s)</type>
+	<mean>是</mean>
+	<id>740</id>
+</RECORD>
+<RECORD>
+	<word>*senden</word>
+	<type>vt</type>
+	<mean>寄；播放</mean>
+	<id>741</id>
+</RECORD>
+<RECORD>
+	<word>setzen</word>
+	<type>vt</type>
+	<mean>放；</mean>
+	<id>742</id>
+</RECORD>
+<RECORD>
+	<word>*sitzen</word>
+	<type>vi</type>
+	<mean>坐，坐着</mean>
+	<id>743</id>
+</RECORD>
+<RECORD>
+	<word>sparen</word>
+	<type>vt,vi</type>
+	<mean>节省，节约</mean>
+	<id>744</id>
+</RECORD>
+<RECORD>
+	<word>spielen</word>
+	<type>vt,vi</type>
+	<mean>玩；比赛；赌博；表演</mean>
+	<id>745</id>
+</RECORD>
+<RECORD>
+	<word>*sprechen</word>
+	<type>vi,vt</type>
+	<mean>说话，谈话</mean>
+	<id>746</id>
+</RECORD>
+<RECORD>
+	<word>*springen</word>
+	<type>vi(s)</type>
+	<mean>跳，跳跃</mean>
+	<id>747</id>
+</RECORD>
+<RECORD>
+	<word>stecken</word>
+	<type>vt</type>
+	<mean>插入</mean>
+	<id>748</id>
+</RECORD>
+<RECORD>
+	<word>*stehen</word>
+	<type>vi</type>
+	<mean>站立，立着</mean>
+	<id>749</id>
+</RECORD>
+<RECORD>
+	<word>*steigen</word>
+	<type>vi(s)</type>
+	<mean>登上，攀登</mean>
+	<id>750</id>
+</RECORD>
+<RECORD>
+	<word>stellen</word>
+	<type>vt</type>
+	<mean>竖放；调节</mean>
+	<id>751</id>
+</RECORD>
+<RECORD>
+	<word>stoeren</word>
+	<type>vt</type>
+	<mean>干扰，打扰</mean>
+	<id>752</id>
+</RECORD>
+<RECORD>
+	<word>*stoβen</word>
+	<type>vt,vi</type>
+	<mean>推，撞，碰</mean>
+	<id>753</id>
+</RECORD>
+<RECORD>
+	<word>suchen</word>
+	<type>vt</type>
+	<mean>寻找，探索</mean>
+	<id>754</id>
+</RECORD>
+<RECORD>
+	<word>teilen</word>
+	<type>vt</type>
+	<mean>分，平分，划分，瓜分</mean>
+	<id>755</id>
+</RECORD>
+<RECORD>
+	<word>*tragen</word>
+	<type>vt</type>
+	<mean>携带，挑，提，举，承担</mean>
+	<id>756</id>
+</RECORD>
+<RECORD>
+	<word>treffen</word>
+	<type>vt,vi</type>
+	<mean>击中；遇见</mean>
+	<id>757</id>
+</RECORD>
+<RECORD>
+	<word>*treiben</word>
+	<type>vt,vi</type>
+	<mean>赶，驱赶</mean>
+	<id>758</id>
+</RECORD>
+<RECORD>
+	<word>*treten</word>
+	<type>vi(s),vt</type>
+	<mean>踩，踏，踢；走</mean>
+	<id>759</id>
+</RECORD>
+<RECORD>
+	<word>*trinken</word>
+	<type>vt,vi</type>
+	<mean>喝，饮</mean>
+	<id>760</id>
+</RECORD>
+<RECORD>
+	<word>*tun</word>
+	<type>vt</type>
+	<mean>做</mean>
+	<id>761</id>
+</RECORD>
+<RECORD>
+	<word>üben</word>
+	<type>vt,vi</type>
+	<mean>练习，训练</mean>
+	<id>762</id>
+</RECORD>
+<RECORD>
+	<word>*verlieren</word>
+	<type>vt,vi</type>
+	<mean>输；丢失</mean>
+	<id>763</id>
+</RECORD>
+<RECORD>
+	<word>warten</word>
+	<type>vi</type>
+	<mean>等，等待</mean>
+	<id>764</id>
+</RECORD>
+<RECORD>
+	<word>*waschen</word>
+	<type>vt</type>
+	<mean>洗</mean>
+	<id>765</id>
+</RECORD>
+<RECORD>
+	<word>weinen</word>
+	<type>vi</type>
+	<mean>哭</mean>
+	<id>766</id>
+</RECORD>
+<RECORD>
+	<word>*weisen</word>
+	<type>vt</type>
+	<mean>指示，指点，引导</mean>
+	<id>767</id>
+</RECORD>
+<RECORD>
+	<word>*wenden</word>
+	<type>vt</type>
+	<mean>翻转；花费(精力等)；</mean>
+	<id>768</id>
+</RECORD>
+<RECORD>
+	<word>*werfen</word>
+	<type>vt,vi</type>
+	<mean>抛，投，扔</mean>
+	<id>769</id>
+</RECORD>
+<RECORD>
+	<word>*wissen</word>
+	<type>vt</type>
+	<mean>知道</mean>
+	<id>770</id>
+</RECORD>
+<RECORD>
+	<word>wohnen</word>
+	<type>vi</type>
+	<mean>住，居住</mean>
+	<id>771</id>
+</RECORD>
+<RECORD>
+	<word>wünschen</word>
+	<type>vt</type>
+	<mean>愿，祝愿，希望</mean>
+	<id>772</id>
+</RECORD>
+<RECORD>
+	<word>zahlen</word>
+	<type>vt,vi</type>
+	<mean>付，支付</mean>
+	<id>773</id>
+</RECORD>
+<RECORD>
+	<word>zeigen</word>
+	<type>vt,vi</type>
+	<mean>出示，显示，表明</mean>
+	<id>774</id>
+</RECORD>
+<RECORD>
+	<word>*ziehen</word>
+	<type>vt,vi</type>
+	<mean>拉，拖，牵</mean>
+	<id>775</id>
+</RECORD>
+</RECORDS>

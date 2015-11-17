@@ -1,0 +1,73 @@
+/*
+	Photon by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 14pt;
+	}
+	
+	#top {
+		position:absolute; top:1.2em; left:2%; height:10%;overflow: hidden; white-space: nowrap; text-overflow:ellipsis; width:60%; text-align:left;
+	}
+
+	h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
+		display: none;
+	}
+
+/* List */
+ul.actions li {
+			display: block;
+			padding: 1em 0 0 0;
+			text-align: center;
+			width: 100%;
+		}
+		
+		ul.actions li > * {
+				margin: 0 !important;
+				width: 100%;
+			}
+			
+	ul.major-icons li {
+		padding: 2em;
+	}
+
+		ul.major-icons li .icon {
+			height: 8em;
+			line-height: 8em;
+			width: 8em;
+		}
+
+/* Main */
+
+	.main {
+		padding: 4em 0 2em 0;
+	}
+
+		.main.style2 {
+			background-attachment: scroll;
+		}
+
+/* Header */
+
+	#header {
+		padding: 5em 5em 5em 5em;
+		background-attachment: scroll;
+	}
+
+		#header br {
+			display: inline;
+		}
+
+/* Footer */
+
+	#footer {
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0em;
+	background-attachment: scroll;
+	padding-top: 1em;
+	}
